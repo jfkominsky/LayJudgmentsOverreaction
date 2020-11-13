@@ -9,14 +9,14 @@ The study involves a 2 (Intervention: Counterfactual vs. Outcome) x 6 (Valence: 
 
 ## Planned sample size and stopping rule
 
-We plan to recruit 360 participants from Prolific Academic, evenly split across all 12 between-subjects conditions, so 30 per condition. We include a simple reading comprehension question for each scenario. Any participant who fails to answer either of these questions correctly will be removed and replaced by subsequent recruitment until the target sample size is reached.
+We plan to recruit 480 participants from Prolific Academic, evenly split across all 12 between-subjects conditions, so 40 per condition. We include a simple reading comprehension question for each scenario. Any participant who fails to answer either of these questions correctly will be removed and replaced by subsequent recruitment until the target sample size is reached.
 
 ## Planned analyses and power analysis 
 
 Each participant reads 2 scenarios in random order. We will first conduct separate analyses of the t1 and t2 ratings that include scenario as an additional factor. The t1 rating analysis will only look at scenario (as valence is only introduced after the t1 rating), while the t2 rating will include both between-subjects factors and scenario. If these analyses reveal any effect or interactions with scenario, we will conduct all further analyses separately for each scenario. If there are no interactions, we will collapse across scenario for all further analyses. Based on Experiment 1, we expect the former.
 
-We conducted a G* power analysis of a mixed-model design with 12 factors and 2 measurements, which indicated 80% power to detect an interaction with Cohen's *f* effect-size of .19 or greater, corresponding to a medium-sized effect.
+We conducted a G* power analysis of a mixed-model design with 12 factors and 2 measurements, which indicated 80% power to detect an interaction with Cohen's *f* effect-size of .16 or greater, corresponding to a small-to-medium-sized effect.
 
 There will be three primary analyses. First, t2 ratings will be analyzed in a 2x6 ANOVA with all both between-subjects factors. The second analysis will break the Valence factor into Direction (Good vs. Bad) and Realism (Slightly, Realistic, Unrealistic), to determine if those factors independently affect ratings or interact independently with Intervention. The third analysis will be whichever of the first two is more informative, but using difference scores, t2-t1.
 
-The factorial ANOVA analyses will have 80% power to detect an effect or interaction with Cohen's *f* effect-size of .19 or greater.
+The factorial ANOVA analyses will have 80% power to detect an effect or interaction with Cohen's *f* effect-size of .16 or greater.
