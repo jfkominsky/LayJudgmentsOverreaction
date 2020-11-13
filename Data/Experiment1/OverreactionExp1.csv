@@ -1,0 +1,475 @@
+﻿ResponseId,Risk,Outcome,Causal,RandOrder,age,gender,race/eth,DamPre_1,DamPost_1,DRiskCheck,DOutcomeCheck,DCauseExploratory,FirePre_1,FirePost_1,FireRiskCheck,FireOutcomeCheck,FireCauseExp,DamGNG,FireGNG,OverallGNG,DamCauseMatch,FireCauseMatch,FireOutcome2
+R_322Q8dva1jzAbxp,High,Good,Causal,FL_12,20,Male,Hispanic,54,50,1,1,Yes,65,61,1,1,Not sure,1,1,1,1,0,1
+R_PNbpPnmaZO64cNz,High,Bad,Causal,FL_14,37,Male,Hispanic,50,45,1,1,No,51,31,1,1,No,1,1,1,0,0,1
+R_1ptmqUweKybgwAU,Low,Good,Causal,FL_8,42,Male,"White, not of Hispanic origin",91,50,1,1,Yes,91,50,1,1,Yes,1,1,1,1,1,1
+R_3rS3HczfWZu6rbt,Low,Good,NC,FL_9,19,Female,Hispanic,50,71,0,1,Not sure,18,11,0,0,Not sure,0,0,0,0,0,0
+R_1lnjbAvnWYgx5zR,High,Good,NC,FL_13,37,Male,Asian/ Pacific Islander,81,52,1,1,Yes,77,51,1,1,Yes,1,1,1,0,0,1
+R_1ImIHC6ck1IbP2m,Low,Bad,Causal,FL_10,53,Female,"White, not of Hispanic origin",100,100,1,1,Yes,100,100,1,1,No,1,1,1,1,0,1
+R_O7h3IIMGd98jFbr,Low,Bad,NC,FL_11,44,Female,Hispanic,30,28,1,1,No,18,20,0,1,No,1,0,0,1,1,1
+R_zYE9OI5eGHSMqkN,Low,Bad,Causal,FL_10,26,Female,"White, not of Hispanic origin",87,100,1,1,Yes,58,27,0,1,Not sure,1,0,0,1,0,1
+R_1hMTwMMXkER06OL,Low,Bad,NC,FL_11,25,Male,Black/ African American,81,48,1,1,No,92,100,0,1,No,1,0,0,1,1,1
+R_3fcR4aTNCpN49yZ,High,Bad,NC,FL_15,58,Male,"White, not of Hispanic origin",55,50,1,1,No,95,95,1,1,No,1,1,1,1,1,1
+R_3dXj6cB6pKkN3se,Low,Good,Causal,FL_8,28,Male,"American Indian/ Alaska Native,White, not of Hispanic origin",69,73,0,0,Yes,68,75,1,1,Yes,0,1,0,1,1,1
+R_bIVDQuaoar1xisV,Low,Good,NC,FL_9,50,Female,"White, not of Hispanic origin",81,87,1,1,Not sure,88,93,1,1,No,1,1,1,0,1,1
+R_5iFbo0QlwhYti3T,High,Good,Causal,FL_12,37,Female,"White, not of Hispanic origin",50,51,1,1,Yes,70,70,1,1,Not sure,1,1,1,1,0,1
+R_1IzJoW3fmRDEKUp,High,Good,NC,FL_13,55,Male,"White, not of Hispanic origin",55,51,1,1,No,55,50,1,1,Not sure,1,1,1,1,0,1
+R_2cknAKXrrw0x8sr,High,Bad,NC,FL_15,31,Nonbinary,"White, not of Hispanic origin",49,50,1,1,No,69,80,1,1,No,1,1,1,1,1,1
+R_2e59bpgov7HaLVe,Low,Good,NC,FL_9,21,Female,Hispanic,97,100,1,1,No,100,74,1,1,Not sure,1,1,1,1,0,1
+R_123YbTJTbufr782,High,Bad,Causal,FL_14,34,Male,"White, not of Hispanic origin",57,4,1,1,Yes,42,8,1,1,Yes,1,1,1,1,1,1
+R_2q2xN1XF0mpOExn,High,Good,NC,FL_13,21,Male,"White, not of Hispanic origin",71,79,1,1,Not sure,77,77,1,1,Yes,1,1,1,0,0,1
+R_2WMsMENT3jWaxqa,Low,Bad,NC,FL_11,25,Female,"White, not of Hispanic origin",93,94,0,1,Not sure,82,2,0,1,No,0,0,0,0,1,1
+R_4MzlaeCj4wrkUBb,Low,Good,Causal,FL_8,25,Male,"White, not of Hispanic origin",92,50,1,1,Yes,100,80,0,1,No,1,0,0,1,0,1
+R_006rmJGDPqr5bA5,Low,Good,NC,FL_9,38,Male,"White, not of Hispanic origin",81,72,0,1,Yes,71,78,0,0,Yes,0,0,0,0,0,0
+R_2ZCEUv589a4sokv,High,Bad,NC,FL_15,37,Male,"White, not of Hispanic origin,Hispanic",50,11,1,1,No,29,9,1,1,No,1,1,1,1,1,1
+R_1DIrk8HdqJZkjF6,High,Bad,NC,FL_15,31,Male,"White, not of Hispanic origin",46,48,1,1,No,26,29,1,1,No,1,1,1,1,1,1
+R_6fZac1MMD4XXPPP,Low,Bad,Causal,FL_10,59,Female,Asian/ Pacific Islander,80,91,1,0,Yes,29,50,1,1,Not sure,0,1,0,1,0,1
+R_2YtDY8vK0EOGGV6,High,Bad,NC,FL_15,41,Male,"White, not of Hispanic origin",52,25,1,1,No,49,54,1,1,Yes,1,1,1,1,0,1
+R_Q3MtXRFwfbj7xn3,Low,Bad,NC,FL_11,23,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",30,30,1,1,No,81,82,1,0,No,1,0,0,1,1,1
+R_5nWWSFE7k3jp7QR,High,Bad,Causal,FL_14,22,Male,Hispanic,40,19,1,1,Not sure,50,71,1,1,Not sure,1,1,1,0,0,1
+R_cUCloZN3eAukZrP,Low,Bad,Causal,FL_10,32,Nonbinary,"White, not of Hispanic origin",82,92,1,1,Not sure,50,50,1,1,Not sure,1,1,1,0,0,1
+R_2zAuYrD98Uho4aV,High,Good,Causal,FL_12,34,Female,"White, not of Hispanic origin",50,50,1,1,Yes,71,71,1,1,Yes,1,1,1,1,1,1
+R_sMwgcYMTveLnaiR,Low,Good,Causal,FL_8,25,Female,"White, not of Hispanic origin",33,95,1,1,Yes,65,65,0,1,Yes,1,0,0,1,1,1
+R_9EmN9hFlckkmIhj,High,Good,NC,FL_13,20,Female,Asian/ Pacific Islander,71,76,1,1,Yes,75,86,1,1,Not sure,1,1,1,0,0,1
+R_1pY80eaLTEjhzjJ,High,Good,Causal,FL_12,45,Female,"White, not of Hispanic origin",47,50,1,1,Yes,82,61,1,1,Yes,1,1,1,1,1,1
+R_2Yr1iBoEnmGEuCm,High,Good,NC,FL_13,47,Female,"White, not of Hispanic origin",50,50,0,1,Not sure,81,61,1,1,Not sure,0,1,0,0,0,1
+R_1I5loeokqap6TSe,Low,Bad,NC,FL_11,44,Female,"White, not of Hispanic origin",94,28,1,1,Not sure,91,95,1,1,No,1,1,1,0,1,1
+R_2rJBucigxXlCgvm,Low,Good,NC,FL_9,28,Male,"White, not of Hispanic origin",100,100,1,1,Yes,8,91,1,1,Not sure,1,1,1,0,0,1
+R_3nSoHlFi6k6KbyS,High,Good,Causal,FL_12,42,Female,"White, not of Hispanic origin",81,49,1,1,Yes,67,61,1,1,Yes,1,1,1,1,1,1
+R_2wAn18PUC8yd8oY,Low,Bad,Causal,FL_10,29,Female,"White, not of Hispanic origin",81,76,1,1,Yes,61,40,1,1,Not sure,1,1,1,1,0,1
+R_BQdi7D23IhsB4Tn,Low,Good,NC,FL_9,24,Female,"White, not of Hispanic origin",81,85,1,1,No,82,46,1,1,Yes,1,1,1,1,0,1
+R_3NRiVlg16PqVcdr,High,Bad,NC,FL_15,38,Female,Asian/ Pacific Islander,58,50,1,1,Not sure,71,72,1,1,No,1,1,1,0,1,1
+R_BKUh57Xpin5SWIx,Low,Good,NC,FL_9,43,Male,"White, not of Hispanic origin",100,100,1,1,No,60,50,1,1,Not sure,1,1,1,1,0,1
+R_2sZ556fb2Vie8Ip,Low,Bad,Causal,FL_10,34,Male,"White, not of Hispanic origin",81,81,1,1,Yes,86,76,1,1,Yes,1,1,1,1,1,1
+R_2y1IfUA88avJoCB,Low,Bad,NC,FL_11,27,Male,Asian/ Pacific Islander,81,72,1,1,Not sure,61,49,1,1,Not sure,1,1,1,0,0,1
+R_2rHO8KLOGA8mfDV,High,Bad,NC,FL_15,42,Male,"White, not of Hispanic origin",59,44,1,1,No,90,81,1,0,Yes,1,0,0,1,0,1
+R_26niQW87e5AD9OM,High,Bad,Causal,FL_14,34,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",66,39,1,1,Yes,55,11,1,1,Yes,1,1,1,1,1,1
+R_9HbNwZR5xXkYlyx,High,Bad,Causal,FL_14,31,Male,"White, not of Hispanic origin",58,67,1,1,Not sure,0,0,1,1,No,1,1,1,0,0,1
+R_29jnDPMOsjtVmah,Low,Good,Causal,FL_8,67,Female,"White, not of Hispanic origin",72,51,1,1,Yes,49,52,1,1,Yes,1,1,1,1,1,1
+R_2QALB3A03Xy6WT4,Low,Bad,Causal,FL_10,38,Female,Black/ African American,93,44,1,1,Not sure,70,51,0,1,Not sure,1,0,0,0,0,1
+R_3QWYVB3WCx5DkET,High,Good,NC,FL_13,24,Male,"White, not of Hispanic origin,Hispanic",42,36,1,1,No,22,81,1,1,No,1,1,1,1,1,1
+R_ufsqT7YDax66lW1,Low,Good,Causal,FL_8,24,Female,Black/ African American,63,50,1,1,Yes,31,53,1,1,Yes,1,1,1,1,1,1
+R_2XoLL3cD4Pd8STD,High,Bad,Causal,FL_14,35,Male,"White, not of Hispanic origin",52,59,1,1,No,60,64,1,1,No,1,1,1,0,0,1
+R_8kmHc16zeY3jSal,High,Bad,Causal,FL_14,21,Female,Hispanic,30,30,1,1,No,79,70,1,0,Yes,1,0,0,0,1,1
+R_1Ke6wUbZHVwVIBZ,High,Bad,NC,FL_15,32,Male,"White, not of Hispanic origin",50,51,0,1,No,70,71,1,1,No,0,1,0,1,1,1
+R_3lVWGGG7s0j4GN4,High,Good,NC,FL_13,28,Female,"White, not of Hispanic origin",54,52,1,1,No,58,61,1,0,Not sure,1,0,0,1,0,0
+R_2yqt1yi0dS0NmWW,High,Good,Causal,FL_12,61,Male,Asian/ Pacific Islander,82,81,1,1,Yes,65,76,1,0,Yes,1,0,0,1,1,0
+R_30oyyWhcSTdc22z,High,Good,Causal,FL_12,34,Male,"White, not of Hispanic origin",51,49,1,1,Yes,60,50,1,1,Yes,1,1,1,1,1,1
+R_xFx3oEHkyEQSnJv,High,Good,NC,FL_13,40,Male,"Asian/ Pacific Islander,Hispanic",73,82,1,1,No,30,51,1,1,No,1,1,1,1,1,1
+R_3QRZMn0ywlDt0aF,High,Good,Causal,FL_12,28,Female,"White, not of Hispanic origin",61,51,1,1,Yes,72,61,1,1,Yes,1,1,1,1,1,1
+R_cUPQZbI6AoxtfoZ,Low,Bad,Causal,FL_10,43,Female,"White, not of Hispanic origin,Hispanic",51,52,1,1,No,77,100,1,1,No,1,1,1,0,0,1
+R_3FInS88epMyAZHp,Low,Good,NC,FL_9,39,Male,"White, not of Hispanic origin",29,81,1,1,No,50,81,1,1,Yes,1,1,1,1,0,1
+R_eqYUHayGKfyq1Lr,Low,Good,Causal,FL_8,43,Female,"White, not of Hispanic origin",100,50,1,1,Yes,70,50,0,1,Yes,1,0,0,1,1,1
+R_AajLQpSlnc0ijNn,Low,Good,NC,FL_9,27,Male,"White, not of Hispanic origin",65,93,1,1,No,80,73,1,1,No,1,1,1,1,1,1
+R_UygyWDKjBkfcjm1,High,Bad,NC,FL_15,33,Female,"White, not of Hispanic origin",71,8,1,1,Not sure,82,49,1,1,Yes,1,1,1,0,0,1
+R_Og9qbNABx2Bodhf,Low,Bad,NC,FL_11,26,Female,"White, not of Hispanic origin",100,71,1,1,Yes,71,81,1,0,No,1,0,0,0,1,1
+R_2b470NEmGor54NR,High,Good,Causal,FL_12,31,Female,"White, not of Hispanic origin",60,50,1,1,Yes,59,54,1,1,Yes,1,1,1,1,1,1
+R_3JyEZlv8YpQoweF,Low,Bad,Causal,FL_10,27,Female,Hispanic,50,50,1,1,No,38,37,1,1,Not sure,1,1,1,0,0,1
+R_1gjzKMDR3H4TyJ2,Low,Bad,NC,FL_11,36,Male,"White, not of Hispanic origin",100,100,1,1,Yes,2,1,1,1,No,1,1,1,0,1,1
+R_dhzaTtq3ENjLXuF,Low,Good,NC,FL_9,45,Male,"White, not of Hispanic origin",78,86,0,0,Yes,80,85,0,0,Yes,0,0,0,0,0,0
+R_3s4AjaSdFdHHG5L,High,Bad,Causal,FL_14,36,Female,"White, not of Hispanic origin",51,50,1,1,No,76,57,1,1,No,1,1,1,0,0,1
+R_1CjT6reGXNPVO0p,High,Bad,Causal,FL_14,29,Male,"White, not of Hispanic origin",64,14,1,1,Yes,60,41,1,1,Yes,1,1,1,1,1,1
+R_1DIlmyQfYzwnwRH,Low,Bad,NC,FL_11,56,Male,Black/ African American,60,51,1,1,Not sure,81,82,1,1,No,1,1,1,0,1,1
+R_1FDoQ2Ei4ygHmIl,High,Good,NC,FL_13,34,Male,"White, not of Hispanic origin",31,50,1,1,No,55,91,1,1,No,1,1,1,1,1,1
+R_2wczLWfRfuQ1RdK,High,Bad,Causal,FL_14,37,Male,"White, not of Hispanic origin",61,20,1,1,No,71,81,1,1,No,1,1,1,0,0,1
+R_3GkC7GwutHqcjFj,Low,Bad,NC,FL_11,56,Male,"White, not of Hispanic origin",100,81,1,1,No,82,76,1,1,No,1,1,1,1,1,1
+R_2c1P1xcBTa1azBP,Low,Good,Causal,FL_8,26,Female,"White, not of Hispanic origin",80,51,0,1,Yes,60,48,0,0,Yes,0,0,0,1,1,0
+R_2AQDLOSoNiSOE7x,High,Bad,NC,FL_15,32,Male,"White, not of Hispanic origin",50,41,1,1,Not sure,64,66,1,1,No,1,1,1,0,1,1
+R_1Kr0P4ycRhJAwNK,High,Good,NC,FL_13,57,Male,"White, not of Hispanic origin",51,51,1,1,Yes,71,71,1,1,No,1,1,1,0,1,1
+R_1QsWjnCvjafmkau,High,Good,NC,FL_13,28,Male,"White, not of Hispanic origin",49,62,1,1,No,70,76,1,1,No,1,1,1,1,1,1
+R_2ZNQyNUxhR3hoBd,High,Good,Causal,FL_12,32,Male,"White, not of Hispanic origin",51,50,1,1,Yes,93,92,1,1,Yes,1,1,1,1,1,1
+R_1oqoCzTVCEEd7qu,Low,Bad,NC,FL_11,26,Male,"White, not of Hispanic origin,Hispanic",50,49,1,1,No,85,61,1,1,No,1,1,1,1,1,1
+R_1hMy3UAJVK2OP1t,High,Bad,Causal,FL_14,46,Male,"White, not of Hispanic origin",72,19,1,1,Not sure,50,35,1,1,Not sure,1,1,1,0,0,1
+R_20MtMnGpjcR0Wg0,Low,Good,NC,FL_9,35,Male,"White, not of Hispanic origin",71,71,1,1,No,55,75,1,1,No,1,1,1,1,1,1
+R_3F4ADiGUxAYTBDP,Low,Bad,Causal,FL_10,44,Male,"White, not of Hispanic origin",51,51,1,1,No,56,76,1,0,No,1,0,0,0,0,1
+R_2QYW6ogCRwF4vKc,Low,Good,Causal,FL_8,23,Male,South Asian/ Indian,79,53,1,1,Yes,39,53,1,1,Not sure,1,1,1,1,0,1
+R_1pstkYg39wInw2R,Low,Bad,Causal,FL_10,39,Male,Black/ African American,100,0,1,1,Yes,49,50,1,1,No,1,1,1,1,0,1
+R_TnraIPQDVEVsoDL,High,Good,NC,FL_13,72,Female,Other (please specify),50,72,1,1,Yes,71,91,1,1,Yes,1,1,1,0,0,1
+R_z1EnTEdCfjOC1pf,Low,Bad,Causal,FL_10,29,Male,"White, not of Hispanic origin",75,88,1,1,Yes,71,28,1,1,No,1,1,1,1,0,1
+R_vZeVG4Bs8TIxn0Z,High,Bad,Causal,FL_14,40,Male,"White, not of Hispanic origin",60,70,1,0,Yes,71,81,1,1,Yes,0,1,0,1,1,1
+R_Rf49R5hXomaqDOF,Low,Bad,Causal,FL_10,42,Female,"White, not of Hispanic origin",70,73,0,1,Yes,76,68,0,1,Yes,0,0,0,1,1,1
+R_1M6Z0wy0w31DAxZ,High,Bad,NC,FL_15,25,Female,South Asian/ Indian,50,48,1,1,No,67,69,1,1,No,1,1,1,1,1,1
+R_1QLpopOe6pzLnap,Low,Good,Causal,FL_8,35,Female,"White, not of Hispanic origin",82,50,1,1,Yes,78,51,0,1,Yes,1,0,0,1,1,1
+R_SJnavwFzUujzl9n,Low,Good,Causal,FL_8,23,Female,"White, not of Hispanic origin",69,49,1,1,Yes,62,55,1,1,Yes,1,1,1,1,1,1
+R_BLh928CeY8MHTJ7,High,Good,Causal,FL_12,26,Nonbinary,"White, not of Hispanic origin",62,83,1,1,Yes,92,72,1,1,Yes,1,1,1,1,1,1
+R_6s6iuvwMNQgONuV,High,Good,NC,FL_13,20,Female,"White, not of Hispanic origin",49,45,1,1,No,16,90,1,1,Not sure,1,1,1,1,0,1
+R_12nlDSDTXSPxPK6,High,Bad,NC,FL_15,45,Female,"White, not of Hispanic origin",50,50,1,1,Not sure,80,94,1,1,No,1,1,1,0,1,1
+R_2uyM8rWOueTaZyP,Low,Good,Causal,FL_8,25,Male,Black/ African American,60,69,0,1,Yes,18,76,0,0,Not sure,0,0,0,1,0,0
+R_3HZAUYdC8RAKYWw,Low,Good,NC,FL_9,27,Female,Asian/ Pacific Islander,78,59,0,1,Not sure,99,49,0,1,Not sure,0,0,0,0,0,1
+R_1o5YvjGzANYYiwk,High,Good,Causal,FL_12,42,Male,"White, not of Hispanic origin",50,49,1,1,No,71,52,1,1,No,1,1,1,0,0,1
+R_bKKxo2bRHkLwB8Z,Low,Good,NC,FL_9,49,Male,Black/ African American,95,95,1,1,No,67,71,1,1,No,1,1,1,1,1,1
+R_vPilUFwN8Y4a7mh,High,Good,Causal,FL_12,34,Male,"White, not of Hispanic origin",50,50,1,1,Yes,70,50,1,1,Yes,1,1,1,1,1,1
+R_2WMuMXNsoSafc5Y,High,Bad,NC,FL_15,37,Male,"White, not of Hispanic origin",74,66,1,0,Yes,70,69,1,1,Yes,0,1,0,0,0,1
+R_2Yhsn3CDsQwPub4,High,Good,NC,FL_13,46,Male,"White, not of Hispanic origin",51,50,1,1,No,62,67,1,1,No,1,1,1,1,1,1
+R_2QWp7iWY2UWtBkI,Low,Good,NC,FL_9,30,Female,"White, not of Hispanic origin",100,100,1,1,No,100,100,1,1,No,1,1,1,1,1,1
+R_3fCasDqMoQ8nSzl,High,Bad,Causal,FL_14,23,Female,"White, not of Hispanic origin",63,20,1,1,Yes,50,51,1,1,Not sure,1,1,1,1,0,1
+R_3eePc3rDfQ3OmZV,Low,Good,Causal,FL_8,20,Male,Asian/ Pacific Islander,50,50,1,1,Yes,81,49,0,1,Not sure,1,0,0,1,0,1
+R_3GrbMe7wFdetuf5,Low,Bad,NC,FL_11,43,Nonbinary,"White, not of Hispanic origin",46,16,1,1,Not sure,98,92,1,1,No,1,1,1,0,1,1
+R_3qORVTZfGqvcbXH,Low,Bad,Causal,FL_10,19,Female,"White, not of Hispanic origin",93,100,1,1,Yes,93,99,1,1,No,1,1,1,1,0,1
+R_1puqyGec5TTxbZT,High,Bad,NC,FL_15,43,Female,"White, not of Hispanic origin",50,50,1,1,No,87,51,1,1,Yes,1,1,1,1,0,1
+R_3ezfoUuhLLmy3Jt,High,Bad,Causal,FL_14,24,Female,Asian/ Pacific Islander,59,47,1,1,No,49,40,1,1,Not sure,1,1,1,0,0,1
+R_2eW03GCuoR1gaDk,Low,Bad,NC,FL_11,50,Female,"White, not of Hispanic origin",80,79,1,1,No,91,49,1,1,No,1,1,1,1,1,1
+R_3nJ0L4O6baj3zpO,Low,Bad,Causal,FL_10,19,Male,"White, not of Hispanic origin",86,51,1,1,Yes,65,74,0,1,No,1,0,0,1,0,1
+R_vc9HUdzOyOtsqZj,High,Good,Causal,FL_12,37,Female,"White, not of Hispanic origin",50,50,1,1,Yes,80,79,1,1,Not sure,1,1,1,1,0,1
+R_28Bg5qa5y7LuV6u,Low,Good,NC,FL_9,47,Male,Asian/ Pacific Islander,56,55,1,1,No,62,50,1,1,No,1,1,1,1,1,1
+R_C4gl4BiHOU3SOSl,High,Good,Causal,FL_12,67,Male,"White, not of Hispanic origin",68,74,1,1,Not sure,100,95,1,1,Yes,1,1,1,0,1,1
+R_2rpiPtIDvVMzMOC,High,Bad,Causal,FL_14,42,Male,"White, not of Hispanic origin",71,82,1,1,No,93,93,1,1,No,1,1,1,0,0,1
+R_eJpBuJTqDw1odOh,Low,Bad,NC,FL_11,38,Female,"White, not of Hispanic origin",71,51,1,1,Not sure,65,51,1,1,Not sure,1,1,1,0,0,1
+R_6y4JDH5s2WZw8Kt,High,Bad,NC,FL_15,59,Female,"White, not of Hispanic origin",50,51,1,1,No,71,72,1,0,No,1,0,0,1,1,1
+R_1Duo8EPkb5E9wZh,Low,Good,Causal,FL_8,21,Male,Black/ African American,54,38,0,1,Yes,66,72,0,0,Yes,0,0,0,1,1,0
+R_3JdYR9SdF3kdAIl,Low,Bad,Causal,FL_10,32,Female,"White, not of Hispanic origin",30,85,1,1,No,63,63,1,0,Yes,1,0,0,0,1,1
+R_2CTXX56d4MtYLuK,High,Bad,NC,FL_15,30,Female,"White, not of Hispanic origin",57,21,1,1,Not sure,87,82,1,0,No,1,0,0,0,1,1
+R_2A06cNIXhgFccoq,High,Good,NC,FL_13,59,Female,Asian/ Pacific Islander,28,48,1,1,Not sure,33,50,1,0,No,1,0,0,0,1,0
+R_1pKEuLUPSUyQCIo,Low,Good,NC,FL_9,40,Female,"White, not of Hispanic origin",100,100,1,1,No,100,100,1,1,No,1,1,1,1,1,1
+R_3nSIgDsRF7eQfyD,High,Good,Causal,FL_12,41,Male,"White, not of Hispanic origin",71,70,0,0,Not sure,74,71,1,1,Not sure,0,1,0,0,0,1
+R_RCaCmzk57dc6dt7,Low,Bad,NC,FL_11,49,Male,"White, not of Hispanic origin",100,100,1,1,Yes,90,73,1,1,No,1,1,1,0,1,1
+R_3gNq6ZwcLW96BJz,High,Bad,Causal,FL_14,34,Female,"White, not of Hispanic origin",60,50,0,1,No,100,100,0,1,Not sure,0,0,0,0,0,1
+R_3MbM9ULadE9ddqh,Low,Bad,NC,FL_11,54,Female,"White, not of Hispanic origin",100,100,1,1,No,100,100,1,1,No,1,1,1,1,1,1
+R_2zH2Gmke28puZ5a,High,Bad,Causal,FL_14,40,Female,Asian/ Pacific Islander,45,38,1,0,Not sure,30,21,1,0,Not sure,0,0,0,0,0,1
+R_u98esx61YOew01j,High,Bad,Causal,FL_14,30,Female,"White, not of Hispanic origin",73,73,1,1,Not sure,93,91,1,1,No,1,1,1,0,0,1
+R_3hEeomxcvU7PTRX,High,Good,NC,FL_13,28,Male,"White, not of Hispanic origin",53,51,1,1,No,75,60,1,1,No,1,1,1,1,1,1
+R_OJv3rtBvqUV7oQx,Low,Bad,Causal,FL_10,64,Female,"White, not of Hispanic origin",100,40,1,1,Yes,81,100,1,1,No,1,1,1,1,0,1
+R_3KvlaRYKqRjr593,Low,Good,Causal,FL_8,25,Male,"White, not of Hispanic origin",63,48,1,1,Yes,73,68,1,1,Yes,1,1,1,1,1,1
+R_1OI77HyojN5RHXm,High,Bad,NC,FL_15,0,Female,"White, not of Hispanic origin",50,50,1,1,No,39,12,1,1,No,1,1,1,1,1,1
+R_1ePOgJvrRVCOxq3,Low,Bad,NC,FL_11,30,Male,Black/ African American,71,11,1,1,No,100,0,1,1,No,1,1,1,1,1,1
+R_2XdId9zrVRWVuXu,Low,Good,Causal,FL_8,26,Male,Black/ African American,91,70,1,1,Not sure,100,100,1,1,Not sure,1,1,1,0,0,1
+R_1PTRi4lmvoEH51X,High,Good,NC,FL_13,23,Male,"White, not of Hispanic origin",69,72,1,1,Yes,71,64,1,1,Not sure,1,1,1,0,0,1
+R_1CDVVa5tvvSCWwA,Low,Good,Causal,FL_8,21,Female,Black/ African American,82,51,1,1,Yes,75,65,1,1,Not sure,1,1,1,1,0,1
+R_UXxHzHEWbLYK3C1,Low,Good,NC,FL_9,52,Female,"White, not of Hispanic origin",100,100,1,1,No,91,51,1,1,No,1,1,1,1,1,1
+R_2VPTAnwksWxChy2,High,Good,Causal,FL_12,25,Male,Black/ African American,63,82,1,1,Yes,20,26,0,1,Yes,1,0,0,1,1,1
+R_5chSZ0afoEuJglz,Low,Bad,Causal,FL_10,58,Male,"White, not of Hispanic origin",80,51,1,1,Not sure,61,4,1,1,No,1,1,1,0,0,1
+R_3CAWrhSF3mURdpl,Low,Bad,NC,FL_11,29,Male,Asian/ Pacific Islander,70,51,1,0,No,82,51,0,1,No,0,0,0,1,1,1
+R_2YDGoXeMJO1ezlq,High,Bad,NC,FL_15,29,Female,"White, not of Hispanic origin",51,40,1,1,Not sure,100,100,1,1,No,1,1,1,0,1,1
+R_2S0tp5ONGPluxqx,Low,Bad,Causal,FL_10,48,Male,"White, not of Hispanic origin",80,81,1,1,Yes,87,33,1,1,No,1,1,1,1,0,1
+R_2Tn4FomWCwAfEDj,High,Bad,NC,FL_15,47,Male,"White, not of Hispanic origin",72,51,1,1,No,55,51,1,1,No,1,1,1,1,1,1
+R_5cZRHc3BqQFIfDj,Low,Good,NC,FL_9,31,Female,"White, not of Hispanic origin",87,91,1,1,Not sure,87,71,1,1,No,1,1,1,0,1,1
+R_3fAAfP4MzTkviO2,High,Good,Causal,FL_12,50,Female,"White, not of Hispanic origin",66,52,1,1,Yes,0,0,1,0,Yes,1,0,0,1,1,0
+R_1GOoQHHEyHtKOJ5,Low,Bad,Causal,FL_10,41,Female,Black/ African American,30,8,1,1,Yes,51,19,0,1,No,1,0,0,1,0,1
+R_3M3RZPXlZEp2ujY,Low,Good,NC,FL_9,21,Male,"White, not of Hispanic origin",91,100,1,1,No,85,91,0,1,Not sure,1,0,0,1,0,1
+R_3MKFgQH1beFO64L,High,Good,NC,FL_13,32,Male,"White, not of Hispanic origin",53,52,1,1,No,31,51,1,1,No,1,1,1,1,1,1
+R_3HvrCYFWdjYlOq6,High,Bad,Causal,FL_14,71,Male,"White, not of Hispanic origin",53,9,1,1,Not sure,74,8,1,1,No,1,1,1,0,0,1
+R_OI5jE4ZfW6IYnJf,High,Good,Causal,FL_12,42,Male,"White, not of Hispanic origin",50,51,1,1,Not sure,71,58,1,0,Not sure,1,0,0,0,0,0
+R_2RU4ennVjUc0tpR,Low,Bad,NC,FL_11,54,Male,"White, not of Hispanic origin",69,48,1,1,No,63,60,0,0,No,1,0,0,1,1,1
+R_1QmSTClfeXq0wUJ,High,Bad,Causal,FL_14,68,Male,"White, not of Hispanic origin",50,51,1,1,No,76,67,1,1,No,1,1,1,0,0,1
+R_ah3gIBXDCKAF9xn,High,Good,Causal,FL_12,40,Female,"White, not of Hispanic origin",51,52,1,1,Yes,85,86,1,1,No,1,1,1,1,0,1
+R_2DOiKokADII5EEY,Low,Good,Causal,FL_8,46,Female,Asian/ Pacific Islander,100,50,1,1,Not sure,50,50,1,1,Yes,1,1,1,0,1,1
+R_2OPijLWfbjCm3PI,High,Bad,NC,FL_15,59,Female,Black/ African American,64,62,1,1,No,73,63,1,1,No,1,1,1,1,1,1
+R_22KUkvRe7oDcUzp,Low,Bad,NC,FL_11,42,Female,"White, not of Hispanic origin",100,100,1,1,Not sure,81,81,1,1,No,1,1,1,0,1,1
+R_exkj6AqvkdD6A7f,High,Good,NC,FL_13,75,Male,"White, not of Hispanic origin",71,29,1,1,No,86,51,1,1,No,1,1,1,1,1,1
+R_3oRqCLFNP54kYZI,Low,Good,NC,FL_9,52,Male,Asian/ Pacific Islander,87,91,1,1,No,50,50,0,1,No,1,0,0,1,1,1
+R_eG5m2bCqEBjT9Pr,Low,Good,Causal,FL_8,46,Female,"White, not of Hispanic origin",92,61,1,1,Yes,93,72,1,1,No,1,1,1,1,0,1
+R_D2KI1V1pvVfJfDr,High,Good,Causal,FL_12,44,Male,Asian/ Pacific Islander,51,51,1,1,Yes,100,100,1,1,No,1,1,1,1,0,1
+R_9ow3kuNHGMyJuWR,Low,Good,Causal,FL_8,62,Male,"White, not of Hispanic origin",100,59,1,1,Yes,79,70,0,0,Not sure,1,0,0,1,0,0
+R_bEfLgh3dqBuaC7T,Low,Good,Causal,FL_8,31,Male,Asian/ Pacific Islander,50,50,1,1,Yes,49,51,1,1,Not sure,1,1,1,1,0,1
+R_PXLwbcP00XURumJ,High,Bad,Causal,FL_14,42,Male,Hispanic,50,30,1,1,Yes,50,41,1,1,No,1,1,1,1,0,1
+R_2eW2VTOkNvjiH7U,High,Bad,NC,FL_15,43,Male,Black/ African American,75,82,1,1,No,71,71,1,1,No,1,1,1,1,1,1
+R_3lXjQtuXHtiQaab,Low,Good,NC,FL_9,40,Male,"White, not of Hispanic origin",71,53,1,1,Not sure,56,4,1,1,No,1,1,1,0,1,1
+R_3CUkoDjyy68p3RY,Low,Good,NC,FL_9,60,Female,"White, not of Hispanic origin",100,100,0,1,No,100,100,0,1,Not sure,0,0,0,1,0,1
+R_2VywwrkNQD5Mk8o,High,Good,Causal,FL_12,20,Male,"White, not of Hispanic origin",50,49,1,1,Yes,60,50,1,1,Yes,1,1,1,1,1,1
+R_2zG5PXJfpZftmYX,Low,Bad,Causal,FL_10,28,Male,"White, not of Hispanic origin",36,19,1,1,Yes,82,48,1,1,No,1,1,1,1,0,1
+R_yqKzQJmLZWG3wNb,High,Good,NC,FL_13,28,Male,"White, not of Hispanic origin",56,71,0,1,Yes,73,76,1,0,Not sure,0,0,0,0,0,0
+R_1gu5Rwm7bhcYDk1,High,Good,NC,FL_13,39,Male,"White, not of Hispanic origin",24,87,1,1,Yes,72,51,1,0,Not sure,1,0,0,0,0,0
+R_2WZPYjPPbNHk4y9,High,Bad,NC,FL_15,21,Male,"White, not of Hispanic origin",51,74,1,1,Yes,65,31,1,0,Yes,1,0,0,0,0,1
+R_1dK6uslnwag8EVw,Low,Good,NC,FL_9,68,Female,"White, not of Hispanic origin",100,100,1,1,No,94,100,0,1,No,1,0,0,1,1,1
+R_1GBOxssHsxLwtx6,Low,Bad,Causal,FL_10,32,Male,Asian/ Pacific Islander,100,98,1,1,Yes,78,50,1,1,No,1,1,1,1,0,1
+R_1jjEZEdk6dr6a2T,Low,Bad,NC,FL_11,54,Female,"White, not of Hispanic origin",95,19,1,1,No,65,67,1,1,No,1,1,1,1,1,1
+R_3eq1biwz5Sbr2Wl,High,Bad,NC,FL_15,24,Female,"Black/ African American,White, not of Hispanic origin",61,52,1,1,No,81,91,1,1,No,1,1,1,1,1,1
+R_2RW9d0sMFzjFq4b,High,Bad,Causal,FL_14,24,Male,"White, not of Hispanic origin",39,38,1,1,No,53,55,1,1,Yes,1,1,1,0,1,1
+R_bOSHHrs92rZoqOZ,Low,Bad,Causal,FL_10,68,Male,"White, not of Hispanic origin",62,29,1,1,No,77,75,1,1,Not sure,1,1,1,0,0,1
+R_2RUt5oad9YZ5bnG,High,Bad,Causal,FL_14,42,Female,"White, not of Hispanic origin",81,62,0,1,Yes,100,100,1,1,No,0,1,0,1,0,1
+R_3lXE482zS3q58yO,High,Good,NC,FL_13,44,Female,Other (please specify),72,51,0,1,No,91,92,1,0,No,0,0,0,1,1,0
+R_eCYkjxUpMvSX5Sx,High,Bad,NC,FL_15,45,Male,Black/ African American,40,48,1,0,Not sure,70,20,0,1,No,0,0,0,0,1,1
+R_2WJz20HDjxxR7nK,Low,Bad,NC,FL_11,65,Female,"White, not of Hispanic origin",71,49,1,1,No,93,71,1,1,No,1,1,1,1,1,1
+R_3s7BGry8Nwo9pCH,High,Good,Causal,FL_12,24,Male,"White, not of Hispanic origin",51,51,1,1,Yes,71,56,1,1,Yes,1,1,1,1,1,1
+R_3Ra67V4X0tERSCR,High,Good,NC,FL_13,28,Male,"White, not of Hispanic origin",42,39,1,1,Not sure,73,61,1,1,Not sure,1,1,1,0,0,1
+R_9FBN4ZpZlxpplvP,Low,Good,Causal,FL_8,26,Female,Black/ African American,95,52,1,1,No,91,61,1,1,Not sure,1,1,1,0,0,1
+R_3n7xsZp6vgua0e3,Low,Good,NC,FL_9,,,,72,90,1,1,No,75,61,1,1,No,1,1,1,1,1,1
+R_2dxO2Rl5saU5WNf,Low,Bad,Causal,FL_10,24,Male,"White, not of Hispanic origin",71,19,1,1,Yes,92,61,1,1,Not sure,1,1,1,1,0,1
+R_scbDj6D5bCQ6LK1,Low,Good,Causal,FL_8,64,Female,"White, not of Hispanic origin",51,51,1,1,Not sure,92,67,1,1,Yes,1,1,1,0,1,1
+R_2VCMhM60k49oz9V,Low,Bad,NC,FL_11,51,Female,"White, not of Hispanic origin",93,81,1,1,Not sure,65,63,1,1,No,1,1,1,0,1,1
+R_3CZ8BYBNy6VssQq,High,Good,Causal,FL_12,50,Female,"White, not of Hispanic origin",51,70,1,1,Yes,20,52,1,1,No,1,1,1,1,0,1
+R_6MdvoyYPvOACnx7,High,Good,Causal,FL_12,53,Male,"White, not of Hispanic origin",81,50,1,1,Yes,61,71,1,1,Yes,1,1,1,1,1,1
+R_8tPWwpgm1Egu8gx,High,Bad,Causal,FL_14,55,Female,"White, not of Hispanic origin",63,62,1,1,Not sure,81,51,1,1,No,1,1,1,0,0,1
+R_3QW8ffFKew2DaEJ,Low,Good,NC,FL_9,52,Female,"White, not of Hispanic origin",71,70,1,1,Not sure,92,92,1,1,Not sure,1,1,1,0,0,1
+R_3e4vbdqBuMwzFQU,High,Good,NC,FL_13,25,Male,"White, not of Hispanic origin,Hispanic",72,82,1,1,No,98,97,1,1,No,1,1,1,1,1,1
+R_1mQvIOKWsQQZz5t,Low,Good,Causal,FL_8,23,Male,"White, not of Hispanic origin",91,22,1,1,Yes,57,59,1,1,Not sure,1,1,1,1,0,1
+R_RDApny7Gdo4EWhH,Low,Bad,Causal,FL_10,29,Female,Black/ African American,61,40,0,1,Yes,100,56,0,1,Not sure,0,0,0,1,0,1
+R_1P2e4Gwqe2d7V6I,High,Bad,Causal,FL_14,69,Female,"White, not of Hispanic origin",50,51,1,1,Not sure,72,86,1,1,No,1,1,1,0,0,1
+R_eDKvd7rQeQGQ9hL,High,Bad,Causal,FL_14,74,Male,"White, not of Hispanic origin",53,52,1,1,Not sure,60,53,1,1,Yes,1,1,1,0,1,1
+R_1DSzhsbQTj6xx2g,Low,Good,Causal,FL_8,62,Female,"White, not of Hispanic origin",51,51,1,1,Not sure,51,51,1,1,Not sure,1,1,1,0,0,1
+R_28G8nZGM3THwzWA,Low,Bad,NC,FL_11,55,Male,"White, not of Hispanic origin",100,49,1,1,Not sure,80,100,1,1,Not sure,1,1,1,0,0,1
+R_WorqeqzxChJWD85,High,Good,NC,FL_13,30,Nonbinary,Other (please specify),51,92,1,1,Not sure,0,0,1,1,No,1,1,1,0,1,1
+R_3exmiMakCFQCsoo,High,Good,Causal,FL_12,57,Male,Black/ African American,50,50,1,1,Yes,61,62,1,1,Yes,1,1,1,1,1,1
+R_3I9Kc8haletRibS,High,Bad,NC,FL_15,58,Male,"White, not of Hispanic origin",81,81,1,1,Not sure,20,30,1,1,No,1,1,1,0,1,1
+R_pN6GZdu5D6yXsxX,High,Bad,NC,FL_15,62,Female,"White, not of Hispanic origin",61,46,1,1,No,50,44,1,1,No,1,1,1,1,1,1
+R_1DYYcOyR7oVlVp8,Low,Good,NC,FL_9,61,Female,"White, not of Hispanic origin",92,94,1,1,No,71,70,1,1,No,1,1,1,1,1,1
+R_30cJVOuuBfOJdBa,Low,Bad,Causal,FL_10,53,Male,"White, not of Hispanic origin",61,41,1,1,Yes,82,71,1,1,No,1,1,1,1,0,1
+R_22rjTr7hWqLHc5i,Low,Bad,NC,FL_11,35,Female,Black/ African American,51,90,1,1,Yes,52,51,0,1,No,1,0,0,0,1,1
+R_YX26BToUNqzPToJ,Low,Good,Causal,FL_8,60,Male,"White, not of Hispanic origin",95,50,1,1,Not sure,100,99,1,1,No,1,1,1,0,0,1
+R_2c0jBoHLWJ3MgAH,High,Bad,Causal,FL_14,49,Female,Black/ African American,50,51,1,1,No,91,70,1,1,No,1,1,1,0,0,1
+R_3O66D9egiwXmmBa,Low,Bad,NC,FL_11,30,Female,Other (please specify),89,100,1,1,No,12,80,0,1,No,1,0,0,1,1,1
+R_T1mjx22ePdLtoAN,High,Good,NC,FL_13,50,Female,"White, not of Hispanic origin",70,51,1,1,No,71,92,1,1,No,1,1,1,1,1,1
+R_efzG4raNNT3Wyjf,High,Good,Causal,FL_12,78,Male,"White, not of Hispanic origin",52,51,1,1,Yes,61,51,1,1,Not sure,1,1,1,1,0,1
+R_OAKlIGvs3EoY9AR,Low,Good,Causal,FL_8,60,Male,"White, not of Hispanic origin",50,73,0,1,Yes,54,66,1,1,Yes,0,1,0,1,1,1
+R_1qfc0rZTUkuHObE,High,Good,NC,FL_13,66,Male,"White, not of Hispanic origin",30,30,1,1,No,10,9,1,1,No,1,1,1,1,1,1
+R_25yEdzWOaD52pcM,High,Bad,NC,FL_15,64,Female,"White, not of Hispanic origin",51,51,1,1,No,30,20,1,1,No,1,1,1,1,1,1
+R_1kULzt91gXkrpN6,High,Good,Causal,FL_12,49,Male,"White, not of Hispanic origin",65,50,1,1,Yes,14,50,1,1,Yes,1,1,1,1,1,1
+R_2zBlL4VRajNf5Qt,Low,Good,Causal,FL_8,61,Female,"White, not of Hispanic origin",100,39,1,1,No,71,72,1,1,Yes,1,1,1,0,1,1
+R_1LtVYkUgY78ugPa,High,Bad,Causal,FL_14,34,Male,Black/ African American,56,19,1,1,No,91,61,1,1,No,1,1,1,0,0,1
+R_30kPU70lvMtoaws,Low,Bad,NC,FL_11,60,Male,"White, not of Hispanic origin",51,50,1,1,No,65,66,1,1,No,1,1,1,1,1,1
+R_eyRpkJun7KVXTKV,Low,Good,NC,FL_9,50,Female,"White, not of Hispanic origin",50,83,1,1,No,89,96,1,1,No,1,1,1,1,1,1
+R_23aElaHyn7wOGH2,Low,Bad,Causal,FL_10,68,Male,"White, not of Hispanic origin",92,61,1,1,No,41,51,1,1,No,1,1,1,0,0,1
+R_3KOppF9jgQgqE68,High,Good,NC,FL_13,60,Female,"White, not of Hispanic origin",60,50,1,1,No,50,49,1,1,Yes,1,1,1,1,0,1
+R_pa8OjY4UzDTt0t3,High,Bad,Causal,FL_14,20,Female,Hispanic,51,51,1,1,Not sure,43,45,1,1,Yes,1,1,1,0,1,1
+R_1Yoa4S9Qnv7eN7r,High,Bad,NC,FL_15,63,Male,"White, not of Hispanic origin",1,49,1,1,No,50,50,1,1,No,1,1,1,1,1,1
+R_SIelsaKWo8vn1Sx,Low,Bad,Causal,FL_10,60,Female,"White, not of Hispanic origin",51,50,1,1,Yes,20,19,0,1,Yes,1,0,0,1,1,1
+R_af7Har1MEod1Gx3,Low,Bad,Causal,FL_10,0,Female,"White, not of Hispanic origin",86,7,1,1,Yes,79,53,1,0,No,1,0,0,1,0,1
+R_1KlLHgk0aOnh64R,High,Good,NC,FL_13,49,Male,"White, not of Hispanic origin",50,50,1,1,No,51,50,1,1,No,1,1,1,1,1,1
+R_3Dda5s8lVKJVcm2,Low,Bad,Causal,FL_10,58,Female,"White, not of Hispanic origin",100,32,1,1,Yes,21,31,1,1,Yes,1,1,1,1,1,1
+R_31otTUhrtNOZO3r,High,Bad,NC,FL_15,45,Female,Black/ African American,61,61,1,1,Yes,91,30,1,1,No,1,1,1,0,1,1
+R_21sJvDBvToEJhAN,High,Bad,NC,FL_15,35,Female,Black/ African American,52,50,1,1,No,71,69,1,1,No,1,1,1,1,1,1
+R_1IsaP3bQ0fMNfqr,Low,Bad,NC,FL_11,30,Female,Asian/ Pacific Islander,52,8,1,1,Not sure,100,69,0,1,No,1,0,0,0,1,1
+R_6fp5ERmJXq5wyU9,High,Bad,Causal,FL_14,68,Male,"White, not of Hispanic origin",71,81,1,0,Yes,91,50,1,1,No,0,1,0,1,0,1
+R_1fiViuPNPEvuLuA,Low,Good,NC,FL_9,84,Male,"White, not of Hispanic origin",51,25,1,1,Yes,67,82,1,1,Yes,1,1,1,0,0,1
+R_3fw0GvgTFm6OaW6,Low,Good,Causal,FL_8,62,Female,"White, not of Hispanic origin",61,50,1,1,No,71,49,1,1,Not sure,1,1,1,0,0,1
+R_1kNS7t0AhHA6HG0,Low,Good,NC,FL_9,63,Female,"White, not of Hispanic origin",85,94,1,1,No,69,78,1,1,No,1,1,1,1,1,1
+R_12gveG2lwvbKXzD,Low,Bad,NC,FL_11,50,Male,"White, not of Hispanic origin",83,8,1,1,Yes,71,86,1,1,No,1,1,1,0,1,1
+R_2D7Y0gmHuPQEmkW,High,Bad,Causal,FL_14,54,Male,"White, not of Hispanic origin",61,29,1,1,Not sure,86,51,1,1,Not sure,1,1,1,0,0,1
+R_sBwNVd7jOQhTQnT,High,Good,NC,FL_13,72,Male,Hispanic,67,64,1,1,Not sure,63,61,1,1,Not sure,1,1,1,0,0,1
+R_veoFAfa5tMBMQNP,Low,Good,Causal,FL_8,58,Male,"White, not of Hispanic origin",51,51,1,1,Yes,92,50,1,1,Not sure,1,1,1,1,0,1
+R_20NxuLWTGeZrNJM,High,Good,Causal,FL_12,74,Male,"White, not of Hispanic origin",80,82,1,1,Yes,62,62,1,0,Not sure,1,0,0,1,0,0
+R_3dJTXOLXIS8Px3r,High,Good,Causal,FL_12,57,Female,"White, not of Hispanic origin",50,50,1,1,Yes,71,60,1,1,Yes,1,1,1,1,1,1
+R_3HtqEmGjiG4rozV,Low,Good,NC,FL_9,51,Male,"White, not of Hispanic origin",71,71,1,1,No,65,62,1,1,Not sure,1,1,1,1,0,1
+R_3QLEskfOfRVTVF6,Low,Bad,Causal,FL_10,22,Female,Black/ African American,100,100,1,0,Yes,100,100,0,1,Not sure,0,0,0,1,0,1
+R_7U4hgH8DXcedPLb,High,Good,NC,FL_13,26,Female,Black/ African American,93,100,1,1,Not sure,71,85,1,1,Yes,1,1,1,0,0,1
+R_2dT7vgCgnhIBOAE,Low,Good,Causal,FL_8,59,Female,"White, not of Hispanic origin",81,71,1,1,Yes,82,50,1,1,No,1,1,1,1,0,1
+R_UuT9OKIcL5GqVeV,High,Bad,Causal,FL_14,50,Female,Asian/ Pacific Islander,61,10,1,1,Not sure,29,14,1,1,No,1,1,1,0,0,1
+R_2Qm6C1czplJdtFw,Low,Bad,NC,FL_11,55,Female,"White, not of Hispanic origin",71,52,1,1,Not sure,51,51,1,1,No,1,1,1,0,1,1
+R_22RJLdlpL1cXAHo,Low,Bad,NC,FL_11,58,Female,"White, not of Hispanic origin",100,1,1,1,No,100,100,1,1,No,1,1,1,1,1,1
+R_5iMe0ZwYSmZ0R8t,High,Good,Causal,FL_12,43,Female,Black/ African American,44,55,0,1,Yes,36,85,1,0,Not sure,0,0,0,1,0,0
+R_Doa29I3WY4P71kt,High,Bad,NC,FL_15,40,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",51,32,1,1,Not sure,61,52,1,1,No,1,1,1,0,1,1
+R_2U0cPvvH8pLZfPk,High,Bad,NC,FL_15,30,Male,Black/ African American,47,48,1,0,Yes,47,53,1,1,Yes,0,1,0,0,0,1
+R_30kLCVBk9QoR8Tg,High,Bad,Causal,FL_14,64,Nonbinary,"White, not of Hispanic origin",51,30,1,1,Not sure,50,50,1,1,No,1,1,1,0,0,1
+R_2ZBoh0zU65kOB7j,Low,Bad,Causal,FL_10,54,Male,"White, not of Hispanic origin",51,85,1,1,Yes,71,25,1,1,Not sure,1,1,1,1,0,1
+R_2e2vkB4QvZBXrdp,High,Good,Causal,FL_12,60,Male,"White, not of Hispanic origin",52,54,1,1,Yes,51,50,1,0,Yes,1,0,0,1,1,0
+R_3h49a9Y3WrRiwax,Low,Bad,NC,FL_11,49,Male,"White, not of Hispanic origin",49,20,1,1,No,53,47,1,1,Not sure,1,1,1,1,0,1
+R_3dEAfbtFYEScd57,Low,Good,Causal,FL_8,59,Female,"White, not of Hispanic origin",72,51,1,1,Not sure,50,50,1,1,Yes,1,1,1,0,1,1
+R_1QMARvcToBTnNWS,High,Bad,NC,FL_15,50,Female,Hispanic,51,50,1,0,No,91,100,1,1,Not sure,0,1,0,1,0,1
+R_2azAoMHsCH5TlgC,High,Good,NC,FL_13,59,Male,"White, not of Hispanic origin",67,66,1,1,No,51,51,1,1,Not sure,1,1,1,1,0,1
+R_2bT4a5ue1LiGTxx,Low,Good,NC,FL_9,62,Male,"White, not of Hispanic origin",0,1,1,1,Not sure,0,0,1,1,Not sure,1,1,1,0,0,1
+R_XNfiza3bjmvHiRX,High,Good,NC,FL_13,58,Male,"White, not of Hispanic origin",50,82,1,1,No,71,71,1,1,No,1,1,1,1,1,1
+R_3qk6VJnovpQKvmk,Low,Bad,Causal,FL_10,62,Male,"White, not of Hispanic origin",96,50,1,1,Not sure,50,51,1,1,No,1,1,1,0,0,1
+R_30eMPwzSS7y3h90,High,Good,NC,FL_13,69,Male,"White, not of Hispanic origin",51,79,1,1,No,71,71,1,1,Not sure,1,1,1,1,0,1
+R_30jDormTwu3VMUu,Low,Good,NC,FL_9,63,Male,"White, not of Hispanic origin",71,49,1,1,Yes,40,52,1,1,No,1,1,1,0,1,1
+R_vVVRXpzyxGWzfzP,Low,Good,Causal,FL_8,64,Female,"White, not of Hispanic origin",100,51,1,1,No,82,81,0,1,No,1,0,0,0,0,1
+R_T0XGJ1K7Rra7UfD,Low,Good,NC,FL_9,66,Female,"White, not of Hispanic origin",51,51,1,1,No,28,82,1,1,No,1,1,1,1,1,1
+R_UEJTgzpMG8QE8o1,Low,Good,NC,FL_9,62,Male,Asian/ Pacific Islander,75,91,1,1,No,91,95,1,1,No,1,1,1,1,1,1
+R_2CymJgLQKGrrAyt,High,Bad,Causal,FL_14,70,Female,"White, not of Hispanic origin",58,61,1,1,Not sure,87,60,1,1,No,1,1,1,0,0,1
+R_2wThijfN56x6vyM,High,Good,Causal,FL_12,61,Male,"Asian/ Pacific Islander,White, not of Hispanic origin",77,76,1,1,Yes,67,71,1,0,Yes,1,0,0,1,1,0
+R_12gxUT1MVBuk9OY,High,Good,Causal,FL_12,35,Female,Black/ African American,50,49,1,1,Yes,78,51,1,0,Yes,1,0,0,1,1,0
+R_2AFpIZ3OoOvuJd4,Low,Bad,Causal,FL_10,59,Male,"White, not of Hispanic origin",85,96,1,1,Yes,42,50,1,1,No,1,1,1,1,0,1
+R_yOziX8oZy7dhFyF,High,Bad,NC,FL_15,66,Female,"White, not of Hispanic origin",61,37,1,1,No,82,79,1,1,No,1,1,1,1,1,1
+R_3OoGusnWpkyjQBR,Low,Bad,Causal,FL_10,39,Female,Black/ African American,32,32,0,1,No,31,16,0,1,No,0,0,0,0,0,1
+R_3L8ab6jtwyXZqlN,High,Bad,Causal,FL_14,49,Female,Black/ African American,51,49,1,1,No,89,46,1,0,Not sure,1,0,0,0,0,1
+R_pyBKU0P0udVy3Fn,Low,Bad,NC,FL_11,52,Female,"White, not of Hispanic origin",92,91,1,1,Yes,71,70,1,1,No,1,1,1,0,1,1
+R_3L76FXqvYYivr1n,Low,Good,Causal,FL_8,45,Female,Asian/ Pacific Islander,40,50,1,1,Yes,40,50,1,1,Yes,1,1,1,1,1,1
+R_DDcFl2BoL2JfRQJ,High,Bad,NC,FL_15,43,Male,Black/ African American,62,71,0,0,No,50,50,1,0,No,0,0,0,1,1,1
+R_0cAiPFarRRDE4p3,Low,Bad,NC,FL_11,56,Female,"White, not of Hispanic origin",76,50,1,1,Not sure,51,51,1,1,Not sure,1,1,1,0,0,1
+R_24HPj57HKa8ZVR0,High,Good,NC,FL_13,65,Female,"White, not of Hispanic origin",62,71,1,1,Not sure,70,51,1,1,Yes,1,1,1,0,0,1
+R_2cbzyrS7FIYNvJf,Low,Bad,Causal,FL_10,64,Female,"White, not of Hispanic origin",72,81,1,1,Yes,70,50,1,1,No,1,1,1,1,0,1
+R_xhB5tMxC8ZbxGIp,Low,Good,Causal,FL_8,66,Male,"White, not of Hispanic origin",50,50,1,1,Yes,81,61,1,1,No,1,1,1,1,0,1
+R_3J3jYVSADwf0Gl7,Low,Good,Causal,FL_8,66,Male,"White, not of Hispanic origin",50,54,1,1,Yes,69,62,1,1,No,1,1,1,1,0,1
+R_PNJqKu9kFlnPVkZ,High,Bad,Causal,FL_14,71,Female,"White, not of Hispanic origin",61,10,1,1,Not sure,61,72,1,1,Yes,1,1,1,0,1,1
+R_3RsJEoPMv4eE9fh,High,Bad,NC,FL_15,66,Male,"White, not of Hispanic origin",50,38,1,1,No,58,86,1,1,No,1,1,1,1,1,1
+R_22zf7PawtBa60WM,High,Good,Causal,FL_12,42,Female,"White, not of Hispanic origin",50,51,1,1,Yes,51,50,1,0,Yes,1,0,0,1,1,0
+R_2OJT36D12z9TjTB,Low,Good,NC,FL_9,63,Male,"White, not of Hispanic origin",86,88,1,1,No,71,85,1,1,No,1,1,1,1,1,1
+R_21p0f0urpumOBfJ,High,Good,Causal,FL_12,60,Female,"White, not of Hispanic origin",52,52,1,1,Yes,35,45,1,0,Yes,1,0,0,1,1,0
+R_1jJrQNuaCCnMJLz,High,Bad,NC,FL_15,66,Male,"White, not of Hispanic origin",71,71,1,0,No,71,71,1,0,No,0,0,0,1,1,1
+R_2t04GKeV1xbVgVF,Low,Bad,NC,FL_11,63,Male,"White, not of Hispanic origin",49,19,1,1,Yes,95,92,1,0,Not sure,1,0,0,0,0,1
+R_1ewrhUW18AEw8wl,Low,Good,NC,FL_9,69,Male,"White, not of Hispanic origin",82,87,1,1,Not sure,96,96,1,1,Yes,1,1,1,0,0,1
+R_DvOxyr0WdhMNz1f,High,Good,Causal,FL_12,62,Female,Black/ African American,67,60,1,1,Yes,29,37,1,1,No,1,1,1,1,0,1
+R_3P75TnNmHjxSWsC,Low,Good,NC,FL_9,59,Female,Black/ African American,56,56,1,1,Yes,34,35,0,0,Yes,1,0,0,0,0,0
+R_1rdIVfGHTUBc8sH,High,Good,NC,FL_13,63,Female,"White, not of Hispanic origin",50,50,1,1,No,40,51,1,1,No,1,1,1,1,1,1
+R_2R9fyphZxL4lpH6,Low,Bad,Causal,FL_10,67,Female,"White, not of Hispanic origin",82,10,0,1,Yes,51,51,1,1,No,0,1,0,1,0,1
+R_6Mc8ilnKqozAR8t,High,Bad,NC,FL_15,53,Male,Black/ African American,95,49,1,0,Yes,48,29,1,0,Not sure,0,0,0,0,0,1
+R_1eOvMtXMzT06wbn,Low,Bad,NC,FL_11,71,Female,"White, not of Hispanic origin",26,51,1,0,Not sure,1,10,1,0,Not sure,0,0,0,0,0,1
+R_uq6D7XYndyM3CyR,High,Good,NC,FL_13,67,Female,"White, not of Hispanic origin",51,50,1,1,No,51,50,1,1,No,1,1,1,1,1,1
+R_2wn0FFvIBLnxbB7,High,Bad,Causal,FL_14,59,Male,"White, not of Hispanic origin",51,51,1,1,No,9,4,1,1,No,1,1,1,0,0,1
+R_3QQ9gDbxsDuyjSx,Low,Bad,NC,FL_11,60,Male,American Indian/ Alaska Native,100,48,1,1,No,0,100,1,0,No,1,0,0,1,1,1
+R_2Vsj6fLC7La6EQT,Low,Good,NC,FL_9,49,Female,Black/ African American,19,51,1,1,No,29,20,0,1,Yes,1,0,0,1,0,1
+R_31iNuVReHhcU9ib,High,Good,Causal,FL_12,60,Female,"White, not of Hispanic origin",51,73,1,1,Not sure,71,80,1,0,Yes,1,0,0,0,1,0
+R_1f32Epqp6Qr42TA,High,Bad,Causal,FL_14,63,Female,"White, not of Hispanic origin",61,50,1,1,Yes,76,77,1,1,No,1,1,1,1,0,1
+R_xmUqNz7syzSq0QF,Low,Good,Causal,FL_8,61,Female,"White, not of Hispanic origin",100,51,1,0,Yes,30,40,1,1,No,0,1,0,1,0,1
+R_2akmtNCt2ZoMaS2,Low,Bad,Causal,FL_10,73,Female,Black/ African American,81,8,0,1,Yes,9,9,1,1,Not sure,0,1,0,1,0,1
+R_PHRTQMoKp0iz68x,High,Good,Causal,FL_12,76,Female,Black/ African American,61,71,1,1,Yes,20,28,1,1,Yes,1,1,1,1,1,1
+R_1YSJaBN1zvekUwN,High,Good,NC,FL_13,49,Female,Black/ African American,51,62,1,1,No,71,83,1,1,No,1,1,1,1,1,1
+R_3M43WZqyV1W1X0r,High,Bad,Causal,FL_14,64,Male,"White, not of Hispanic origin",40,19,1,1,No,76,61,1,1,No,1,1,1,0,0,1
+R_9WXYEXBxTaMpLah,High,Bad,NC,FL_15,62,Female,"White, not of Hispanic origin,Hispanic",50,40,1,1,Yes,29,30,1,1,No,1,1,1,0,1,1
+R_1OCZdqYnZBeIyTb,Low,Good,NC,FL_9,55,Male,"White, not of Hispanic origin",100,100,1,1,No,83,73,1,1,No,1,1,1,1,1,1
+R_1DwqEKdZxxk9LUt,Low,Bad,Causal,FL_10,62,Female,"White, not of Hispanic origin",71,60,1,1,Not sure,18,12,0,1,No,1,0,0,0,0,1
+R_26etjLY2wdEZqwY,Low,Good,Causal,FL_8,51,Male,South Asian/ Indian,71,76,1,1,No,71,82,1,1,Yes,1,1,1,0,1,1
+R_2WDvcUtNv6xOLne,Low,Bad,NC,FL_11,49,Female,Asian/ Pacific Islander,60,41,1,1,No,62,51,1,1,Yes,1,1,1,1,0,1
+R_3scTDXXkIJgecC0,Low,Good,Causal,FL_8,33,Male,Black/ African American,45,50,0,0,No,86,60,1,1,No,0,1,0,0,0,1
+R_2dGwoy21pEL65rt,High,Bad,Causal,FL_14,55,Male,"American Indian/ Alaska Native,Asian/ Pacific Islander,Black/ African American,South Asian/ Indian,White, not of Hispanic origin",52,52,1,1,No,38,8,1,1,No,1,1,1,0,0,1
+R_3L7sUC8mbUQV7nI,Low,Bad,NC,FL_11,66,Female,Black/ African American,61,30,1,1,Yes,82,32,1,1,No,1,1,1,0,1,1
+R_0kP6QsyP33HWKVH,High,Good,Causal,FL_12,67,Female,Black/ African American,6,50,0,1,Not sure,90,82,1,0,Yes,0,0,0,0,1,0
+R_28Pa9EmFQYD3fop,High,Good,NC,FL_13,44,Male,Hispanic,29,50,1,1,No,81,92,1,1,No,1,1,1,1,1,1
+R_2DLYGAU0E8W7Idu,High,Bad,NC,FL_15,62,Female,Black/ African American,54,6,1,1,No,100,8,1,1,Not sure,1,1,1,1,0,1
+R_Xj5wkAfLKqq9DYR,Low,Bad,Causal,FL_10,62,Male,Black/ African American,100,100,1,1,Yes,5,100,0,1,Yes,1,0,0,1,1,1
+R_3qDOTcnJMTXPh8S,Low,Good,NC,FL_9,60,Female,Asian/ Pacific Islander,81,91,1,1,No,39,50,1,1,Not sure,1,1,1,1,0,1
+R_1B1afMmHXtqToLD,High,Bad,NC,FL_15,74,Male,Black/ African American,40,8,1,1,No,30,19,1,1,No,1,1,1,1,1,1
+R_3eh1idl2WDbLYCG,Low,Good,Causal,FL_8,61,Male,Black/ African American,51,51,1,1,Yes,50,51,0,1,No,1,0,0,1,0,1
+R_3EuQ5eddVZpRWIa,Low,Bad,Causal,FL_10,59,Male,"American Indian/ Alaska Native,Black/ African American",53,15,1,1,Yes,72,49,1,1,No,1,1,1,1,0,1
+R_2R9XVjwNBEJmHwB,Low,Bad,NC,FL_11,74,Male,Black/ African American,91,71,1,1,Yes,92,91,1,1,No,1,1,1,0,1,1
+R_3fSLyaWyvcTotFv,Low,Bad,Causal,FL_10,31,Female,"White, not of Hispanic origin,Hispanic",100,50,1,1,Yes,98,48,1,1,Yes,1,1,1,1,1,1
+R_sjIhvAuM8daL3od,Low,Good,Causal,FL_8,24,Female,"White, not of Hispanic origin",81,61,1,1,No,100,81,1,1,No,1,1,1,0,0,1
+R_2OJCVIlqCkk8h1N,Low,Bad,Causal,FL_10,20,Male,Asian/ Pacific Islander,70,50,1,0,Yes,49,50,1,0,Yes,0,0,0,1,1,1
+R_2ASw9vrhG3ykTYT,Low,Good,Causal,FL_8,27,Female,"White, not of Hispanic origin",86,51,1,1,No,71,50,1,1,No,1,1,1,0,0,1
+R_3D62qovGLlMLc9N,High,Good,Causal,FL_12,25,Female,"White, not of Hispanic origin",81,52,1,1,Yes,70,81,1,1,Yes,1,1,1,1,1,1
+R_1DqnHdsNJxIdTAL,Low,Bad,Causal,FL_10,21,Female,Hispanic,83,60,0,1,Yes,67,56,1,0,Yes,0,0,0,1,1,1
+R_qxeBwsEvPb0RlRf,Low,Good,Causal,FL_8,42,Female,"White, not of Hispanic origin",50,52,1,1,Yes,100,40,1,1,No,1,1,1,1,0,1
+R_10ud1uQtddy0EV5,High,Good,Causal,FL_12,20,Female,"White, not of Hispanic origin",66,53,1,1,Yes,26,52,1,1,Yes,1,1,1,1,1,1
+R_zYdJQFbNcCiBNwR,Low,Bad,Causal,FL_10,22,Male,Asian/ Pacific Islander,100,100,1,1,Yes,57,41,1,1,Yes,1,1,1,1,1,1
+R_0DjLW2FeGixckSt,Low,Bad,NC,FL_11,25,Male,"White, not of Hispanic origin",51,46,1,1,No,83,83,0,0,No,1,0,0,1,1,1
+R_29UIuiDiu7HORod,High,Good,Causal,FL_12,56,Female,"White, not of Hispanic origin",57,51,1,1,Yes,81,60,1,1,Yes,1,1,1,1,1,1
+R_VI7HKB4WWY816g1,Low,Good,Causal,FL_8,57,Female,"White, not of Hispanic origin",100,83,1,1,Not sure,78,74,1,1,No,1,1,1,0,0,1
+R_sUxPMYCysFWLalH,Low,Bad,Causal,FL_10,43,Male,"White, not of Hispanic origin",71,51,1,0,Yes,60,56,0,1,Yes,0,0,0,1,1,1
+R_2CDRETNoVpyJt8R,Low,Bad,NC,FL_11,31,Male,Asian/ Pacific Islander,100,100,1,0,No,47,50,1,1,No,0,1,0,1,1,1
+R_3KpaQSxR31miUqz,Low,Bad,Causal,FL_10,26,Nonbinary,"White, not of Hispanic origin",81,81,1,1,Yes,71,72,1,1,No,1,1,1,1,0,1
+R_3HzSSnHtdTVy7cd,Low,Good,Causal,FL_8,32,Female,"White, not of Hispanic origin",81,56,1,1,Yes,71,71,1,1,Yes,1,1,1,1,1,1
+R_2DTXMZA7EvTvcHq,High,Bad,NC,FL_15,22,Male,"White, not of Hispanic origin",61,29,1,1,No,40,50,1,1,No,1,1,1,1,1,1
+R_02mW1pshpgvViGl,Low,Good,NC,FL_9,31,Female,"White, not of Hispanic origin",99,96,1,1,No,100,100,1,1,No,1,1,1,1,1,1
+R_1dhvKASV2AAdmVc,High,Good,Causal,FL_12,22,Female,"White, not of Hispanic origin",100,51,0,1,Yes,100,99,0,0,No,0,0,0,1,0,0
+R_uvKPspAUc0FTFZL,Low,Bad,NC,FL_11,77,Female,"White, not of Hispanic origin",62,20,1,0,Yes,82,83,1,0,Yes,0,0,0,0,0,1
+R_1OWd1kQ984eZMfU,High,Good,Causal,FL_12,28,Female,Hispanic,36,51,1,1,Yes,0,0,1,0,Yes,1,0,0,1,1,0
+R_1CsBU5HmsQ2n1sE,High,Bad,NC,FL_15,32,Female,"White, not of Hispanic origin",50,50,1,1,No,19,19,1,1,No,1,1,1,1,1,1
+R_picMoyGD1eMP8EV,Low,Good,Causal,FL_8,26,Male,"White, not of Hispanic origin",71,50,1,1,Not sure,71,50,1,1,Not sure,1,1,1,0,0,1
+R_3P4ZPfzhItKF01C,Low,Bad,NC,FL_11,22,Female,"White, not of Hispanic origin",100,93,1,1,Yes,83,88,1,0,No,1,0,0,0,1,1
+R_2XaNaNI4BMVhLT2,High,Good,Causal,FL_12,25,Female,"White, not of Hispanic origin",56,57,1,1,Yes,51,58,1,1,Yes,1,1,1,1,1,1
+R_1rcxK9bf9oUHpU0,Low,Good,NC,FL_9,25,Female,"White, not of Hispanic origin",92,93,1,1,No,82,82,0,1,Yes,1,0,0,1,0,1
+R_3EEeg4ufgbqpFVw,High,Bad,NC,FL_15,31,Male,"Black/ African American,White, not of Hispanic origin",40,19,1,1,Not sure,19,19,1,1,No,1,1,1,0,1,1
+R_11ijFNmoAgOajWE,High,Good,Causal,FL_12,31,Female,"Black/ African American,Hispanic",50,40,1,1,Yes,30,19,1,0,No,1,0,0,1,0,0
+R_2SdxFIFwoCsu06D,High,Bad,NC,FL_15,27,Male,"White, not of Hispanic origin",51,36,1,1,Yes,78,74,1,1,No,1,1,1,0,1,1
+R_2rUvMCj8bJDHpXf,Low,Bad,NC,FL_11,24,Female,Asian/ Pacific Islander,93,100,1,0,Yes,50,72,1,1,Not sure,0,1,0,0,0,1
+R_xtsY737G7qL1V4J,Low,Good,Causal,FL_8,55,Male,"White, not of Hispanic origin",96,71,1,1,Not sure,75,63,1,1,Yes,1,1,1,0,1,1
+R_Xtu7pVx2tqI4rL3,Low,Good,NC,FL_9,23,Female,"White, not of Hispanic origin",8,9,1,1,Not sure,10,9,1,1,Not sure,1,1,1,0,0,1
+R_11Y240v9z2TwkKp,Low,Bad,NC,FL_11,37,Female,"White, not of Hispanic origin",68,79,1,1,Yes,82,78,1,1,No,1,1,1,0,1,1
+R_1ibvbYtR4opInH3,Low,Bad,Causal,FL_10,18,Female,"White, not of Hispanic origin",61,51,1,1,Yes,72,55,1,1,Not sure,1,1,1,1,0,1
+R_2sc2HTkGsuBNCrl,Low,Good,Causal,FL_8,32,Male,"Asian/ Pacific Islander,White, not of Hispanic origin",0,34,1,1,Yes,14,19,1,1,No,1,1,1,1,0,1
+R_3OpukcKl3wzkHhW,Low,Bad,Causal,FL_10,36,Male,Black/ African American,45,51,0,1,Yes,46,44,0,0,Yes,0,0,0,1,1,1
+R_3D7tBUjZbfsdW7U,High,Bad,Causal,FL_14,23,Female,Asian/ Pacific Islander,50,19,1,1,Not sure,100,71,1,1,Yes,1,1,1,0,1,1
+R_2RPrGrcG5xuYggF,High,Bad,NC,FL_15,23,Female,"Asian/ Pacific Islander,Black/ African American",52,52,1,0,No,100,100,1,1,Not sure,0,1,0,1,0,1
+R_2riLph6FL78mED6,High,Good,NC,FL_13,35,Female,"White, not of Hispanic origin",52,34,1,1,Yes,90,97,1,1,Not sure,1,1,1,0,0,1
+R_ThzUQM0bNW2zpXX,Low,Good,NC,FL_9,26,Self-identified/other,"White, not of Hispanic origin",86,86,1,1,No,100,100,1,1,No,1,1,1,1,1,1
+R_BXK7nagnDl2xbY5,Low,Bad,NC,FL_11,23,Female,Black/ African American,87,100,1,0,Yes,100,100,1,0,No,0,0,0,0,1,1
+R_2qeEklyzch9ZoWu,Low,Good,Causal,FL_8,29,Male,"White, not of Hispanic origin",92,71,1,1,No,81,71,1,1,No,1,1,1,0,0,1
+R_1M5GpCFtA4PQItP,High,Good,NC,FL_13,18,Male,Asian/ Pacific Islander,50,76,1,1,No,95,96,1,1,Yes,1,1,1,1,0,1
+R_YSxNXUQNzevGcO5,High,Bad,NC,FL_15,21,Male,Hispanic,40,40,1,1,No,81,81,1,1,No,1,1,1,1,1,1
+R_8wVXQNbciagl7rP,Low,Bad,NC,FL_11,24,Female,"White, not of Hispanic origin",81,51,1,0,No,95,40,1,1,No,0,1,0,1,1,1
+R_tEULXCpH3K22O8F,High,Good,Causal,FL_12,57,Male,"White, not of Hispanic origin",52,50,1,1,Not sure,60,50,1,0,Not sure,1,0,0,0,0,0
+R_xgCTOmfAVxuuYqB,High,Good,Causal,FL_12,27,Female,Black/ African American,49,58,1,1,Yes,65,70,1,1,Yes,1,1,1,1,1,1
+R_3NLmacoZI9UIIcD,Low,Bad,Causal,FL_10,21,Male,"White, not of Hispanic origin",80,82,1,1,Yes,71,68,1,1,No,1,1,1,1,0,1
+R_1QFwX4lNyEHMZ8r,Low,Bad,Causal,FL_10,20,Male,"Asian/ Pacific Islander,White, not of Hispanic origin",30,9,0,1,Yes,83,51,1,1,No,0,1,0,1,0,1
+R_3Pcp49S3IstCuMR,Low,Good,NC,FL_9,32,Male,"White, not of Hispanic origin",100,100,1,1,No,60,50,0,1,Yes,1,0,0,1,0,1
+R_2alsYFQLHwJpweZ,Low,Good,Causal,FL_8,23,Male,"White, not of Hispanic origin",81,50,0,1,Yes,30,17,1,1,Yes,0,1,0,1,1,1
+R_u830CeOlnmfjvgZ,High,Good,NC,FL_13,20,Female,Hispanic,71,60,1,1,No,88,91,1,1,Not sure,1,1,1,1,0,1
+R_3sKjTRNLdXpnxQt,High,Bad,NC,FL_15,34,Male,"White, not of Hispanic origin",49,19,1,1,Not sure,70,78,1,1,No,1,1,1,0,1,1
+R_33ma8ew3ir219VG,Low,Good,NC,FL_9,19,Male,Asian/ Pacific Islander,93,92,1,1,No,90,93,1,1,No,1,1,1,1,1,1
+R_2BaH9BXy8ePl3VW,High,Bad,Causal,FL_14,19,Male,Asian/ Pacific Islander,40,19,1,1,Not sure,76,13,1,1,Not sure,1,1,1,0,0,1
+R_BK9BTFXwfM2uHMR,Low,Bad,NC,FL_11,19,Female,Black/ African American,100,39,1,1,Yes,81,27,1,1,Not sure,1,1,1,0,0,1
+R_u9uJmne4BRWtxvj,Low,Good,Causal,FL_8,40,Male,"White, not of Hispanic origin",85,59,1,1,No,80,81,1,1,No,1,1,1,0,0,1
+R_3DhD0cvj8UmRUuS,High,Good,Causal,FL_12,43,Male,"White, not of Hispanic origin",57,52,1,1,Yes,91,83,1,1,Not sure,1,1,1,1,0,1
+R_128Yp8exwdMFv9T,Low,Good,Causal,FL_8,23,Female,Black/ African American,70,51,1,1,Yes,85,66,1,1,Yes,1,1,1,1,1,1
+R_Tbz21Ltndkn6rPH,Low,Good,NC,FL_9,28,Male,Hispanic,81,50,1,1,No,97,97,1,1,No,1,1,1,1,1,1
+R_9RHRevROGwUU7W9,Low,Bad,Causal,FL_10,34,Female,"White, not of Hispanic origin",100,51,1,1,Yes,99,51,1,1,No,1,1,1,1,0,1
+R_vHO0dXFwF13ihe9,High,Good,Causal,FL_12,59,Female,"White, not of Hispanic origin",50,50,1,1,Yes,50,50,1,1,No,1,1,1,1,0,1
+R_bOskKpCkVNyM7U5,High,Bad,Causal,FL_14,48,Male,"White, not of Hispanic origin",72,61,1,1,Yes,71,58,1,1,Yes,1,1,1,1,1,1
+R_3iEe7ZV2Ch2qADG,High,Bad,Causal,FL_14,28,Female,"White, not of Hispanic origin",50,1,1,1,Not sure,70,9,1,1,Yes,1,1,1,0,1,1
+R_1IN1zKe8JI8hXVo,High,Good,NC,FL_13,52,Female,"White, not of Hispanic origin",50,51,1,1,No,82,93,1,1,No,1,1,1,1,1,1
+R_1CBeazc7gS3TFgg,Low,Good,NC,FL_9,42,Male,Black/ African American,100,40,1,1,No,100,60,1,1,Not sure,1,1,1,1,0,1
+R_3HMHMZwpr6UwZ5C,High,Good,Causal,FL_12,32,Male,"White, not of Hispanic origin",50,49,1,1,Yes,54,47,1,1,Yes,1,1,1,1,1,1
+R_2ahPR5ppcYKalIe,Low,Bad,Causal,FL_10,37,Male,"White, not of Hispanic origin",51,58,1,1,Not sure,40,30,1,1,Yes,1,1,1,0,1,1
+R_1DvRvAkJmLf6TlY,Low,Bad,NC,FL_11,27,Male,"Black/ African American,Hispanic",71,100,1,0,Yes,51,31,0,1,No,0,0,0,0,1,1
+R_1mygsrAVR78pNek,High,Good,Causal,FL_12,29,Male,"White, not of Hispanic origin",50,50,1,1,Yes,18,50,1,1,Yes,1,1,1,1,1,1
+R_1OH1epZspETJEal,Low,Good,Causal,FL_8,21,Male,Black/ African American,26,94,1,1,No,17,77,1,1,Not sure,1,1,1,0,0,1
+R_XnpAsnwSVARvsAN,High,Good,NC,FL_13,23,Female,"White, not of Hispanic origin",50,70,1,1,Not sure,63,74,1,1,No,1,1,1,0,1,1
+R_2YWknGC9ItdBj08,High,Bad,NC,FL_15,46,Female,"White, not of Hispanic origin",53,54,1,1,No,82,87,1,0,No,1,0,0,1,1,1
+R_D0RGFmuOm8i6yad,High,Bad,NC,FL_15,27,Female,Asian/ Pacific Islander,75,51,1,1,Not sure,29,30,1,1,Not sure,1,1,1,0,0,1
+R_1LeC8QIXE7p9QJS,Low,Good,NC,FL_9,32,Male,Asian/ Pacific Islander,82,82,1,1,No,50,50,1,1,No,1,1,1,1,1,1
+R_31T3AzbAOfk9mV5,Low,Good,Causal,FL_8,24,Male,Asian/ Pacific Islander,72,60,1,1,No,36,50,1,1,Not sure,1,1,1,0,0,1
+R_1femvv6BYQGDHPZ,High,Bad,Causal,FL_14,41,Female,"White, not of Hispanic origin",62,55,1,1,No,81,82,1,1,No,1,1,1,0,0,1
+R_xz7ih5dalmjgN21,High,Good,NC,FL_13,42,Male,"White, not of Hispanic origin",51,49,1,1,Not sure,47,60,1,1,Not sure,1,1,1,0,0,1
+R_71wZ2J6zYv23FcZ,Low,Bad,NC,FL_11,36,Male,"White, not of Hispanic origin",73,51,1,1,No,29,34,0,1,No,1,0,0,1,1,1
+R_1PRfnB6T49sWNsx,High,Good,NC,FL_13,0,Male,0,72,80,1,1,No,82,51,0,1,Not sure,1,0,0,1,0,1
+R_1pyuMKDebAST7dl,Low,Bad,Causal,FL_10,23,Male,"White, not of Hispanic origin",94,80,1,1,Yes,97,69,1,1,No,1,1,1,1,0,1
+R_3GBefpfhFbmBetL,Low,Bad,Causal,FL_10,39,Female,Other (please specify),20,7,0,1,No,50,52,0,1,No,0,0,0,0,0,1
+R_0JMR27VhtBVcXtL,Low,Good,NC,FL_9,50,Female,"White, not of Hispanic origin",90,91,1,1,No,63,89,1,0,Yes,1,0,0,1,0,0
+R_dp7BWGHnC5NZIxX,Low,Bad,NC,FL_11,36,Female,"White, not of Hispanic origin",48,52,1,1,No,89,84,0,1,No,1,0,0,1,1,1
+R_3JmiJHRVK99E7bw,High,Bad,Causal,FL_14,24,Female,"Asian/ Pacific Islander,White, not of Hispanic origin,Hispanic",53,48,1,1,Not sure,56,50,1,1,No,1,1,1,0,0,1
+R_xscdsQFxEqV3YjL,High,Bad,NC,FL_15,42,Female,"White, not of Hispanic origin",60,60,1,1,No,81,87,1,1,No,1,1,1,1,1,1
+R_1GJ8utZM0xIruSt,High,Bad,Causal,FL_14,24,Male,Asian/ Pacific Islander,50,46,1,1,Yes,56,51,1,1,No,1,1,1,1,0,1
+R_XHUrQCGNgr2Yrf3,Low,Good,NC,FL_9,23,Female,Black/ African American,76,76,1,1,No,100,81,1,1,Not sure,1,1,1,1,0,1
+R_31EQMX0TV1Y2Aak,High,Good,NC,FL_13,39,Female,"White, not of Hispanic origin",66,67,1,1,No,81,81,1,1,No,1,1,1,1,1,1
+R_1Hk1XLh3zpOTHfU,Low,Good,Causal,FL_8,21,Female,Black/ African American,90,73,1,1,Not sure,88,72,1,1,Not sure,1,1,1,0,0,1
+R_6zXISKYIoZIN8jv,High,Bad,NC,FL_15,20,Male,"American Indian/ Alaska Native,White, not of Hispanic origin",50,38,1,0,Not sure,37,37,1,0,Yes,0,0,0,0,0,1
+R_Q6TkOKTfTyT4x6F,High,Good,Causal,FL_12,22,Female,"White, not of Hispanic origin",50,50,1,1,Yes,86,65,1,1,Yes,1,1,1,1,1,1
+R_11YHp6QyM1Nk9dp,Low,Bad,NC,FL_11,18,Male,"White, not of Hispanic origin",71,50,1,1,Not sure,92,71,1,0,No,1,0,0,0,1,1
+R_2znJmakiWhGC1rY,Low,Bad,NC,FL_11,18,Male,Asian/ Pacific Islander,92,51,1,1,Not sure,70,71,0,1,No,1,0,0,0,1,1
+R_1db1J3S6rQo0EOm,Low,Bad,NC,FL_11,26,Male,"White, not of Hispanic origin",70,18,1,0,No,80,41,1,1,Not sure,0,1,0,1,0,1
+R_1djdPzHiAXNZaFD,Low,Bad,NC,FL_11,26,Female,"White, not of Hispanic origin",100,52,1,1,No,100,100,1,0,No,1,0,0,1,1,1
+R_3EgaPHNBBqwgW2d,Low,Bad,NC,FL_11,27,Female,"White, not of Hispanic origin",91,40,1,1,No,61,40,1,1,No,1,1,1,1,1,1
+R_3CrEZrYDtixVaz7,Low,Bad,NC,FL_11,27,Female,Asian/ Pacific Islander,97,90,1,0,No,67,75,0,1,Yes,0,0,0,1,0,1
+R_3MMAwYlVdPqJkGY,Low,Bad,Causal,FL_10,29,Female,"White, not of Hispanic origin",86,100,1,1,Not sure,100,57,1,1,No,1,1,1,0,0,1
+R_2ctru7py3GnTPHZ,Low,Bad,NC,FL_11,23,Male,"White, not of Hispanic origin",27,42,1,1,Not sure,52,26,0,1,No,1,0,0,0,1,1
+R_eA2ruJsaoq15SNj,Low,Bad,Causal,FL_10,29,Female,"White, not of Hispanic origin",58,35,1,1,Yes,65,42,1,1,Not sure,1,1,1,1,0,1
+R_1LBcZnO01jLUS6S,Low,Bad,Causal,FL_10,39,Male,"White, not of Hispanic origin",99,97,0,0,No,83,78,1,1,No,0,1,0,0,0,1
+R_exOPDMKveskXSvL,Low,Bad,Causal,FL_10,22,Male,"White, not of Hispanic origin",85,85,0,1,Yes,71,71,0,1,Yes,0,0,0,1,1,1
+R_1rqCQ1h1iGm3vLn,High,Good,Causal,FL_12,32,Male,"White, not of Hispanic origin,Hispanic",72,40,1,1,Yes,71,49,1,1,Yes,1,1,1,1,1,1
+R_OwyZskJCbvNN4wV,Low,Bad,NC,FL_11,29,Female,"White, not of Hispanic origin",89,92,1,1,No,91,93,1,0,No,1,0,0,1,1,1
+R_11i5RrIcKRzbeDf,High,Good,Causal,FL_12,20,Male,Hispanic,63,63,1,1,Yes,47,65,1,1,Yes,1,1,1,1,1,1
+R_1pPUKlmoaVFsR9t,Low,Bad,NC,FL_11,35,Female,"White, not of Hispanic origin",78,77,1,1,Not sure,88,88,1,1,No,1,1,1,0,1,1
+R_5tkOfJWawCbUK6l,Low,Bad,NC,FL_11,37,Female,"White, not of Hispanic origin",83,52,1,1,No,81,81,1,0,Not sure,1,0,0,1,0,1
+R_3qXcBW6BAPXaeWN,Low,Bad,NC,FL_11,28,Female,"White, not of Hispanic origin",93,92,1,1,Yes,50,52,0,1,No,1,0,0,0,1,1
+R_31oVMiYWalOZRh4,Low,Bad,Causal,FL_10,40,Male,"White, not of Hispanic origin",22,57,0,1,Not sure,64,48,1,1,Yes,0,1,0,0,1,1
+R_vwATR6BaSqodgIN,Low,Good,NC,FL_9,23,Female,"White, not of Hispanic origin",34,13,1,1,No,9,15,0,1,No,1,0,0,1,1,1
+R_2y2Q8TPufKeTis7,High,Bad,NC,FL_15,22,Female,"White, not of Hispanic origin",64,66,1,1,Yes,61,69,1,1,Yes,1,1,1,0,0,1
+R_30bLJZGUN9515uZ,High,Good,Causal,FL_12,28,Male,Asian/ Pacific Islander,51,52,1,1,Yes,81,61,1,1,No,1,1,1,1,0,1
+R_1KkdDQelpkVHDYM,Low,Good,Causal,FL_8,30,Male,Asian/ Pacific Islander,91,71,1,1,No,45,50,1,0,Yes,1,0,0,0,1,0
+R_1medv9lgAy6DZBH,Low,Bad,NC,FL_11,50,Male,"White, not of Hispanic origin",50,51,1,1,No,81,81,1,1,No,1,1,1,1,1,1
+R_2wS9eS7Jr8NoQy6,High,Bad,NC,FL_15,30,Male,Asian/ Pacific Islander,50,50,1,1,No,82,81,1,0,No,1,0,0,1,1,1
+R_11gsHkLqfdGJ8h4,Low,Bad,Causal,FL_10,21,Male,"White, not of Hispanic origin,Hispanic",71,19,1,1,Yes,53,52,1,1,Not sure,1,1,1,1,0,1
+R_1rOXHziX1Hk3eKW,High,Bad,NC,FL_15,26,Male,"White, not of Hispanic origin",53,58,1,1,No,75,40,1,1,No,1,1,1,1,1,1
+R_1IYKM7aD5YslsaI,High,Good,Causal,FL_12,50,Male,"White, not of Hispanic origin",55,54,1,0,Yes,59,54,1,0,Not sure,0,0,0,1,0,0
+R_rjBLN7uoViiDTb3,High,Good,Causal,FL_12,22,Male,"American Indian/ Alaska Native,White, not of Hispanic origin",60,50,1,1,Yes,81,69,1,1,Yes,1,1,1,1,1,1
+R_3g0B8R3YJGziuRE,Low,Bad,Causal,FL_10,29,Male,"American Indian/ Alaska Native,Black/ African American,White, not of Hispanic origin",60,50,1,1,Not sure,51,4,1,1,No,1,1,1,0,0,1
+R_2vbKEB2FKCdPVAr,Low,Bad,NC,FL_11,18,Male,"White, not of Hispanic origin",86,85,1,1,Yes,54,40,0,1,No,1,0,0,0,1,1
+R_2ONkBVxFjK15xw7,Low,Bad,NC,FL_11,32,Male,"White, not of Hispanic origin",100,100,1,1,Yes,81,100,0,1,No,1,0,0,0,1,1
+R_2VjBHO6htQfo0Pz,Low,Bad,NC,FL_11,46,Male,"White, not of Hispanic origin",85,51,1,1,Yes,91,92,1,0,Yes,1,0,0,0,0,1
+R_2fHARjwdclUISLu,Low,Bad,NC,FL_11,30,Male,Asian/ Pacific Islander,40,81,1,1,Yes,61,70,0,1,Yes,1,0,0,0,0,1
+R_UYD56MstrfJfGBr,Low,Bad,Causal,FL_10,26,Female,"White, not of Hispanic origin",62,45,1,1,Yes,88,17,1,1,Yes,1,1,1,1,1,1
+R_2PvaHeTgxAJQtu3,Low,Bad,Causal,FL_10,41,Male,"White, not of Hispanic origin",100,100,1,1,No,100,100,1,1,No,1,1,1,0,0,1
+R_2RX13Ji4Pkof1Z4,Low,Bad,NC,FL_11,42,Female,"White, not of Hispanic origin",100,100,1,1,No,100,100,1,1,No,1,1,1,1,1,1
+R_YXk2sKSKioySz3X,Low,Bad,NC,FL_11,30,Female,"White, not of Hispanic origin",100,72,0,1,Yes,81,0,1,0,Yes,0,0,0,0,0,1
+R_25Nqg9xbVsaGP9o,Low,Bad,Causal,FL_10,27,Female,"White, not of Hispanic origin",81,81,1,1,Yes,61,29,0,1,No,1,0,0,1,0,1
+R_3n3vrcHoJ3NfiUx,Low,Good,NC,FL_9,32,Female,Asian/ Pacific Islander,70,71,1,1,No,82,93,1,1,Yes,1,1,1,1,0,1
+R_2XakXH1atWA1dmk,Low,Bad,NC,FL_11,27,Female,"White, not of Hispanic origin",91,49,1,1,Not sure,59,60,1,0,No,1,0,0,0,1,1
+R_A04Hh2zziTrEoDf,High,Bad,NC,FL_15,18,Female,Asian/ Pacific Islander,18,30,1,1,Yes,50,40,1,1,No,1,1,1,0,1,1
+R_do2jTIYXpwycwa5,Low,Good,NC,FL_9,35,Female,Hispanic,81,72,1,1,Not sure,60,49,1,1,No,1,1,1,0,1,1
+R_2WuIRNAzECLBUQm,Low,Good,Causal,FL_8,28,Female,"White, not of Hispanic origin",92,61,1,1,Yes,86,87,1,1,Not sure,1,1,1,1,0,1
+R_3QssguZnnh8cSCB,Low,Bad,NC,FL_11,29,Female,"White, not of Hispanic origin",100,100,1,1,No,71,91,0,1,No,1,0,0,1,1,1
+R_2b1KPwnQvgCtsWM,Low,Bad,Causal,FL_10,22,Male,"White, not of Hispanic origin",29,65,1,0,Yes,68,45,0,1,No,0,0,0,1,0,1
+R_3noXkL88pxUlgEK,Low,Bad,NC,FL_11,26,Male,"White, not of Hispanic origin",50,50,1,1,Not sure,51,51,1,1,No,1,1,1,0,1,1
+R_2VlpOsPfLB0lece,Low,Bad,NC,FL_11,21,Female,"White, not of Hispanic origin",69,57,1,1,Not sure,84,77,1,1,No,1,1,1,0,1,1
+R_2urO3JJrf9jvJRz,Low,Bad,NC,FL_11,29,Female,"White, not of Hispanic origin",81,87,1,1,Yes,67,49,1,1,Not sure,1,1,1,0,0,1
+R_3DbvsMZuksBzMIv,Low,Bad,NC,FL_11,41,Female,Hispanic,93,37,1,1,No,83,70,0,1,No,1,0,0,1,1,1
+R_1PSkfNT4gUIpRtz,Low,Bad,NC,FL_11,24,Male,"White, not of Hispanic origin",92,92,1,1,No,61,81,1,1,Yes,1,1,1,1,0,1
+R_32Jjoxzk5EvsncD,Low,Bad,NC,FL_11,36,Female,"White, not of Hispanic origin",80,92,0,0,Not sure,71,81,0,1,No,0,0,0,0,1,1
+R_ykxNiQb8gXKZ9YJ,Low,Bad,NC,FL_11,24,Male,Asian/ Pacific Islander,92,71,1,1,No,92,92,1,0,No,1,0,0,1,1,1
+R_3iqZjAWzDC1VtZZ,Low,Bad,Causal,FL_10,46,Female,"White, not of Hispanic origin",59,75,1,0,Yes,68,70,1,0,No,0,0,0,1,0,1
+R_26hfjYBKpNPIOqq,Low,Bad,Causal,FL_10,32,Female,"White, not of Hispanic origin",92,11,1,1,Yes,60,42,0,1,Not sure,1,0,0,1,0,1
+R_2sYkdWvo4X8WHcx,Low,Bad,NC,FL_11,25,Nonbinary,"White, not of Hispanic origin,Other (please specify)",82,51,1,1,No,81,100,1,1,No,1,1,1,1,1,1
+R_9LYTbmc7Qipb1AZ,Low,Bad,NC,FL_11,28,Female,"White, not of Hispanic origin",51,50,1,1,No,51,51,1,1,No,1,1,1,1,1,1
+R_D629nZZORx4arsJ,Low,Bad,Causal,FL_10,36,Female,"White, not of Hispanic origin",88,62,1,1,No,72,72,1,1,No,1,1,1,0,0,1
+R_3D7TEH1w6iYCjiy,Low,Bad,Causal,FL_10,33,Male,"White, not of Hispanic origin",71,14,1,1,Yes,68,14,1,1,No,1,1,1,1,0,1
+R_25Tm5PPKnAETuUe,Low,Bad,NC,FL_11,23,Female,"White, not of Hispanic origin",55,29,1,1,Yes,50,50,1,0,Yes,1,0,0,0,0,1
+R_1rcft8ClGtJmSCv,Low,Bad,NC,FL_11,23,Female,Hispanic,100,57,1,1,Not sure,79,77,0,0,No,1,0,0,0,1,1
+R_2tJ68zwrLtYku2V,Low,Bad,NC,FL_11,23,Male,"White, not of Hispanic origin",70,51,1,1,No,41,49,1,1,No,1,1,1,1,1,1
