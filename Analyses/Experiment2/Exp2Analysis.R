@@ -5,6 +5,7 @@ library(heplots)
 library(pwr)
 library(lsr)
 library(afex)
+library(effsize)
 setwd("../../data/Experiment2")
 #setwd("~/Desktop/Active Studies/Overreaction/data/Experiment 2")
 
@@ -27,6 +28,10 @@ dat.pre.scenario <- dat %>%
 dat.post.scenario <- dat %>%
   gather(key="Scenario", value="Rating", DamPost_1, FirePost_1) %>%
   mutate(Scenario = factor(Scenario))
+
+# collapse across scenarios
+dat.combined<- dat.2 %>%
+  mutate(PreRating = (DamPre_1+FirePre_1)/2, PostRating = (DamPost_1 + FirePost_1)/2)
 
 # Here's an initial analysis with a single one-way factor for condition.
 postscenario.coarse = mixed(Rating~CondCode*Scenario + (1|ResponseId), dat=dat.post.scenario)
@@ -58,7 +63,9 @@ post.plot
 
 post.plot.split <- ggplot(dat.post.scenario, aes(x = Valence, y=Rating, fill=Realism)) +
   facet_wrap(~Intervention)+
-  geom_bar(stat='summary', position='dodge') +
+  #geom_bar(stat='summary', position='dodge') +
+  geom_violin()+
+  geom_point(position=position_dodge(width=.9))+
   geom_errorbar(stat='summary', position='dodge')
 post.plot.split
 
@@ -73,7 +80,7 @@ TukeyHSD(post_ratings.factorial)
 # Valence: Good > Bad
 #Intervention: Without > With
 #Realism: Unrealistic > the other two.
-#Valence*intervention: Effect of intervention for good but not bad valence ish.
+#Valence*intervention: Effect of intervention for good but not bad valence ish, ns.
 
 
 # Post-hoc analyses of pre-ratings (with scenario):
@@ -99,9 +106,12 @@ TukeyHSD(interventionAOV)
 # Difference between unrealistic and others in "intervention" condition, but again, participants saw
 # exactly the same thing as in the without-intervention conditions at the time that they made this rating. 
 
+
+
 # Pre-ratings (w/out scenario):
-pre_ratings.factorial = aov(Rating~Valence*Intervention*Realism,data=dat.pre.scenario)
+pre_ratings.factorial = aov(PreRating~Valence*Intervention*Realism,data=dat.combined)
 summary(pre_ratings.factorial)
+etasq(pre_ratings.factorial)
 # A weird intervention*realism interaction.
 TukeyHSD(pre_ratings.factorial)
 # Seems to be driven by the difference in the intervention condition between unrealistic and slightly
@@ -115,26 +125,81 @@ diffscores <- dat.2 %>%
 dat.diff.long <- diffscores %>%
   gather(key="Scenario", value="Rating", DamDif, FireDif)
   
+diff.combined <- dat.combined %>%
+  mutate(DifScore = PostRating-PreRating)
 
 diffplot <- ggplot(dat.diff.long, aes(x = Valence, y=Rating, fill=Realism)) +
   facet_wrap(~Intervention)+
-  geom_bar(stat='summary', position='dodge') +
+  #geom_bar(stat='summary', position='dodge') +
+  geom_violin()+
+  geom_point(position=position_dodge(width=.9))+
   geom_errorbar(stat='summary', position='dodge')
 diffplot
 # Short version: unrealistic bad changes less than the other two, and counterfactuals tend to fall closer to neutral regarldess of valence.
 
-diff.analysis <-  aov(Rating~Valence*Intervention*Realism,data=dat.diff.long)
+diff.analysis <-  aov(DifScore~Valence*Intervention*Realism,data=diff.combined)
 summary(diff.analysis)
 # Similar to post-ratings except for a valence*intervention interaction. Pretty easy to see,
 # withoutIntervention goes positive (post > pre) in the good case but not the bad case, while
 # intervention goes negative in both.
+etasq(diff.analysis)
+TukeyHSD(diff.analysis)
 
-dat.diff.Intervention <- dat.diff.long %>%
+dat.diff.Intervention <- diff.combined %>%
   filter(Intervention=="Intervention")
-dat.diff.WithoutIntervention <- dat.diff.long %>%
+dat.diff.WithoutIntervention <- diff.combined %>%
   filter(Intervention=="WithoutIntervention")
 
-t.test(Rating~Valence, data = dat.diff.Intervention)
-t.test(Rating~Valence, data=dat.diff.WithoutIntervention)
+t.test(DifScore~Valence, data = dat.diff.Intervention, var.equal = TRUE)
+t.test(DifScore~Valence, data=dat.diff.WithoutIntervention, var.equal = TRUE)
+cohensD(DifScore~Valence, data=dat.diff.WithoutIntervention)
+#Descriptives
+dat.diff.descript <- diff.combined %>%
+  group_by(Valence, Intervention) %>%
+  summarise(Mean = mean(DifScore), SD = sd(DifScore), .groups='keep')
+
+# Tests against 0
+dat.diff.I.good <- dat.diff.Intervention %>% filter(Valence == 'Good')
+dat.diff.I.bad <- dat.diff.Intervention %>% filter(Valence == 'Bad')
+t.test(dat.diff.I.good$DifScore, mu=0)
+t.test(dat.diff.I.bad$DifScore, mu=0)
+
+dat.diff.WI.good <- dat.diff.WithoutIntervention %>% filter(Valence == 'Good')
+dat.diff.WI.bad <- dat.diff.WithoutIntervention %>% filter(Valence == 'Bad')
+t.test(dat.diff.WI.good$DifScore, mu=0)
+t.test(dat.diff.WI.bad$DifScore, mu=0)
 
 
+# Better-looking graphs
+RealismPalette <- c("#E69F00", "#56B4E9", "#F0E442")
+# Reorder realism to slightly-realistic-unrealistic order.
+dat.pre.scenario$Realism <- relevel(dat.pre.scenario$Realism,"Slightly")
+dat.post.scenario$Realism <- relevel(dat.post.scenario$Realism,"Slightly")
+pre.plot.split <- ggplot(dat.pre.scenario, aes(x = Valence, y=Rating, fill=Realism)) +
+  facet_wrap(~Intervention)+
+  geom_boxplot()+
+  scale_y_continuous(limits=c(0,100)) +
+  scale_fill_manual(values=RealismPalette) +
+  geom_hline(yintercept=50, linetype="dashed") + 
+  theme(panel.background = element_rect(fill='white',color='white'))
+pre.plot.split
+
+
+post.plot.split <- ggplot(dat.post.scenario, aes(x = Valence, y=Rating, fill=Realism)) +
+  facet_wrap(~Intervention)+
+  geom_boxplot()+
+  scale_y_continuous(limits=c(0,100)) +
+  scale_fill_manual(values=RealismPalette) +
+  geom_hline(yintercept=50, linetype="dashed") + 
+  theme(panel.background = element_rect(fill='white',color='white'))
+post.plot.split
+
+diff.plot.split <- ggplot(dat.diff.long, aes(x = Valence, y=Rating, fill=Realism)) +
+  facet_wrap(~Intervention)+
+  geom_bar(stat='summary', position='dodge') +
+  geom_errorbar(stat="summary", width=.5, position=position_dodge(width=.9))+
+  geom_hline(yintercept=0)+
+  scale_fill_manual(values=RealismPalette) +
+  ylab("Difference (Retrospective - Prospective)") +
+  theme(panel.background = element_rect(fill='white',color='white'))
+diff.plot.split

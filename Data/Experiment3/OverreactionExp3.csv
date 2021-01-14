@@ -1,0 +1,633 @@
+﻿ResponseId,Risk,Intent,Outcome,RandOrder,age,gender,race/eth,DamPre_1,DamPost_1,DRiskCheck,DIntentCheck,DOutcomeCheck,FirePre_1,FirePost_1,FRiskCheck,FIntentCheck,FOutcomeCheck,DamGNG,FireGNG,OverallGNG,DamOutcomeMatch,FireOutcomeMatch
+R_1IxVYS8PW8gqqWb,High,Mitigate,Bad,FL_23|FL_17,38,Male,"White, not of Hispanic origin",59,77,1,1,Worst,79,72,1,0,Worst,1,0,0,1,1
+R_2R3q5TjHuO5BlnH,High,Mitigate,Bad,FL_17|FL_23,23,Male,Asian/ Pacific Islander,61,35,1,1,Worst,57,50,1,1,Worst,1,1,1,1,1
+R_2fGMWbTNiZq8d5G,High,Mitigate,Bad,FL_23|FL_17,25,Male,"Asian/ Pacific Islander,White, not of Hispanic origin",61,19,1,0,Worst,33,50,1,1,Worst,0,1,0,1,1
+R_3dWbckCneV1j6GY,High,Mitigate,Bad,FL_23|FL_17,23,Male,"White, not of Hispanic origin",33,62,1,0,Prevented,50,5,1,0,Prevented,0,0,0,0,0
+R_2TLQkyjIL0ppVgN,High,Mitigate,Bad,FL_23|FL_17,34,Female,"White, not of Hispanic origin",48,27,1,1,Worst,53,40,1,1,Worst,1,1,1,1,1
+R_1LumwJlVIGPM1f8,High,Mitigate,Bad,FL_17|FL_23,45,Female,"White, not of Hispanic origin",58,25,1,1,Worst,89,92,1,1,Worst,1,1,1,1,1
+R_OAUB157x4UzhnVv,High,Mitigate,Bad,FL_17|FL_23,39,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",51,8,1,0,Worst,81,30,1,1,Worst,0,1,0,1,1
+R_3nPJzjG2Wu6jUoI,High,Mitigate,Bad,FL_23|FL_17,38,Male,Asian/ Pacific Islander,54,50,1,0,Prevented,78,54,1,0,Mitigated,0,0,0,0,0
+R_3NOn4AKljFvWBv6,High,Mitigate,Bad,FL_17|FL_23,59,Male,"White, not of Hispanic origin",51,50,1,1,Worst,61,53,1,0,Worst,1,0,0,1,1
+R_3GB8u1LNqgakG7H,High,Mitigate,Bad,FL_23|FL_17,30,Female,"White, not of Hispanic origin",48,33,1,1,Worst,49,49,1,1,Mitigated,1,1,1,1,0
+R_1N9cjD7w4HhauS5,High,Mitigate,Bad,FL_17|FL_23,42,Female,"White, not of Hispanic origin",68,70,1,0,Prevented,83,79,1,0,Worst,0,0,0,0,1
+R_2rwO7nXe6FsQImq,High,Mitigate,Bad,FL_23|FL_17,18,Male,"Asian/ Pacific Islander,White, not of Hispanic origin",61,50,1,0,Worst,100,1,1,1,Worst,0,1,0,1,1
+R_25ZrJ3qJ8hYhpfO,High,Mitigate,Bad,FL_23|FL_17,30,Male,Black/ African American,51,19,1,1,Mitigated,100,100,1,0,Worst,1,0,0,0,1
+R_2YJofxb4i1Gp5uv,High,Mitigate,Bad,FL_23|FL_17,20,Male,Asian/ Pacific Islander,51,21,1,0,Worst,19,0,1,0,Worst,0,0,0,1,1
+R_wXzFJPUFRfpx9bX,High,Mitigate,Bad,FL_23|FL_17,31,Female,Black/ African American,51,51,1,1,Worst,100,100,1,1,Worst,1,1,1,1,1
+R_tVsCXgKCDwpp2wx,High,Mitigate,Bad,FL_23|FL_17,20,Nonbinary,"White, not of Hispanic origin",39,19,1,1,Worst,81,81,1,0,Worst,1,0,0,1,1
+R_3kH54gsYEijM6L7,High,Mitigate,Bad,FL_23|FL_17,23,Female,"White, not of Hispanic origin,Hispanic",50,28,1,0,Worst,38,30,1,1,Worst,0,1,0,1,1
+R_29794NBOeWh7rW6,High,Mitigate,Bad,FL_23|FL_17,19,Female,Asian/ Pacific Islander,68,21,0,1,Worst,91,91,1,0,Worst,0,0,0,1,1
+R_2ANLtUrxT5MAX9K,High,Mitigate,Bad,FL_23|FL_17,19,Female,Black/ African American,57,75,1,1,Worst,97,100,1,1,Worst,1,1,1,1,1
+R_1cTFs4ufFrxGWXP,High,Mitigate,Bad,FL_23|FL_17,46,Male,"White, not of Hispanic origin",73,62,0,0,Mitigated,71,81,1,0,Worst,0,0,0,0,1
+R_bm6rMnp4iJVKnkZ,High,Mitigate,Bad,FL_17|FL_23,19,Female,"South Asian/ Indian,White, not of Hispanic origin",58,19,1,0,Worst,39,24,1,0,Worst,0,0,0,1,1
+R_3nGfeqcGkxmNDRW,High,Mitigate,Bad,FL_17|FL_23,31,Male,"White, not of Hispanic origin",41,31,1,1,Worst,30,25,1,1,Worst,1,1,1,1,1
+R_ctJ1pqf6rRcNuDL,High,Mitigate,Bad,FL_17|FL_23,28,Male,Hispanic,51,42,1,1,Worst,72,31,1,0,Worst,1,0,0,1,1
+R_AnsSHu2nmfS4AiB,High,Mitigate,Bad,FL_17|FL_23,18,Male,"White, not of Hispanic origin",94,17,1,1,Worst,55,37,1,1,Worst,1,1,1,1,1
+R_0SyLglcGRWjaKEF,High,Mitigate,Bad,FL_17|FL_23,41,Male,"White, not of Hispanic origin",39,68,1,0,Mitigated,44,65,1,1,Mitigated,0,1,0,0,0
+R_2dKgMDRVYvpQmeF,High,Mitigate,Bad,FL_17|FL_23,29,Female,Hispanic,49,8,1,1,Mitigated,76,5,1,0,Worst,1,0,0,0,1
+R_2tzl7FNGGwTsZPn,High,Mitigate,Bad,FL_17|FL_23,22,Male,Hispanic,70,29,1,1,Worst,92,39,1,1,Worst,1,1,1,1,1
+R_uthdl23DUXY6LkJ,High,Mitigate,Bad,FL_23|FL_17,33,Male,Hispanic,50,8,1,1,Worst,65,28,1,0,Worst,1,0,0,1,1
+R_2zN2Lt4HuPn96xr,High,Mitigate,Bad,FL_23|FL_17,24,Female,"White, not of Hispanic origin",61,19,1,0,Worst,19,9,1,1,Worst,0,1,0,1,1
+R_1Nz9jXQKhEAjt14,High,Mitigate,Bad,FL_17|FL_23,23,Female,"White, not of Hispanic origin",54,14,1,0,Worst,85,88,1,0,Worst,0,0,0,1,1
+R_1yRKP5LDyQPbYpr,High,Mitigate,Bad,FL_17|FL_23,19,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",68,33,1,1,Worst,77,28,1,1,Worst,1,1,1,1,1
+R_3nr4a5X0NlGDy71,High,Mitigate,Bad,FL_17|FL_23,30,Male,Asian/ Pacific Islander,49,8,1,0,Worst,19,0,1,0,Worst,0,0,0,1,1
+R_3ef6ohU5kX4cuvV,High,Mitigate,Bad,FL_17|FL_23,19,Female,"American Indian/ Alaska Native,Black/ African American,White, not of Hispanic origin",29,6,1,0,Worst,80,9,1,1,Worst,0,1,0,1,1
+R_2dmPicKTfXcwWjG,High,Mitigate,Bad,FL_17|FL_23,27,Male,"White, not of Hispanic origin",72,82,1,1,Worst,9,0,1,1,Worst,1,1,1,1,1
+R_2CrLYQyTJUog3UO,High,Mitigate,Bad,FL_23|FL_17,31,Male,"White, not of Hispanic origin",69,19,1,1,Worst,92,80,1,1,Worst,1,1,1,1,1
+R_WfcEcGxIOuuWFB7,High,Mitigate,Bad,FL_17|FL_23,31,Nonbinary,"White, not of Hispanic origin",73,50,1,1,Worst,0,0,1,0,Worst,1,0,0,1,1
+R_3ha0bk2f8jUSdUs,High,Mitigate,Bad,FL_23|FL_17,26,Female,Asian/ Pacific Islander,70,41,1,0,Worst,40,30,1,1,Mitigated,0,1,0,1,0
+R_2qDYP4YYJYvo0Yd,High,Mitigate,Bad,FL_23|FL_17,33,Male,Hispanic,44,8,1,1,Worst,36,31,1,0,Mitigated,1,0,0,1,0
+R_3fJKJFyqBMzQEo3,High,Mitigate,Bad,FL_17|FL_23,35,Female,"White, not of Hispanic origin",50,0,1,0,Worst,50,0,1,1,Worst,0,1,0,1,1
+R_3FOicpCHIRErmRG,High,Prevent,Bad,FL_17|FL_23,39,Male,"White, not of Hispanic origin",52,51,1,1,Worst,4,2,1,1,Worst,1,1,1,1,1
+R_787AnnkRcUoK6Z3,High,Prevent,Bad,FL_23|FL_17,50,Male,"White, not of Hispanic origin",20,9,1,1,Worst,40,19,1,1,Worst,1,1,1,1,1
+R_2YCWsMlcBg4uhy2,High,Prevent,Bad,FL_23|FL_17,33,Female,"White, not of Hispanic origin",53,51,1,1,Worst,100,100,1,1,Mitigated,1,1,1,1,0
+R_1DT3PeihsPf5IER,High,Prevent,Bad,FL_17|FL_23,29,Male,"White, not of Hispanic origin",62,8,1,1,Worst,71,11,1,1,Worst,1,1,1,1,1
+R_1Eb6bIl5UgMcb8w,High,Prevent,Bad,FL_17|FL_23,29,Male,"White, not of Hispanic origin",74,10,1,1,Worst,8,7,1,1,Mitigated,1,1,1,1,0
+R_3DbwD5jBV0EAvBc,High,Prevent,Bad,FL_23|FL_17,51,Female,"White, not of Hispanic origin",90,59,1,1,Mitigated,96,63,1,1,Worst,1,1,1,0,1
+R_2XbShCCofDLoYcG,High,Prevent,Bad,FL_17|FL_23,29,Female,"White, not of Hispanic origin,Hispanic",51,50,1,1,Worst,71,49,1,1,Worst,1,1,1,1,1
+R_2Bn839odfCkh6aR,High,Prevent,Bad,FL_17|FL_23,33,Female,"White, not of Hispanic origin,Hispanic",60,18,1,1,Worst,83,100,1,1,Worst,1,1,1,1,1
+R_25KtIAmqBuUzIxW,High,Prevent,Bad,FL_17|FL_23,18,Male,"American Indian/ Alaska Native,White, not of Hispanic origin",66,71,1,1,Worst,100,100,1,1,Worst,1,1,1,1,1
+R_2CVVTlrjXBkeDDo,High,Prevent,Bad,FL_17|FL_23,37,Male,"White, not of Hispanic origin",58,27,1,1,Worst,69,40,1,1,Worst,1,1,1,1,1
+R_vSUoK4BJoLLoHgl,High,Prevent,Bad,FL_23|FL_17,29,Female,"White, not of Hispanic origin",50,9,1,1,Worst,68,47,1,1,Mitigated,1,1,1,1,0
+R_pRbrBahbk3fjCql,High,Prevent,Bad,FL_23|FL_17,19,Male,Asian/ Pacific Islander,50,51,1,1,Mitigated,40,18,1,1,Worst,1,1,1,0,1
+R_2TBHhfTevyGRPZ0,High,Prevent,Bad,FL_23|FL_17,32,Female,"White, not of Hispanic origin",50,9,1,1,Worst,76,50,1,1,Worst,1,1,1,1,1
+R_Q4AwRPd1i5ll9lL,High,Prevent,Bad,FL_17|FL_23,18,Male,"White, not of Hispanic origin",65,78,1,1,Prevented,96,100,1,1,Worst,1,1,1,0,1
+R_2Xmm73fg9WmroYK,High,Prevent,Bad,FL_17|FL_23,33,Female,"White, not of Hispanic origin",69,14,1,1,Worst,44,28,1,1,Worst,1,1,1,1,1
+R_1k1CsDcuSurVhAj,High,Prevent,Bad,FL_23|FL_17,25,Female,"White, not of Hispanic origin",50,4,1,1,Worst,91,67,1,1,Worst,1,1,1,1,1
+R_81fF5RZKTMK8Eed,High,Prevent,Bad,FL_23|FL_17,38,Female,"White, not of Hispanic origin",53,16,1,1,Worst,83,66,1,1,Worst,1,1,1,1,1
+R_1psq8LnF8fVlkFq,High,Prevent,Bad,FL_23|FL_17,19,Male,"White, not of Hispanic origin",59,56,1,1,Worst,52,49,1,1,Mitigated,1,1,1,1,0
+R_3qPURfPMxhXEkJX,High,Prevent,Bad,FL_17|FL_23,29,Male,"White, not of Hispanic origin",60,29,1,1,Worst,77,66,1,1,Worst,1,1,1,1,1
+R_217KDifvZdVc7ps,High,Prevent,Bad,FL_17|FL_23,26,Female,South Asian/ Indian,50,43,1,1,Worst,11,11,1,0,Worst,1,0,0,1,1
+R_1CmrRLtzqsQYqkz,High,Prevent,Bad,FL_23|FL_17,28,Female,"White, not of Hispanic origin,Hispanic",88,24,1,1,Worst,82,3,1,1,Worst,1,1,1,1,1
+R_XBZ9ToJMeyhrZBf,High,Prevent,Bad,FL_23|FL_17,18,Male,"White, not of Hispanic origin",92,18,1,1,Worst,72,50,1,1,Worst,1,1,1,1,1
+R_a4MQFJcRoZOLHhv,High,Prevent,Bad,FL_23|FL_17,24,Female,Black/ African American,60,45,1,1,Worst,90,64,1,0,Worst,1,0,0,1,1
+R_2tl1uT29SH2BKdw,High,Prevent,Bad,FL_23|FL_17,48,Nonbinary,"White, not of Hispanic origin",60,37,1,1,Worst,61,50,1,1,Mitigated,1,1,1,1,0
+R_xo8X25fOplcIrFn,High,Prevent,Bad,FL_23|FL_17,31,Female,"White, not of Hispanic origin",51,0,1,1,Worst,0,0,1,1,Worst,1,1,1,1,1
+R_zVEgTqvMRbR09S9,High,Prevent,Bad,FL_17|FL_23,25,Male,"White, not of Hispanic origin",71,29,1,1,Worst,100,100,1,0,Worst,1,0,0,1,1
+R_1jUEKNnZ8YmNcc1,High,Prevent,Bad,FL_23|FL_17,39,Male,Asian/ Pacific Islander,50,30,1,1,Worst,30,20,1,1,Worst,1,1,1,1,1
+R_3I67ZnPhik9CdTn,High,Prevent,Bad,FL_17|FL_23,29,Female,Black/ African American,52,30,1,1,Worst,92,91,1,1,Worst,1,1,1,1,1
+R_2yqG84w9YbvuSdK,High,Prevent,Bad,FL_17|FL_23,23,Male,"White, not of Hispanic origin",82,50,1,1,Mitigated,100,93,1,1,Mitigated,1,1,1,0,0
+R_tXLlCzCJFxnsc8x,High,Prevent,Bad,FL_23|FL_17,20,Male,"White, not of Hispanic origin",76,51,1,1,Worst,60,41,1,1,Worst,1,1,1,1,1
+R_2wSI6R8MSVhjful,High,Prevent,Bad,FL_17|FL_23,23,Female,"White, not of Hispanic origin",50,40,1,1,Worst,50,12,1,1,Worst,1,1,1,1,1
+R_wNJqoRxCTSSoNBn,High,Prevent,Bad,FL_23|FL_17,29,Male,"White, not of Hispanic origin",59,34,1,1,Worst,66,66,1,1,Worst,1,1,1,1,1
+R_10xaMgQNEyicY6p,High,Prevent,Bad,FL_23|FL_17,38,Male,0,50,50,1,1,Worst,71,19,1,1,Worst,1,1,1,1,1
+R_2TnMW7VqAFjMJX8,High,Prevent,Bad,FL_17|FL_23,59,Female,"White, not of Hispanic origin",50,0,1,1,Worst,0,0,1,1,Worst,1,1,1,1,1
+R_5nnLA5lB0JddyDL,High,Prevent,Bad,FL_17|FL_23,26,Male,"White, not of Hispanic origin",61,9,1,1,Worst,61,5,1,1,Worst,1,1,1,1,1
+R_2CTgt4tQRPH48mC,High,Prevent,Bad,FL_17|FL_23,19,Female,Other (please specify),78,0,1,1,Worst,82,26,1,1,Worst,1,1,1,1,1
+R_PZqJ8QV07CkKrC1,High,Prevent,Bad,FL_23|FL_17,33,Male,"White, not of Hispanic origin",30,9,1,1,Worst,65,50,1,1,Worst,1,1,1,1,1
+R_3HiDEXm1c8NAHgC,High,Prevent,Bad,FL_17|FL_23,0,Male,0,49,14,1,1,Worst,53,32,1,1,Worst,1,1,1,1,1
+R_30tKLtBKTlJYqR6,High,Prevent,Bad,FL_17|FL_23,19,Female,"Black/ African American,White, not of Hispanic origin",61,86,1,1,Worst,51,61,0,1,Mitigated,1,0,0,1,0
+R_3lL0dpO1c5QzBO7,High,Prevent,Bad,FL_23|FL_17,19,Male,Asian/ Pacific Islander,85,84,1,1,Worst,60,62,1,0,Prevented,1,0,0,1,0
+R_1pzGGLprgJhdHCC,High,Mitigate,Good,FL_23|FL_17,18,Female,Asian/ Pacific Islander,65,50,1,0,Mitigated,81,50,1,0,Mitigated,0,0,0,1,1
+R_3F2JB6GcdX9ynLK,High,Mitigate,Good,FL_23|FL_17,19,Male,Asian/ Pacific Islander,50,51,1,1,Mitigated,9,51,1,1,Mitigated,1,1,1,1,1
+R_31hIxAVRur5qy0E,High,Mitigate,Good,FL_23|FL_17,27,Female,"White, not of Hispanic origin",54,50,1,1,Mitigated,87,67,1,1,Mitigated,1,1,1,1,1
+R_22Qv2bGwFnJ27Wc,High,Mitigate,Good,FL_23|FL_17,20,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",51,51,1,0,Mitigated,63,50,1,0,Mitigated,0,0,0,1,1
+R_PtY1sRfJLJpJDRT,High,Mitigate,Good,FL_17|FL_23,26,Male,"White, not of Hispanic origin",40,51,1,1,Mitigated,73,72,1,1,Mitigated,1,1,1,1,1
+R_2R82U6EQFSudh9I,High,Mitigate,Good,FL_23|FL_17,33,Male,"White, not of Hispanic origin",27,39,1,0,Mitigated,28,59,1,1,Mitigated,0,1,0,1,1
+R_1NxEmCg8GzZCMEQ,High,Mitigate,Good,FL_23|FL_17,23,Female,Black/ African American,60,50,1,1,Mitigated,64,64,1,1,Mitigated,1,1,1,1,1
+R_2fvOrukJqWTKsnL,High,Mitigate,Good,FL_17|FL_23,49,Male,"White, not of Hispanic origin",81,66,0,0,Mitigated,64,61,0,1,Mitigated,0,0,0,1,1
+R_1F5IFBuOqtsRYow,High,Mitigate,Good,FL_23|FL_17,39,Male,Asian/ Pacific Islander,100,100,1,0,Mitigated,100,100,1,0,Mitigated,0,0,0,1,1
+R_2BgpgqrCeswhnMh,High,Mitigate,Good,FL_17|FL_23,18,Male,Black/ African American,76,49,1,1,Mitigated,95,69,1,1,Mitigated,1,1,1,1,1
+R_1l62cEhW5Hnj0J0,High,Mitigate,Good,FL_17|FL_23,18,Male,South Asian/ Indian,66,72,0,0,Mitigated,61,37,1,0,Mitigated,0,0,0,1,1
+R_27eYa5OahTEyhH7,High,Mitigate,Good,FL_23|FL_17,25,Female,"White, not of Hispanic origin",62,52,1,1,Mitigated,87,81,1,1,Mitigated,1,1,1,1,1
+R_3MQAKBFecVOevz8,High,Mitigate,Good,FL_23|FL_17,36,Male,"White, not of Hispanic origin",76,54,1,1,Mitigated,82,65,1,1,Mitigated,1,1,1,1,1
+R_1gT3Lbw7DZPrvgg,High,Mitigate,Good,FL_23|FL_17,28,Female,"White, not of Hispanic origin",50,61,1,0,Mitigated,91,91,1,1,Mitigated,0,1,0,1,1
+R_1Dv6oS43VseiGpT,High,Mitigate,Good,FL_17|FL_23,25,Female,"White, not of Hispanic origin",52,51,1,1,Mitigated,69,53,1,1,Mitigated,1,1,1,1,1
+R_BK8bIO8jGYHQ67n,High,Mitigate,Good,FL_17|FL_23,22,Female,Black/ African American,54,71,1,1,Mitigated,8,32,1,0,Mitigated,1,0,0,1,1
+R_3ptEOUSE3W9xWWT,High,Mitigate,Good,FL_17|FL_23,21,Male,Asian/ Pacific Islander,71,71,1,1,Mitigated,50,55,1,1,Mitigated,1,1,1,1,1
+R_2zOL3aA8YM12tDj,High,Mitigate,Good,FL_17|FL_23,36,Male,Asian/ Pacific Islander,51,51,1,0,Mitigated,19,31,1,1,Prevented,0,1,0,1,0
+R_WdOtHdv9cWs3OjD,High,Mitigate,Good,FL_17|FL_23,28,Female,"American Indian/ Alaska Native,White, not of Hispanic origin,Hispanic",50,51,1,1,Mitigated,1,9,1,1,Mitigated,1,1,1,1,1
+R_3RqsL0wa9z0ulLW,High,Mitigate,Good,FL_17|FL_23,42,Male,"White, not of Hispanic origin",45,51,1,1,Mitigated,23,33,1,1,Prevented,1,1,1,1,0
+R_3nd5rkaaszuqmAF,High,Mitigate,Good,FL_23|FL_17,32,Male,"White, not of Hispanic origin",78,48,1,1,Mitigated,65,49,1,0,Mitigated,1,0,0,1,1
+R_3nrbusWg6iij1vm,High,Mitigate,Good,FL_17|FL_23,25,Female,"White, not of Hispanic origin",21,49,1,1,Mitigated,12,25,1,1,Mitigated,1,1,1,1,1
+R_28AoTaeNNT3Y1zO,High,Mitigate,Good,FL_23|FL_17,27,Male,"White, not of Hispanic origin",50,50,1,0,Mitigated,60,61,1,1,Mitigated,0,1,0,1,1
+R_WidZkmlG9TcANvH,High,Mitigate,Good,FL_23|FL_17,33,Female,"White, not of Hispanic origin",50,51,1,1,Mitigated,30,50,1,1,Mitigated,1,1,1,1,1
+R_3eaI0gvkgKhrYUq,High,Mitigate,Good,FL_17|FL_23,26,Female,Asian/ Pacific Islander,74,60,1,0,Mitigated,72,61,1,1,Mitigated,0,1,0,1,1
+R_3e8rFLxuxVoDLAB,High,Mitigate,Good,FL_23|FL_17,24,Male,Black/ African American,81,50,1,1,Mitigated,100,81,1,1,Mitigated,1,1,1,1,1
+R_3m2AxDDyXzicXDg,High,Mitigate,Good,FL_23|FL_17,30,Female,"White, not of Hispanic origin",46,51,1,1,Mitigated,51,52,1,1,Mitigated,1,1,1,1,1
+R_ZlNCVaknMNj1NxD,High,Mitigate,Good,FL_23|FL_17,52,Female,"White, not of Hispanic origin",65,50,1,1,Mitigated,81,61,1,1,Mitigated,1,1,1,1,1
+R_AifGCQs7RxvawzT,High,Mitigate,Good,FL_23|FL_17,25,Male,"White, not of Hispanic origin",50,51,0,1,Mitigated,50,50,1,1,Prevented,0,1,0,1,0
+R_3ffaKq5gj3iNt74,High,Mitigate,Good,FL_17|FL_23,30,Female,Black/ African American,100,48,1,0,Mitigated,100,80,1,1,Mitigated,0,1,0,1,1
+R_24bAmazo50geAVS,High,Mitigate,Good,FL_17|FL_23,18,Female,"White, not of Hispanic origin",70,51,1,1,Mitigated,21,24,1,1,Mitigated,1,1,1,1,1
+R_3k7LpVXaFzFzLEk,High,Mitigate,Good,FL_23|FL_17,23,Male,Asian/ Pacific Islander,20,29,1,0,Mitigated,71,40,0,1,Mitigated,0,0,0,1,1
+R_1FQfsQFQe1ckqk8,High,Mitigate,Good,FL_23|FL_17,25,Male,Asian/ Pacific Islander,70,50,1,1,Mitigated,20,20,1,1,Mitigated,1,1,1,1,1
+R_12hxV1yQDsHeJ4U,High,Mitigate,Good,FL_17|FL_23,34,Male,Asian/ Pacific Islander,50,40,1,1,Mitigated,66,50,1,1,Mitigated,1,1,1,1,1
+R_2TyCnsRRd4NpSKX,High,Mitigate,Good,FL_17|FL_23,24,Male,"White, not of Hispanic origin",71,81,1,1,Mitigated,51,60,1,1,Mitigated,1,1,1,1,1
+R_1JPnjwxPyrSgS7N,High,Mitigate,Good,FL_23|FL_17,20,Female,Hispanic,52,50,1,1,Mitigated,100,65,1,1,Mitigated,1,1,1,1,1
+R_1j8nHmtbOGIGlhC,High,Mitigate,Good,FL_17|FL_23,40,Male,Black/ African American,51,50,1,1,Mitigated,50,50,1,1,Mitigated,1,1,1,1,1
+R_PGuG2QePbe1YHBv,High,Mitigate,Good,FL_23|FL_17,43,Male,"White, not of Hispanic origin",74,78,1,0,Prevented,75,75,1,0,Prevented,0,0,0,0,0
+R_30kGqkUgPgOLj3E,High,Mitigate,Good,FL_17|FL_23,23,Male,"White, not of Hispanic origin",54,50,1,1,Mitigated,71,56,1,1,Mitigated,1,1,1,1,1
+R_3kdhAjEKWmLMpPb,High,Mitigate,Good,FL_17|FL_23,24,Female,"White, not of Hispanic origin",46,48,1,1,Mitigated,24,29,1,1,Mitigated,1,1,1,1,1
+R_eFJzInyYbnfMTKx,High,Mitigate,Good,FL_23|FL_17,32,Male,"White, not of Hispanic origin",50,50,1,1,Mitigated,91,48,1,1,Mitigated,1,1,1,1,1
+R_1MPThQJ9Za8nfug,High,Prevent,Good,FL_17|FL_23,25,Male,"White, not of Hispanic origin",65,50,1,1,Prevented,100,81,1,1,Prevented,1,1,1,1,1
+R_1eISFhFzJfFTMOi,High,Prevent,Good,FL_17|FL_23,44,Female,"White, not of Hispanic origin",81,62,1,1,Prevented,86,70,1,1,Prevented,1,1,1,1,1
+R_3DeuLWhhAbhmhzP,High,Prevent,Good,FL_17|FL_23,21,Female,"White, not of Hispanic origin",71,69,1,1,Prevented,70,74,1,1,Prevented,1,1,1,1,1
+R_1E4ltF2h5ahkxrc,High,Prevent,Good,FL_23|FL_17,60,Male,"White, not of Hispanic origin",62,47,1,1,Prevented,100,40,1,1,Prevented,1,1,1,1,1
+R_1dnyBlzgvLcmMxq,High,Prevent,Good,FL_17|FL_23,32,Male,"White, not of Hispanic origin",50,50,1,0,Prevented,100,100,1,1,Prevented,0,1,0,1,1
+R_NUzAJRmZtGbYGD7,High,Prevent,Good,FL_17|FL_23,29,Male,Asian/ Pacific Islander,50,49,1,1,Prevented,77,78,1,1,Prevented,1,1,1,1,1
+R_2uHsomI2sIumKAQ,High,Prevent,Good,FL_17|FL_23,25,Male,"White, not of Hispanic origin",60,50,1,1,Prevented,93,70,1,1,Prevented,1,1,1,1,1
+R_2Qhyfk11AWh3P1a,High,Prevent,Good,FL_23|FL_17,22,Female,Hispanic,62,66,1,1,Prevented,2,1,1,1,Prevented,1,1,1,1,1
+R_a2whnlhllhTvfpf,High,Prevent,Good,FL_17|FL_23,23,Female,"White, not of Hispanic origin",65,65,1,1,Prevented,81,81,1,1,Prevented,1,1,1,1,1
+R_3CZ1vjX5jjlkJcM,High,Prevent,Good,FL_23|FL_17,35,Male,"White, not of Hispanic origin",51,50,1,1,Prevented,70,70,1,1,Prevented,1,1,1,1,1
+R_3ezwPmLdrhQ2OPj,High,Prevent,Good,FL_17|FL_23,26,Male,Asian/ Pacific Islander,57,50,1,0,Prevented,66,61,1,1,Prevented,0,1,0,1,1
+R_1eP4fXOeK5slHBS,High,Prevent,Good,FL_23|FL_17,20,Male,Asian/ Pacific Islander,9,10,1,1,Prevented,52,30,1,1,Prevented,1,1,1,1,1
+R_0ogKO8u9t3HnCz7,High,Prevent,Good,FL_23|FL_17,33,Male,Asian/ Pacific Islander,61,60,1,1,Prevented,30,99,1,0,Prevented,1,0,0,1,1
+R_O7HpgoiklxoUCZP,High,Prevent,Good,FL_23|FL_17,30,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",70,50,1,1,Prevented,0,9,1,1,Prevented,1,1,1,1,1
+R_2uVgI7JkIlgFTEQ,High,Prevent,Good,FL_17|FL_23,39,Male,"White, not of Hispanic origin",92,92,1,1,Prevented,61,62,1,1,Prevented,1,1,1,1,1
+R_p9sOxQmv1yc5O6t,High,Prevent,Good,FL_17|FL_23,59,Female,"White, not of Hispanic origin",50,50,1,1,Prevented,81,61,1,1,Mitigated,1,1,1,1,0
+R_2bZmndWAMleKPwl,High,Prevent,Good,FL_23|FL_17,28,Male,"White, not of Hispanic origin",50,51,1,1,Prevented,19,49,1,1,Prevented,1,1,1,1,1
+R_3hn0eREfwyFsVPd,High,Prevent,Good,FL_23|FL_17,0,0,0,60,51,1,1,Prevented,91,50,1,0,Prevented,1,0,0,1,1
+R_Uh92mU0hsjf7Lsl,High,Prevent,Good,FL_17|FL_23,23,Female,"White, not of Hispanic origin",51,51,1,1,Prevented,82,70,1,1,Prevented,1,1,1,1,1
+R_3n6FGTn30lqJnk0,High,Prevent,Good,FL_23|FL_17,0,0,0,93,91,1,1,Prevented,76,62,1,1,Prevented,1,1,1,1,1
+R_2eVVA0njf9dUhLQ,High,Prevent,Good,FL_23|FL_17,22,Male,"White, not of Hispanic origin",50,50,1,1,Prevented,71,60,1,1,Prevented,1,1,1,1,1
+R_2AKEnz02gB0qeFP,High,Prevent,Good,FL_23|FL_17,20,Male,"White, not of Hispanic origin",51,51,1,1,Prevented,75,50,1,1,Prevented,1,1,1,1,1
+R_2qxTV3DhelushjL,High,Prevent,Good,FL_17|FL_23,30,Male,"White, not of Hispanic origin",51,62,1,1,Prevented,38,62,1,1,Prevented,1,1,1,1,1
+R_3MfZdbyootPZtIs,High,Prevent,Good,FL_17|FL_23,19,Female,"White, not of Hispanic origin",76,50,1,1,Prevented,66,66,1,1,Prevented,1,1,1,1,1
+R_248KLgTUnogwLUm,High,Prevent,Good,FL_23|FL_17,24,Male,Hispanic,50,50,1,1,Prevented,100,75,1,1,Prevented,1,1,1,1,1
+R_1DMTTUBKjLWl9IY,High,Prevent,Good,FL_17|FL_23,29,Male,"White, not of Hispanic origin",69,33,1,1,Prevented,53,46,1,1,Prevented,1,1,1,1,1
+R_2xwPN0rTDQ4UamA,High,Prevent,Good,FL_23|FL_17,18,Female,Asian/ Pacific Islander,57,50,1,1,Prevented,17,29,1,1,Prevented,1,1,1,1,1
+R_1n31pJOU2sxNbMg,High,Prevent,Good,FL_23|FL_17,24,Male,"White, not of Hispanic origin",51,52,1,1,Prevented,54,49,1,0,Prevented,1,0,0,1,1
+R_ZxWwlTZHt4j7Z17,High,Prevent,Good,FL_23|FL_17,27,Female,Hispanic,57,51,1,0,Prevented,39,49,1,1,Prevented,0,1,0,1,1
+R_WrGBLfHyUTM0O6l,High,Prevent,Good,FL_17|FL_23,26,Female,"White, not of Hispanic origin",87,77,1,1,Prevented,94,75,1,0,Prevented,1,0,0,1,1
+R_1LpL4te2cKB0UTu,High,Prevent,Good,FL_17|FL_23,26,Male,"White, not of Hispanic origin",50,50,1,1,Prevented,65,50,1,1,Prevented,1,1,1,1,1
+R_3KqKpYogMM2S49O,High,Prevent,Good,FL_23|FL_17,31,Nonbinary,"American Indian/ Alaska Native,White, not of Hispanic origin",70,71,1,1,Prevented,40,57,1,1,Prevented,1,1,1,1,1
+R_2a5ZxPLUg9LNRXb,High,Prevent,Good,FL_17|FL_23,27,Female,"White, not of Hispanic origin",60,53,1,1,Prevented,82,72,1,1,Prevented,1,1,1,1,1
+R_2ZU44Lw7npiaTeQ,High,Prevent,Good,FL_17|FL_23,28,Female,"White, not of Hispanic origin",50,51,1,1,Prevented,18,24,1,1,Prevented,1,1,1,1,1
+R_1Nq5ewrrD9cRsud,High,Prevent,Good,FL_23|FL_17,0,0,0,50,50,1,1,Prevented,81,71,1,1,Prevented,1,1,1,1,1
+R_2ypBx9ky7yUo4qY,High,Prevent,Good,FL_23|FL_17,72,Female,"White, not of Hispanic origin",54,53,1,1,Prevented,71,65,1,1,Prevented,1,1,1,1,1
+R_3szZeBPDYy25vrm,High,Prevent,Good,FL_17|FL_23,20,Male,"White, not of Hispanic origin",64,51,1,1,Mitigated,75,63,1,1,Prevented,1,1,1,0,1
+R_3Htu9Pr4yfwP8Rs,High,Prevent,Good,FL_23|FL_17,21,Male,"White, not of Hispanic origin",50,48,1,1,Prevented,62,61,1,1,Prevented,1,1,1,1,1
+R_01Fjdhce46mq5mV,High,Prevent,Good,FL_23|FL_17,29,Male,Hispanic,51,50,1,1,Prevented,19,40,1,1,Prevented,1,1,1,1,1
+R_1Kf2n7gomb2efLM,High,Prevent,Good,FL_23|FL_17,40,Female,"White, not of Hispanic origin",50,50,1,1,Prevented,86,82,1,1,Prevented,1,1,1,1,1
+R_OuLBU1nm40lMT7j,Low,Prevent,Bad,FL_23|FL_17,52,Male,Black/ African American,100,52,0,0,Worst,99,81,0,1,Mitigated,0,0,0,1,0
+R_1i7YL4GBFz6Q67f,Low,Prevent,Bad,FL_23|FL_17,20,Female,"White, not of Hispanic origin",90,60,1,1,Worst,81,51,1,1,Worst,1,1,1,1,1
+R_2Y3svHowRuUohlS,Low,Prevent,Bad,FL_17|FL_23,23,Male,"White, not of Hispanic origin",39,0,1,1,Worst,40,29,1,1,Worst,1,1,1,1,1
+R_2uE75D6Krxf1ipr,Low,Prevent,Bad,FL_17|FL_23,22,Nonbinary,"White, not of Hispanic origin",50,27,0,1,Worst,71,47,0,1,Worst,0,0,0,1,1
+R_ODckB8FdsIY3w5j,Low,Prevent,Bad,FL_17|FL_23,32,Male,Hispanic,59,51,1,1,Worst,71,59,1,1,Worst,1,1,1,1,1
+R_1pAqrHwcurC59bd,Low,Prevent,Bad,FL_17|FL_23,39,Female,"White, not of Hispanic origin",91,90,1,1,Worst,52,53,0,1,Worst,1,0,0,1,1
+R_2sCnX3dIuqXVDrz,Low,Prevent,Bad,FL_23|FL_17,35,Male,"White, not of Hispanic origin",60,50,1,1,Worst,81,100,1,1,Worst,1,1,1,1,1
+R_1jwFN3Ds7hq4qh9,Low,Prevent,Bad,FL_23|FL_17,52,Male,"White, not of Hispanic origin",82,51,1,1,Worst,40,20,1,1,Worst,1,1,1,1,1
+R_riDpspn2WSTvbW1,Low,Prevent,Bad,FL_17|FL_23,22,Female,Asian/ Pacific Islander,49,7,1,1,Worst,73,33,1,1,Mitigated,1,1,1,1,0
+R_3QTUDt9c8Nlc9TH,Low,Prevent,Bad,FL_23|FL_17,39,Female,"Black/ African American,White, not of Hispanic origin",9,3,1,1,Worst,4,5,1,1,Mitigated,1,1,1,1,0
+R_tQaF3qBgH0Mtt8R,Low,Prevent,Bad,FL_23|FL_17,28,Male,"American Indian/ Alaska Native,White, not of Hispanic origin",50,19,1,1,Worst,82,72,1,1,Worst,1,1,1,1,1
+R_1Hcoo4bpWYf7rk9,Low,Prevent,Bad,FL_17|FL_23,21,Female,"White, not of Hispanic origin",45,69,0,1,Mitigated,46,45,0,1,Mitigated,0,0,0,0,0
+R_3lVNV9V0pSJtzAZ,Low,Prevent,Bad,FL_17|FL_23,23,Self-identified/other,"White, not of Hispanic origin",81,61,1,1,Mitigated,55,55,0,1,Worst,1,0,0,0,1
+R_O2SZnjUmcmoeiEF,Low,Prevent,Bad,FL_17|FL_23,21,Male,Asian/ Pacific Islander,70,20,1,1,Worst,51,31,0,1,Mitigated,1,0,0,1,0
+R_1M5uZ5TmHw7Uaxg,Low,Prevent,Bad,FL_17|FL_23,38,Female,Other (please specify),79,18,1,1,Worst,97,23,1,1,Worst,1,1,1,1,1
+R_2D1c2h06txhZyqD,Low,Prevent,Bad,FL_23|FL_17,38,Male,"White, not of Hispanic origin",61,9,1,1,Worst,9,9,0,1,Mitigated,1,0,0,1,0
+R_uh5zs5VyeCMMHap,Low,Prevent,Bad,FL_17|FL_23,20,Female,"White, not of Hispanic origin",55,62,1,1,Worst,51,34,1,1,Worst,1,1,1,1,1
+R_2tmKl1QU6e1AUhX,Low,Prevent,Bad,FL_23|FL_17,23,Female,"White, not of Hispanic origin",76,60,1,1,Worst,73,72,1,1,Worst,1,1,1,1,1
+R_2X1B2Cnsez5IC4M,Low,Prevent,Bad,FL_23|FL_17,20,Female,"White, not of Hispanic origin",84,50,0,0,Mitigated,71,61,0,0,Mitigated,0,0,0,0,0
+R_3F4JirG4YIgehqn,Low,Prevent,Bad,FL_23|FL_17,30,Female,"White, not of Hispanic origin",61,50,1,1,Worst,81,40,1,1,Worst,1,1,1,1,1
+R_1dtpwGkYJvZaerS,Low,Prevent,Bad,FL_17|FL_23,20,Male,"White, not of Hispanic origin",65,13,1,1,Worst,84,83,1,1,Worst,1,1,1,1,1
+R_1QzKI56IgFcLLss,Low,Prevent,Bad,FL_23|FL_17,29,Female,"White, not of Hispanic origin",88,13,1,1,Mitigated,93,25,1,0,Worst,1,0,0,0,1
+R_Z2nlXEbH5Lzw9lD,Low,Prevent,Bad,FL_17|FL_23,32,Male,Hispanic,62,0,0,0,Worst,82,8,0,0,Mitigated,0,0,0,1,0
+R_27fizmOZsowBtZk,Low,Prevent,Bad,FL_23|FL_17,31,Female,"White, not of Hispanic origin",49,19,1,1,Worst,81,48,0,1,Worst,1,0,0,1,1
+R_3EfZbSq5k0Sdwr3,Low,Prevent,Bad,FL_23|FL_17,20,Male,Hispanic,93,100,1,1,Worst,82,22,1,1,Worst,1,1,1,1,1
+R_3dQ8oO5MgMpV0V0,Low,Prevent,Bad,FL_23|FL_17,24,Female,0,91,18,1,1,Worst,72,51,1,1,Worst,1,1,1,1,1
+R_yyI9LXUjS26zLI5,Low,Prevent,Bad,FL_17|FL_23,58,Female,Asian/ Pacific Islander,67,51,1,1,Worst,81,50,1,1,Worst,1,1,1,1,1
+R_6fWcs5Kk6PlpBpD,Low,Prevent,Bad,FL_23|FL_17,37,Male,"White, not of Hispanic origin",51,34,1,1,Worst,66,19,1,1,Worst,1,1,1,1,1
+R_1LB8xn6fpi2fAZw,Low,Prevent,Bad,FL_17|FL_23,18,Male,Asian/ Pacific Islander,71,39,1,1,Worst,87,69,0,1,Worst,1,0,0,1,1
+R_2CD1hkiK58xuwpQ,Low,Prevent,Bad,FL_17|FL_23,21,Female,Asian/ Pacific Islander,36,53,1,1,Worst,61,53,1,1,Worst,1,1,1,1,1
+R_2qqu2ka4mv0sPPb,Low,Prevent,Bad,FL_17|FL_23,56,Female,"White, not of Hispanic origin",85,100,1,1,Worst,100,22,1,1,Mitigated,1,1,1,1,0
+R_2CD2mK3ktDVt512,Low,Prevent,Bad,FL_23|FL_17,58,Female,"White, not of Hispanic origin",54,17,1,1,Worst,90,71,1,1,Worst,1,1,1,1,1
+R_OvAYit3i5qLDiLf,Low,Prevent,Bad,FL_23|FL_17,36,Female,"White, not of Hispanic origin",72,91,1,1,Worst,89,89,1,1,Worst,1,1,1,1,1
+R_3QENQuvQiulexs5,Low,Prevent,Bad,FL_23|FL_17,21,Female,Asian/ Pacific Islander,100,100,1,1,Worst,19,85,0,1,Worst,1,0,0,1,1
+R_ub1CCpIVAUuk2f7,Low,Prevent,Bad,FL_17|FL_23,23,Male,Asian/ Pacific Islander,65,19,1,1,Worst,41,25,1,1,Worst,1,1,1,1,1
+R_0HXEk7F8uNx12ZX,Low,Prevent,Bad,FL_23|FL_17,48,Female,"White, not of Hispanic origin",97,53,1,0,Worst,99,71,1,1,Worst,0,1,0,1,1
+R_25tJzLr29Lfp6cm,Low,Prevent,Bad,FL_23|FL_17,26,Female,Hispanic,61,51,0,1,Worst,81,7,0,1,Worst,0,0,0,1,1
+R_3npkJvztSuptLup,Low,Prevent,Bad,FL_17|FL_23,20,Male,Asian/ Pacific Islander,27,49,1,1,Worst,69,50,1,1,Mitigated,1,1,1,1,0
+R_A10UsP5P7u3oEbT,Low,Prevent,Bad,FL_23|FL_17,20,Female,"White, not of Hispanic origin",41,72,1,1,Worst,91,72,1,1,Mitigated,1,1,1,1,0
+R_28J5jLSg2bmHj7K,Low,Prevent,Bad,FL_17|FL_23,21,Male,"American Indian/ Alaska Native,Hispanic",70,26,1,1,Mitigated,50,74,1,1,Worst,1,1,1,0,1
+R_T613kzaN0xw2kZb,Low,Prevent,Good,FL_23|FL_17,25,Female,"White, not of Hispanic origin",100,62,1,0,Prevented,94,100,0,1,Prevented,0,0,0,1,1
+R_2ccuHHAOXcNmQND,Low,Prevent,Good,FL_17|FL_23,23,Male,Hispanic,40,51,1,1,Prevented,60,70,0,1,Prevented,1,0,0,1,1
+R_33dTDmnbSc17xcZ,Low,Prevent,Good,FL_17|FL_23,30,Male,"White, not of Hispanic origin",81,37,1,1,Prevented,70,65,0,1,Prevented,1,0,0,1,1
+R_3fxvJmNuN9Qhbqt,Low,Prevent,Good,FL_23|FL_17,31,Female,"White, not of Hispanic origin",59,55,1,1,Prevented,70,45,1,1,Prevented,1,1,1,1,1
+R_12h8QymYFay3ysJ,Low,Prevent,Good,FL_23|FL_17,35,Female,"White, not of Hispanic origin",71,61,1,1,Prevented,70,60,1,1,Prevented,1,1,1,1,1
+R_3ktVHnEBsfj95s9,Low,Prevent,Good,FL_17|FL_23,23,Nonbinary,Hispanic,100,76,1,1,Prevented,71,60,0,1,Prevented,1,0,0,1,1
+R_e8TMLeoqOpmJb7X,Low,Prevent,Good,FL_17|FL_23,23,Male,"White, not of Hispanic origin",60,65,1,1,Prevented,50,50,1,1,Prevented,1,1,1,1,1
+R_1rrxmQJAIyo8Deq,Low,Prevent,Good,FL_23|FL_17,0,0,0,80,51,1,1,Prevented,82,83,1,1,Prevented,1,1,1,1,1
+R_3Jk0FpF8IGmBxXz,Low,Prevent,Good,FL_23|FL_17,26,Female,"White, not of Hispanic origin",81,51,1,1,Prevented,71,38,1,1,Prevented,1,1,1,1,1
+R_3dYP9HxeFZlQUki,Low,Prevent,Good,FL_23|FL_17,45,Female,"White, not of Hispanic origin",90,90,0,0,Mitigated,86,93,0,1,Prevented,0,0,0,0,1
+R_1eyql5yxfip4Kde,Low,Prevent,Good,FL_17|FL_23,56,Female,"White, not of Hispanic origin",89,81,1,1,Prevented,61,55,1,1,Prevented,1,1,1,1,1
+R_3nVGfi6hZZDUMQI,Low,Prevent,Good,FL_23|FL_17,25,Female,"White, not of Hispanic origin",63,50,1,1,Prevented,80,70,1,1,Prevented,1,1,1,1,1
+R_1CKlKTBVZiLtvMA,Low,Prevent,Good,FL_17|FL_23,23,Female,Black/ African American,69,64,1,1,Prevented,77,64,1,1,Prevented,1,1,1,1,1
+R_2t6gcygbT4KCL1Y,Low,Prevent,Good,FL_23|FL_17,25,Male,Asian/ Pacific Islander,72,58,1,1,Prevented,34,52,1,1,Prevented,1,1,1,1,1
+R_3MEHutIqSUM5keT,Low,Prevent,Good,FL_23|FL_17,64,Male,"White, not of Hispanic origin",100,100,1,1,Prevented,100,100,1,1,Prevented,1,1,1,1,1
+R_2ZDYCVZwK3f8Izw,Low,Prevent,Good,FL_17|FL_23,51,Male,"White, not of Hispanic origin",89,58,1,1,Prevented,62,50,1,1,Prevented,1,1,1,1,1
+R_2wvngtyhwOVGAtJ,Low,Prevent,Good,FL_23|FL_17,25,Male,"White, not of Hispanic origin",86,62,1,1,Prevented,65,63,1,1,Prevented,1,1,1,1,1
+R_24cUBC9MbzTnqqc,Low,Prevent,Good,FL_17|FL_23,25,Female,"White, not of Hispanic origin",90,70,1,1,Prevented,66,54,1,1,Prevented,1,1,1,1,1
+R_OJzX619uZnZ6chz,Low,Prevent,Good,FL_17|FL_23,19,Female,"White, not of Hispanic origin",80,57,1,1,Prevented,74,48,1,1,Prevented,1,1,1,1,1
+R_3fUFNZwTnq1Sd2P,Low,Prevent,Good,FL_17|FL_23,34,Female,"White, not of Hispanic origin",55,54,1,1,Prevented,49,47,0,0,Prevented,1,0,0,1,1
+R_1doebqYS6WWoyZ7,Low,Prevent,Good,FL_17|FL_23,30,Male,"Black/ African American,White, not of Hispanic origin",72,72,1,0,Mitigated,62,85,1,1,Mitigated,0,1,0,0,0
+R_uwtW4Hy82euVYvD,Low,Prevent,Good,FL_17|FL_23,37,Male,"White, not of Hispanic origin",81,50,1,0,Prevented,61,43,1,1,Prevented,0,1,0,1,1
+R_2TRe70yMPhRvcJB,Low,Prevent,Good,FL_23|FL_17,36,Female,"White, not of Hispanic origin",82,52,1,1,Prevented,81,62,1,1,Prevented,1,1,1,1,1
+R_YYtD1XDaAZn3Zbr,Low,Prevent,Good,FL_17|FL_23,25,Female,"White, not of Hispanic origin",92,50,1,1,Prevented,51,50,0,1,Prevented,1,0,0,1,1
+R_2zZK1e6FugSTKz6,Low,Prevent,Good,FL_17|FL_23,20,Female,"White, not of Hispanic origin",100,84,1,1,Prevented,72,62,1,1,Prevented,1,1,1,1,1
+R_1ieTGuojELTtfW5,Low,Prevent,Good,FL_17|FL_23,40,Female,"White, not of Hispanic origin",81,51,1,1,Prevented,73,49,1,1,Prevented,1,1,1,1,1
+R_2R4IAvhWDC4wxLt,Low,Prevent,Good,FL_23|FL_17,26,Male,"White, not of Hispanic origin",70,70,1,1,Prevented,70,61,1,1,Prevented,1,1,1,1,1
+R_5hcqIPYMhb5dspH,Low,Prevent,Good,FL_23|FL_17,26,Female,Asian/ Pacific Islander,100,71,1,1,Prevented,62,81,1,1,Prevented,1,1,1,1,1
+R_31mWEh0mPegMCx4,Low,Prevent,Good,FL_17|FL_23,29,Male,"White, not of Hispanic origin",66,51,1,1,Prevented,83,60,1,1,Prevented,1,1,1,1,1
+R_3O37ZF2xent6ip4,Low,Prevent,Good,FL_23|FL_17,32,Male,"White, not of Hispanic origin",51,48,1,1,Prevented,25,28,1,1,Prevented,1,1,1,1,1
+R_3dPNs6Rz7LFtYUD,Low,Prevent,Good,FL_23|FL_17,22,Female,"White, not of Hispanic origin",68,51,1,1,Prevented,92,72,1,1,Prevented,1,1,1,1,1
+R_3oQQ85zvltJH6UA,Low,Prevent,Good,FL_17|FL_23,26,Male,"White, not of Hispanic origin",89,91,1,1,Prevented,80,88,1,1,Prevented,1,1,1,1,1
+R_1GHVVNTMzwYM4qh,Low,Prevent,Good,FL_17|FL_23,19,Male,Black/ African American,59,51,0,1,Prevented,16,28,0,1,Prevented,0,0,0,1,1
+R_3EVTkfBKy5OUXie,Low,Prevent,Good,FL_17|FL_23,43,Male,"White, not of Hispanic origin",100,100,0,1,Mitigated,100,100,1,1,Prevented,0,1,0,0,1
+R_2Y5tg0gbPRw6aIA,Low,Prevent,Good,FL_23|FL_17,21,Male,Asian/ Pacific Islander,70,53,1,1,Prevented,100,60,1,1,Prevented,1,1,1,1,1
+R_3dJIfWGNXrY7cm5,Low,Prevent,Good,FL_23|FL_17,49,Female,"White, not of Hispanic origin",100,52,1,1,Prevented,100,86,1,1,Prevented,1,1,1,1,1
+R_3RxUZQa9t172yRM,Low,Prevent,Good,FL_17|FL_23,21,Female,Hispanic,100,51,1,1,Mitigated,18,60,0,1,Prevented,1,0,0,0,1
+R_3PZ7OgGBWsJMekh,Low,Prevent,Good,FL_23|FL_17,27,Male,Asian/ Pacific Islander,79,72,1,1,Prevented,61,40,1,1,Prevented,1,1,1,1,1
+R_6J1JlujZGWTOAGl,Low,Prevent,Good,FL_23|FL_17,77,Female,"White, not of Hispanic origin",81,61,1,1,Prevented,81,76,1,1,Prevented,1,1,1,1,1
+R_BDQ6dMFbeBpre0x,Low,Prevent,Good,FL_23|FL_17,42,Female,"White, not of Hispanic origin",30,41,0,1,Mitigated,52,19,1,1,Mitigated,0,1,0,0,0
+R_2Tz9dRefY6uiUyE,Low,Mitigate,Bad,FL_17|FL_23,26,Male,"White, not of Hispanic origin",83,5,1,1,Worst,93,95,1,0,Mitigated,1,0,0,1,0
+R_1KrT4wpdFSwp3Md,Low,Mitigate,Good,FL_17|FL_23,46,Female,"White, not of Hispanic origin",77,46,0,1,Mitigated,100,91,0,1,Mitigated,0,0,0,1,1
+R_3KPLj9iooxjpkph,Low,Mitigate,Bad,FL_23|FL_17,28,Female,"White, not of Hispanic origin",81,7,1,1,Worst,100,61,1,0,Worst,1,0,0,1,1
+R_rqHbbKv7E88du1z,Low,Mitigate,Good,FL_17|FL_23,30,Female,"White, not of Hispanic origin",85,76,1,0,Mitigated,72,71,1,1,Mitigated,0,1,0,1,1
+R_3iKjOAeQuNTP5Od,Low,Mitigate,Bad,FL_23|FL_17,30,Female,South Asian/ Indian,71,0,1,0,Worst,100,0,0,1,Worst,0,0,0,1,1
+R_2fDTf8dOTvglOMU,Low,Mitigate,Good,FL_17|FL_23,37,Male,"White, not of Hispanic origin",71,41,1,0,Mitigated,91,69,1,1,Mitigated,0,1,0,1,1
+R_8wZ3HDGvlJkmLVT,Low,Mitigate,Bad,FL_17|FL_23,36,Male,"White, not of Hispanic origin",100,50,0,1,Worst,72,51,0,1,Worst,0,0,0,1,1
+R_pm8y5YEksDKXNPH,Low,Mitigate,Good,FL_23|FL_17,35,Male,"White, not of Hispanic origin",78,48,1,1,Mitigated,60,74,1,1,Mitigated,1,1,1,1,1
+R_XvV5WE2Pbi7joOt,Low,Mitigate,Good,FL_17|FL_23,39,Female,"White, not of Hispanic origin",68,59,1,1,Mitigated,100,100,1,1,Mitigated,1,1,1,1,1
+R_XBXI5YTYfiVArNT,Low,Mitigate,Bad,FL_17|FL_23,31,Female,Hispanic,49,28,1,1,Worst,53,39,1,0,Worst,1,0,0,1,1
+R_vTYfQr5ZpQqfzah,Low,Mitigate,Bad,FL_17|FL_23,59,Female,"White, not of Hispanic origin",71,49,1,1,Worst,52,53,1,0,Worst,1,0,0,1,1
+R_1mgfK7KTgQh5Jcq,Low,Mitigate,Bad,FL_17|FL_23,22,Male,"White, not of Hispanic origin",60,89,0,1,Worst,100,0,0,0,Mitigated,0,0,0,1,0
+R_DksdFH9Tp3qexqh,Low,Mitigate,Good,FL_23|FL_17,20,Female,Asian/ Pacific Islander,41,54,0,0,Mitigated,5,50,1,1,Mitigated,0,1,0,1,1
+R_2Xhqc2kYvk1s9HZ,Low,Mitigate,Bad,FL_23|FL_17,27,Nonbinary,Hispanic,67,50,1,1,Worst,72,60,1,1,Worst,1,1,1,1,1
+R_1KewCqZFkKBbl5P,Low,Mitigate,Good,FL_17|FL_23,28,Female,"White, not of Hispanic origin",92,62,1,1,Mitigated,99,71,1,1,Mitigated,1,1,1,1,1
+R_1K8cjUGA8hymptL,Low,Mitigate,Bad,FL_17|FL_23,25,Male,Hispanic,45,5,1,1,Worst,89,55,1,1,Worst,1,1,1,1,1
+R_2dGPCF70JkVl44f,Low,Mitigate,Good,FL_23|FL_17,23,Female,"White, not of Hispanic origin",82,82,1,0,Prevented,70,66,0,0,Prevented,0,0,0,0,0
+R_3lypJ13gOWFrfoT,Low,Mitigate,Bad,FL_17|FL_23,27,Female,"White, not of Hispanic origin",100,50,1,1,Worst,78,100,0,1,Worst,1,0,0,1,1
+R_zTjBosTvHHEksKt,Low,Mitigate,Good,FL_23|FL_17,34,Male,"White, not of Hispanic origin",53,51,1,1,Mitigated,52,50,1,1,Mitigated,1,1,1,1,1
+R_1dbJGKSW6CSYPQ2,Low,Mitigate,Good,FL_17|FL_23,60,Female,"White, not of Hispanic origin",44,66,1,1,Mitigated,29,30,1,1,Mitigated,1,1,1,1,1
+R_3j7BJ4VBue69ap8,High,Mitigate,Bad,FL_17|FL_23,25,Female,"White, not of Hispanic origin,Hispanic",28,9,1,1,Worst,7,9,1,1,Worst,1,1,1,1,1
+R_snXSYTKwBj33f57,Low,Mitigate,Good,FL_23|FL_17,21,Male,Black/ African American,79,61,0,1,Mitigated,69,51,1,1,Mitigated,0,1,0,1,1
+R_RrbFol0KylQwFMd,Low,Mitigate,Good,FL_17|FL_23,29,Female,"White, not of Hispanic origin",92,51,1,1,Mitigated,100,82,1,1,Mitigated,1,1,1,1,1
+R_2wjcNH3K1SWbckg,Low,Mitigate,Good,FL_17|FL_23,25,Female,"White, not of Hispanic origin",86,47,1,1,Mitigated,67,63,1,1,Mitigated,1,1,1,1,1
+R_1Hitsmgc31S6TO0,Low,Mitigate,Bad,FL_23|FL_17,27,Female,"White, not of Hispanic origin",40,6,0,0,Worst,50,60,1,1,Mitigated,0,1,0,1,0
+R_2YMwVvFLxxys1Mi,Low,Mitigate,Bad,FL_17|FL_23,40,Female,"White, not of Hispanic origin",94,57,1,1,Worst,90,76,1,1,Worst,1,1,1,1,1
+R_Bsrzgpckg1wuJwd,High,Mitigate,Bad,FL_23|FL_17,37,Male,Black/ African American,50,30,1,1,Worst,60,50,1,1,Worst,1,1,1,1,1
+R_ZvLkaUMnVH9HVkt,Low,Mitigate,Bad,FL_23|FL_17,29,Female,"White, not of Hispanic origin",61,55,1,1,Worst,86,65,1,1,Worst,1,1,1,1,1
+R_1nO6cHCFwlxWPgR,High,Mitigate,Bad,FL_23|FL_17,30,Female,"White, not of Hispanic origin",41,12,1,1,Worst,41,40,1,1,Worst,1,1,1,1,1
+R_2yduJhErupi8Tmh,Low,Mitigate,Good,FL_23|FL_17,47,Female,"White, not of Hispanic origin",56,65,0,0,Worst,75,60,1,1,Mitigated,0,1,0,0,1
+R_1nP0cEQ5V1aHdsC,Low,Mitigate,Bad,FL_17|FL_23,27,Female,"White, not of Hispanic origin",88,67,1,1,Worst,48,55,0,0,Worst,1,0,0,1,1
+R_e3uxir5k5hY35rb,Low,Mitigate,Bad,FL_23|FL_17,27,Female,"White, not of Hispanic origin",52,10,1,1,Worst,8,38,1,0,Worst,1,0,0,1,1
+R_1H7SmbI9507AJ1F,Low,Mitigate,Good,FL_17|FL_23,27,Female,Hispanic,82,63,1,1,Mitigated,91,51,1,1,Mitigated,1,1,1,1,1
+R_Q5HaaFr9sMENxmx,High,Mitigate,Bad,FL_23|FL_17,35,Male,"White, not of Hispanic origin",28,26,1,1,Worst,48,38,1,1,Worst,1,1,1,1,1
+R_1KxprJxYPl9cvVS,Low,Mitigate,Good,FL_23|FL_17,24,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",52,51,0,0,Prevented,81,62,0,1,Mitigated,0,0,0,0,1
+R_3MMACXgaNUVFPvH,High,Mitigate,Bad,FL_23|FL_17,40,Male,"White, not of Hispanic origin",50,50,1,0,Worst,73,9,1,0,Mitigated,0,0,0,1,0
+R_3mh2wBioBALm77a,High,Mitigate,Bad,FL_23|FL_17,24,Female,"White, not of Hispanic origin",51,9,1,1,Worst,70,29,1,1,Worst,1,1,1,1,1
+R_r3mDwxwnVn9pv1f,Low,Mitigate,Bad,FL_23|FL_17,43,Male,"White, not of Hispanic origin",78,87,1,1,Mitigated,98,77,0,0,Mitigated,1,0,0,0,0
+R_2f8ud3RLYWOAPFE,High,Mitigate,Bad,FL_17|FL_23,21,Female,Hispanic,50,0,1,1,Worst,10,9,1,1,Worst,1,1,1,1,1
+R_OEadbW9QtxMXWtX,Low,Mitigate,Good,FL_23|FL_17,33,Female,"White, not of Hispanic origin",59,50,1,1,Mitigated,100,70,1,0,Mitigated,1,0,0,1,1
+R_1yQophbQW9YVlEl,Low,Mitigate,Good,FL_17|FL_23,32,Male,"White, not of Hispanic origin",53,53,1,1,Mitigated,5,5,1,1,Mitigated,1,1,1,1,1
+R_2CVAVbo432QN1Mt,High,Mitigate,Bad,FL_23|FL_17,20,Male,Asian/ Pacific Islander,66,26,1,0,Worst,27,65,1,1,Mitigated,0,1,0,1,0
+R_C7TCg5VMu29TPr3,Low,Mitigate,Bad,FL_17|FL_23,36,Female,"White, not of Hispanic origin",74,16,1,1,Worst,44,52,1,0,Worst,1,0,0,1,1
+R_2xDUMNLpRj6Nlm9,High,Mitigate,Bad,FL_23|FL_17,25,Female,Asian/ Pacific Islander,49,19,1,0,Worst,50,29,1,1,Worst,0,1,0,1,1
+R_3rS6tMjoH76wPXD,Low,Mitigate,Bad,FL_17|FL_23,45,Male,"White, not of Hispanic origin",81,80,1,0,Mitigated,75,78,0,1,Mitigated,0,0,0,0,0
+R_3M5WxFNKX5B48pN,Low,Mitigate,Bad,FL_23|FL_17,22,Nonbinary,"South Asian/ Indian,White, not of Hispanic origin",91,26,1,1,Worst,35,20,1,0,Worst,1,0,0,1,1
+R_21vs7MTtS725yv9,Low,Mitigate,Good,FL_23|FL_17,33,Female,"White, not of Hispanic origin",71,39,1,0,Mitigated,46,44,1,1,Mitigated,0,1,0,1,1
+R_2zcqa6LczLQjxcT,Low,Mitigate,Bad,FL_23|FL_17,31,Female,South Asian/ Indian,49,7,1,1,Worst,92,82,1,1,Worst,1,1,1,1,1
+R_3kAJ2yCfd50Lruc,Low,Mitigate,Bad,FL_23|FL_17,24,Male,"White, not of Hispanic origin",60,50,1,0,Worst,81,9,1,1,Worst,0,1,0,1,1
+R_2P4GycDSLbh46kc,Low,Mitigate,Good,FL_23|FL_17,38,Male,"White, not of Hispanic origin",49,50,1,1,Mitigated,61,50,1,1,Mitigated,1,1,1,1,1
+R_D97h4dVNiHjSbWp,Low,Mitigate,Good,FL_17|FL_23,42,Female,"White, not of Hispanic origin",81,51,1,1,Mitigated,50,51,0,1,Mitigated,1,0,0,1,1
+R_RfvM6n9UX7emCAh,Low,Mitigate,Good,FL_23|FL_17,24,Male,"White, not of Hispanic origin",60,50,1,1,Mitigated,100,100,0,1,Mitigated,1,0,0,1,1
+R_1jenMWXJjxZjwUK,Low,Mitigate,Good,FL_17|FL_23,26,Female,"White, not of Hispanic origin",72,51,1,1,Mitigated,61,61,1,1,Mitigated,1,1,1,1,1
+R_1q2miPGCpc5vCMc,High,Mitigate,Bad,FL_23|FL_17,27,Male,Asian/ Pacific Islander,50,50,1,1,Worst,87,8,1,1,Worst,1,1,1,1,1
+R_2eVedVwegN2ZXZ6,High,Mitigate,Bad,FL_17|FL_23,19,Female,"White, not of Hispanic origin",28,8,1,1,Worst,65,9,1,1,Worst,1,1,1,1,1
+R_w1MylJcqFgQxN0R,Low,Mitigate,Bad,FL_23|FL_17,45,Male,"White, not of Hispanic origin",76,68,1,0,Mitigated,73,81,0,0,Worst,0,0,0,0,1
+R_8GIX5eVGeXrruVP,Low,Mitigate,Bad,FL_23|FL_17,46,Female,"White, not of Hispanic origin",73,77,0,0,Worst,64,65,1,0,Prevented,0,0,0,1,0
+R_1CpdVeK19fUJFUM,Low,Mitigate,Good,FL_17|FL_23,26,Female,"White, not of Hispanic origin",77,75,1,1,Mitigated,67,65,1,0,Prevented,1,0,0,1,0
+R_3HGG0QfgUJZxcU9,High,Mitigate,Bad,FL_23|FL_17,37,Female,"White, not of Hispanic origin",48,20,1,0,Worst,51,50,1,1,Worst,0,1,0,1,1
+R_3NVdOiTYKXTxrIj,High,Mitigate,Bad,FL_23|FL_17,34,Male,"White, not of Hispanic origin",51,0,1,1,Worst,58,23,1,1,Worst,1,1,1,1,1
+R_sES92iwfwneHEvD,Low,Prevent,Bad,FL_23|FL_17,23,Female,"White, not of Hispanic origin",89,51,1,1,Worst,92,51,1,1,Mitigated,1,1,1,1,0
+R_xi5u2wJxoaZ0Jnr,Low,Prevent,Bad,FL_17|FL_23,22,Female,"White, not of Hispanic origin",75,23,1,1,Worst,69,25,0,1,Worst,1,0,0,1,1
+R_2zbSxFut2zfAYgc,High,Mitigate,Good,FL_17|FL_23,28,Female,Hispanic,72,53,1,0,Mitigated,92,92,1,1,Mitigated,0,1,0,1,1
+R_1l6qUq6MXt7ng9m,High,Mitigate,Bad,FL_23|FL_17,34,Male,"White, not of Hispanic origin,Hispanic",45,33,1,1,Worst,81,81,1,1,Worst,1,1,1,1,1
+R_24J0Z9R6sLqZ3Mq,Low,Mitigate,Bad,FL_17|FL_23,55,Female,"White, not of Hispanic origin",61,1,1,1,Worst,82,51,1,1,Worst,1,1,1,1,1
+R_Bxhwqim3dzF3GAV,Low,Mitigate,Good,FL_17|FL_23,19,Female,Asian/ Pacific Islander,53,51,1,1,Worst,82,56,1,0,Mitigated,1,0,0,0,1
+R_85OX1Qe55JpMwYV,High,Mitigate,Bad,FL_23|FL_17,22,Female,Hispanic,100,38,1,1,Mitigated,70,50,1,1,Mitigated,1,1,1,0,0
+R_TwuHrSaTtH659Ml,High,Mitigate,Good,FL_23|FL_17,68,Male,"White, not of Hispanic origin",50,50,1,1,Mitigated,19,50,1,1,Mitigated,1,1,1,1,1
+R_2P7oImnRnPSTfA1,Low,Mitigate,Good,FL_23|FL_17,37,Female,"White, not of Hispanic origin",70,51,1,1,Mitigated,74,69,1,1,Mitigated,1,1,1,1,1
+R_9oyfY1teyiOVkeB,Low,Mitigate,Bad,FL_17|FL_23,29,Female,"White, not of Hispanic origin",54,24,1,1,Worst,66,35,0,1,Worst,1,0,0,1,1
+R_RmDOslhA3nyY4tX,Low,Prevent,Bad,FL_17|FL_23,28,Female,"White, not of Hispanic origin",52,4,1,1,Worst,100,51,1,1,Worst,1,1,1,1,1
+R_UX6HCSlElvkAset,Low,Mitigate,Bad,FL_17|FL_23,21,Female,"Black/ African American,White, not of Hispanic origin",50,5,1,1,Worst,88,8,1,1,Worst,1,1,1,1,1
+R_3ksUJG5FOY93Qna,High,Mitigate,Good,FL_23|FL_17,27,Male,"White, not of Hispanic origin",25,52,1,1,Mitigated,100,52,1,1,Mitigated,1,1,1,1,1
+R_269dbY0H3mYcZPd,Low,Mitigate,Good,FL_23|FL_17,67,Male,"White, not of Hispanic origin",61,50,1,1,Mitigated,61,50,1,1,Prevented,1,1,1,1,0
+R_tRkQeiL7pt0lCut,Low,Prevent,Bad,FL_17|FL_23,32,Female,"White, not of Hispanic origin",100,100,1,1,Worst,100,100,1,1,Worst,1,1,1,1,1
+R_1eQXeNpJ6up9SgA,Low,Mitigate,Bad,FL_17|FL_23,53,Female,"White, not of Hispanic origin",58,7,0,0,Worst,66,63,1,1,Worst,0,1,0,1,1
+R_1j87aP7k1J7w43f,Low,Mitigate,Good,FL_17|FL_23,56,Female,"White, not of Hispanic origin",60,50,1,1,Mitigated,72,50,1,0,Mitigated,1,0,0,1,1
+R_1j8nalrnbK96HMw,High,Mitigate,Bad,FL_17|FL_23,29,Female,"Asian/ Pacific Islander,Black/ African American",60,35,1,0,Worst,55,61,1,1,Worst,0,1,0,1,1
+R_3mZWfWBuxlODb2b,High,Mitigate,Good,FL_17|FL_23,37,Female,"White, not of Hispanic origin",40,61,1,1,Mitigated,85,77,1,1,Mitigated,1,1,1,1,1
+R_u3Mrz79SBpsM7ZL,Low,Prevent,Good,FL_23|FL_17,21,Female,"White, not of Hispanic origin",65,66,1,1,Prevented,92,58,1,1,Prevented,1,1,1,1,1
+R_2OMWMK6UOHKYOgo,Low,Mitigate,Bad,FL_17|FL_23,27,Female,"White, not of Hispanic origin",100,0,1,1,Worst,100,0,0,0,Worst,1,0,0,1,1
+R_1FkUAULnndmRLkS,High,Mitigate,Bad,FL_17|FL_23,18,Female,Black/ African American,51,9,1,1,Worst,31,7,1,1,Worst,1,1,1,1,1
+R_2ttG0QNetZ93mNT,High,Mitigate,Bad,FL_23|FL_17,28,Female,"White, not of Hispanic origin",79,13,1,0,Worst,69,19,1,1,Worst,0,1,0,1,1
+R_2bJpd2DDigGeyyK,Low,Prevent,Good,FL_23|FL_17,50,Male,"White, not of Hispanic origin",81,50,1,1,Prevented,65,50,1,1,Prevented,1,1,1,1,1
+R_2En9jDDFCPvvlIz,Low,Mitigate,Good,FL_23|FL_17,30,Male,Asian/ Pacific Islander,83,53,1,0,Mitigated,70,51,0,1,Mitigated,0,0,0,1,1
+R_2EAFnaHhYr7szCd,High,Mitigate,Good,FL_23|FL_17,33,Male,"White, not of Hispanic origin",41,51,1,1,Mitigated,81,50,1,0,Mitigated,1,0,0,1,1
+R_3lWZHFYINYEumrO,Low,Mitigate,Good,FL_23|FL_17,32,Male,"White, not of Hispanic origin",48,50,0,1,Mitigated,100,66,0,1,Mitigated,0,0,0,1,1
+R_2UYKV2rl4gkL9xb,Low,Mitigate,Good,FL_17|FL_23,21,Female,"White, not of Hispanic origin",81,50,1,1,Mitigated,71,50,1,1,Mitigated,1,1,1,1,1
+R_1f8bpaDGKVLCeHL,High,Mitigate,Bad,FL_17|FL_23,29,Male,Asian/ Pacific Islander,62,19,1,1,Worst,60,24,1,0,Worst,1,0,0,1,1
+R_3L6xityyfGIujk1,Low,Prevent,Bad,FL_17|FL_23,47,Female,"White, not of Hispanic origin",69,76,1,1,Mitigated,75,79,0,1,Mitigated,1,0,0,0,0
+R_51Mx6ChMLoGASyt,Low,Prevent,Good,FL_23|FL_17,27,Female,"White, not of Hispanic origin,Hispanic",61,61,1,1,Prevented,81,81,1,1,Prevented,1,1,1,1,1
+R_WwaStUPtvyaI7p7,Low,Prevent,Good,FL_23|FL_17,32,Female,"White, not of Hispanic origin",71,66,1,1,Prevented,71,61,1,1,Prevented,1,1,1,1,1
+R_3D71O2qm4miqU1O,High,Mitigate,Good,FL_23|FL_17,21,Female,"White, not of Hispanic origin",45,46,1,0,Mitigated,29,46,1,1,Mitigated,0,1,0,1,1
+R_XCj0Vv4Q7pMv2rT,Low,Mitigate,Good,FL_23|FL_17,25,Male,"White, not of Hispanic origin",92,55,1,1,Mitigated,91,54,1,1,Mitigated,1,1,1,1,1
+R_3J3E8L7egNwOix8,Low,Mitigate,Bad,FL_17|FL_23,26,Female,Asian/ Pacific Islander,61,3,1,1,Worst,81,0,1,0,Worst,1,0,0,1,1
+R_3JrbCW2QPbMn6mn,Low,Prevent,Good,FL_23|FL_17,19,Female,"White, not of Hispanic origin,Hispanic",81,51,1,1,Prevented,66,68,0,1,Prevented,1,0,0,1,1
+R_XiD7cNwq6nYlw0V,Low,Prevent,Good,FL_17|FL_23,29,Female,Asian/ Pacific Islander,93,51,0,1,Prevented,82,50,0,1,Prevented,0,0,0,1,1
+R_3JynU8zMibnKji0,Low,Prevent,Bad,FL_17|FL_23,19,Male,"White, not of Hispanic origin",39,3,1,1,Worst,61,8,1,1,Mitigated,1,1,1,1,0
+R_2z7HLYCAkdETyQk,High,Mitigate,Good,FL_23|FL_17,40,Female,"White, not of Hispanic origin",67,51,1,0,Mitigated,55,54,1,0,Mitigated,0,0,0,1,1
+R_2PdJZ7T3LCgpzjY,Low,Prevent,Good,FL_23|FL_17,44,Male,"White, not of Hispanic origin",68,72,1,1,Prevented,54,58,1,1,Prevented,1,1,1,1,1
+R_3HSy5BkSGw4HpFT,Low,Prevent,Bad,FL_23|FL_17,30,Female,"Asian/ Pacific Islander,Black/ African American",57,19,0,1,Worst,78,18,0,1,Mitigated,0,0,0,1,0
+R_2sZ5tzJgPINunoY,High,Prevent,Good,FL_17|FL_23,47,Male,"White, not of Hispanic origin",70,71,1,1,Prevented,79,73,0,1,Worst,1,0,0,1,0
+R_3rU46Wy4ORuRQrI,Low,Prevent,Bad,FL_17|FL_23,53,Female,"White, not of Hispanic origin",94,100,1,1,Worst,51,100,0,0,Worst,1,0,0,1,1
+R_24wMLMo3oHo5NDO,Low,Mitigate,Good,FL_23|FL_17,37,Male,"White, not of Hispanic origin",74,49,1,1,Mitigated,82,59,1,1,Mitigated,1,1,1,1,1
+R_1BXBWbaceuh6uPA,High,Mitigate,Good,FL_23|FL_17,44,Female,"White, not of Hispanic origin",74,49,1,0,Prevented,19,11,1,1,Mitigated,0,1,0,0,1
+R_6V9AzLq3Bbkvi25,High,Prevent,Bad,FL_17|FL_23,26,Male,"White, not of Hispanic origin",51,21,1,1,Mitigated,54,25,1,1,Worst,1,1,1,0,1
+R_1hKCdq1gemFW03G,Low,Prevent,Bad,FL_17|FL_23,37,Male,"White, not of Hispanic origin",50,50,1,1,Worst,100,100,0,1,Worst,1,0,0,1,1
+R_2EyqHazYUADPWeb,Low,Mitigate,Bad,FL_17|FL_23,43,Female,"White, not of Hispanic origin",96,30,1,1,Worst,100,35,1,1,Worst,1,1,1,1,1
+R_12mAJwM8RdQu2gO,High,Mitigate,Good,FL_23|FL_17,43,Male,"White, not of Hispanic origin",58,60,1,0,Mitigated,51,49,1,1,Mitigated,0,1,0,1,1
+R_2zbDQj9VKio1MM6,Low,Mitigate,Good,FL_17|FL_23,25,Male,Asian/ Pacific Islander,68,53,1,1,Mitigated,78,50,0,1,Mitigated,1,0,0,1,1
+R_1DTQ1ScigEVVjQQ,High,Mitigate,Bad,FL_17|FL_23,70,Female,"White, not of Hispanic origin",60,50,1,0,Worst,46,37,1,1,Worst,0,1,0,1,1
+R_VVkFqJdpkDHjnup,Low,Prevent,Good,FL_23|FL_17,22,Male,Asian/ Pacific Islander,62,64,1,1,Prevented,28,47,0,1,Prevented,1,0,0,1,1
+R_2q3GevCjoADgwHD,High,Prevent,Good,FL_23|FL_17,18,Male,"White, not of Hispanic origin",23,49,1,1,Prevented,68,87,1,1,Prevented,1,1,1,1,1
+R_AzdlgnFsufBxVM5,High,Mitigate,Bad,FL_23|FL_17,60,Female,"White, not of Hispanic origin",79,71,0,1,Worst,37,52,1,1,Worst,0,1,0,1,1
+R_2QlHPeksPX4YTxt,Low,Mitigate,Bad,FL_17|FL_23,71,Female,"White, not of Hispanic origin",50,40,1,0,Worst,21,22,1,1,Worst,0,1,0,1,1
+R_beYVJa1pIvKXxlL,High,Mitigate,Good,FL_17|FL_23,33,Male,Asian/ Pacific Islander,51,51,1,1,Mitigated,81,61,1,1,Mitigated,1,1,1,1,1
+R_2QJtIc1U70PXeBT,Low,Mitigate,Bad,FL_17|FL_23,20,Male,"Asian/ Pacific Islander,White, not of Hispanic origin",44,60,0,1,Mitigated,61,36,1,0,Prevented,0,0,0,0,0
+R_10CbAy47PZIJp2O,Low,Mitigate,Good,FL_17|FL_23,29,Male,"White, not of Hispanic origin",76,50,1,0,Mitigated,71,49,1,1,Mitigated,0,1,0,1,1
+R_1M0Ae1ENm01SZCm,High,Prevent,Good,FL_23|FL_17,20,Female,"White, not of Hispanic origin",82,49,1,1,Prevented,56,83,1,0,Mitigated,1,0,0,1,0
+R_22FHnWPTIrGM8X5,High,Mitigate,Bad,FL_23|FL_17,29,Male,"White, not of Hispanic origin",30,0,1,0,Worst,100,100,1,1,Worst,0,1,0,1,1
+R_3KSzdmZjohXOkhb,Low,Mitigate,Bad,FL_17|FL_23,63,Female,"White, not of Hispanic origin",91,55,1,1,Worst,83,64,1,1,Worst,1,1,1,1,1
+R_21jrYeUgd1TUIcl,Low,Mitigate,Good,FL_17|FL_23,25,Female,Asian/ Pacific Islander,12,50,1,1,Mitigated,3,14,0,0,Mitigated,1,0,0,1,1
+R_Tj8f3nBGBcSVjZ7,High,Mitigate,Bad,FL_17|FL_23,27,Female,"White, not of Hispanic origin",53,49,1,1,Worst,54,50,1,1,Worst,1,1,1,1,1
+R_3lPoqqymSy7Hf0Q,Low,Mitigate,Bad,FL_23|FL_17,24,Female,Asian/ Pacific Islander,67,12,1,0,Worst,38,0,0,1,Mitigated,0,0,0,1,0
+R_2ZCj5ixQ4rUyCQs,Low,Prevent,Bad,FL_23|FL_17,20,Female,"White, not of Hispanic origin",35,30,1,1,Worst,27,55,1,1,Worst,1,1,1,1,1
+R_3h4w8TV5skIE8MJ,Low,Mitigate,Good,FL_23|FL_17,30,Male,"White, not of Hispanic origin",84,56,1,1,Mitigated,70,55,1,1,Mitigated,1,1,1,1,1
+R_3kcwZsMlsbrH1xZ,Low,Prevent,Good,FL_17|FL_23,21,Male,Asian/ Pacific Islander,35,61,1,1,Prevented,50,50,0,1,Prevented,1,0,0,1,1
+R_1LtFBvB13OWS62P,High,Prevent,Good,FL_17|FL_23,25,Female,"White, not of Hispanic origin",67,50,1,1,Prevented,92,100,1,1,Prevented,1,1,1,1,1
+R_33m2MoBuQzuzLNF,Low,Mitigate,Good,FL_17|FL_23,54,Male,"White, not of Hispanic origin",71,52,1,1,Mitigated,51,52,1,1,Mitigated,1,1,1,1,1
+R_1esF0Sdn01rOYHU,Low,Mitigate,Bad,FL_17|FL_23,56,Male,"White, not of Hispanic origin",58,59,1,0,Worst,60,60,1,1,Worst,0,1,0,1,1
+R_RyQ6OvKpd6oOtt7,High,Mitigate,Bad,FL_17|FL_23,53,Male,"White, not of Hispanic origin",51,53,0,1,Worst,52,52,1,1,Worst,0,1,0,1,1
+R_27IpNPyld43dxaG,High,Prevent,Good,FL_17|FL_23,29,Female,"White, not of Hispanic origin",40,40,1,1,Prevented,50,47,1,1,Prevented,1,1,1,1,1
+R_3pbxZjZKPWotbaM,Low,Mitigate,Bad,FL_23|FL_17,45,Female,"White, not of Hispanic origin",79,90,0,0,Mitigated,65,59,0,1,Mitigated,0,0,0,0,0
+R_2QKZpimXrAkJXfd,Low,Prevent,Good,FL_17|FL_23,25,Male,"White, not of Hispanic origin",76,50,1,1,Prevented,10,4,1,1,Prevented,1,1,1,1,1
+R_XgPhi4ZUGJBQvXr,Low,Prevent,Bad,FL_17|FL_23,57,Male,"White, not of Hispanic origin",61,63,1,1,Worst,58,43,1,0,Worst,1,0,0,1,1
+R_3m2kDPWRypjklzm,Low,Prevent,Bad,FL_23|FL_17,29,Male,"White, not of Hispanic origin",80,93,1,1,Worst,70,57,0,1,Worst,1,0,0,1,1
+R_1NmrUI3etQdgm78,Low,Prevent,Good,FL_17|FL_23,45,Male,"White, not of Hispanic origin",70,43,1,1,Worst,54,37,1,0,Worst,1,0,0,0,0
+R_10YlDEROAIRHg9Y,High,Prevent,Bad,FL_23|FL_17,51,Male,"White, not of Hispanic origin",70,90,1,1,Worst,80,81,1,1,FALSE,1,1,1,1,0
+R_3G1YMazwzfWFk8d,Low,Prevent,Bad,FL_17|FL_23,30,Male,"White, not of Hispanic origin",71,9,1,1,Prevented,0,0,0,1,Worst,1,0,0,0,1
+R_veuRRSOyspnyP5L,High,Mitigate,Good,FL_17|FL_23,51,Male,"White, not of Hispanic origin",80,99,1,0,Worst,81,71,1,0,Worst,0,0,0,0,0
+R_1gMy0cxvCi8IPFt,High,Mitigate,Good,FL_23|FL_17,24,Male,"White, not of Hispanic origin",61,61,1,1,Mitigated,64,65,1,1,Mitigated,1,1,1,1,1
+R_20UoZuzx2k0fBN3,High,Mitigate,Bad,FL_17|FL_23,31,Female,"White, not of Hispanic origin",72,0,1,0,Worst,70,0,1,1,Worst,0,1,0,1,1
+R_3hfLVqhvXMcQDKb,Low,Mitigate,Bad,FL_17|FL_23,44,Male,"White, not of Hispanic origin",64,22,1,0,Worst,69,30,1,1,Worst,0,1,0,1,1
+R_1IsEbCOEf1TFkbD,High,Mitigate,Bad,FL_17|FL_23,54,Male,"White, not of Hispanic origin",64,64,0,0,Worst,67,59,0,1,Worst,0,0,0,1,1
+R_2sTlEch2eZzzFv4,Low,Mitigate,Bad,FL_17|FL_23,29,Male,"White, not of Hispanic origin",34,14,1,1,Worst,40,13,1,1,Worst,1,1,1,1,1
+R_1LYfQxJP375ii5h,High,Mitigate,Good,FL_17|FL_23,55,Male,"White, not of Hispanic origin",66,59,0,0,Worst,61,67,0,1,Worst,0,0,0,0,0
+R_tMoKDCzbMu6rMuB,High,Mitigate,Good,FL_23|FL_17,32,Male,"White, not of Hispanic origin",98,84,1,1,Mitigated,74,99,1,1,Mitigated,1,1,1,1,1
+R_3CC5XaRn0g7wqEa,Low,Prevent,Bad,FL_23|FL_17,54,Male,"White, not of Hispanic origin",71,82,0,1,Worst,69,82,0,1,Worst,0,0,0,1,1
+R_1djdngorWqRtg5x,Low,Prevent,Good,FL_17|FL_23,19,Female,"White, not of Hispanic origin",71,100,1,1,Prevented,91,80,1,1,Prevented,1,1,1,1,1
+R_2YDuGdveiW5DsUc,High,Prevent,Good,FL_17|FL_23,45,Male,Hispanic,72,38,1,1,Mitigated,55,78,1,0,Mitigated,1,0,0,0,0
+R_2wRAt7w37pAZw8W,Low,Mitigate,Good,FL_17|FL_23,50,Female,"White, not of Hispanic origin",50,50,1,1,Mitigated,50,50,1,1,Mitigated,1,1,1,1,1
+R_2zClvmX1W8rxlqZ,High,Prevent,Good,FL_17|FL_23,39,Male,Hispanic,61,76,1,1,Mitigated,48,41,1,0,Mitigated,1,0,0,0,0
+R_1MJUWX1TbTG6niu,High,Prevent,Good,FL_17|FL_23,56,Male,"White, not of Hispanic origin",92,68,1,1,Worst,70,92,1,1,Worst,1,1,1,0,0
+R_AoNcvWPKaJJTilr,High,Prevent,Bad,FL_17|FL_23,28,Female,Hispanic,50,13,1,1,Worst,11,18,1,1,Worst,1,1,1,1,1
+R_3LjOrGCjAxb3ncV,Low,Mitigate,Bad,FL_17|FL_23,24,Male,"White, not of Hispanic origin",59,49,1,1,Worst,49,11,0,1,Worst,1,0,0,1,1
+R_3MsWORzzmUgnzUG,Low,Prevent,Bad,FL_23|FL_17,42,Male,"White, not of Hispanic origin",93,86,1,1,Worst,67,65,0,1,Worst,1,0,0,1,1
+R_2qb0aXc9DpTNiqI,Low,Prevent,Good,FL_17|FL_23,57,Male,"White, not of Hispanic origin",62,81,0,1,Worst,100,81,0,1,Worst,0,0,0,0,0
+R_3rJwXMmFQ41TaR6,High,Mitigate,Good,FL_17|FL_23,25,Female,"White, not of Hispanic origin",48,49,1,1,Mitigated,85,56,1,0,Mitigated,1,0,0,1,1
+R_3L20oFHUNe3QF57,High,Prevent,Bad,FL_23|FL_17,44,Female,Black/ African American,48,49,1,1,Worst,45,46,1,1,Mitigated,1,1,1,1,0
+R_vU2id0lQiZk6FMZ,High,Mitigate,Bad,FL_23|FL_17,43,Female,"White, not of Hispanic origin",60,39,1,1,Worst,91,51,1,1,Worst,1,1,1,1,1
+R_3O7Jv7M0UXQO2Fm,High,Mitigate,Bad,FL_17|FL_23,43,Male,"White, not of Hispanic origin",35,47,1,0,Worst,53,55,1,1,Worst,0,1,0,1,1
+R_10YEyX5pjQj8yjL,High,Prevent,Bad,FL_17|FL_23,35,Female,"White, not of Hispanic origin",84,50,1,1,Worst,59,52,1,1,Worst,1,1,1,1,1
+R_1RgFHhGpETMNqRr,Low,Mitigate,Bad,FL_17|FL_23,35,Female,"White, not of Hispanic origin",61,30,1,1,Worst,72,51,1,0,Worst,1,0,0,1,1
+R_yju0O1K6a4RBIn7,Low,Mitigate,Bad,FL_17|FL_23,45,Female,"White, not of Hispanic origin",52,0,0,1,Worst,70,71,1,1,Prevented,0,1,0,1,0
+R_AjjnHsfjFpjzwxX,Low,Mitigate,Bad,FL_23|FL_17,27,Female,"White, not of Hispanic origin",40,51,1,0,Worst,25,39,0,1,Worst,0,0,0,1,1
+R_25u2qZB4JitzYom,Low,Mitigate,Bad,FL_23|FL_17,20,Female,Hispanic,59,7,1,0,Worst,58,8,0,1,Worst,0,0,0,1,1
+R_323exy8t9X0FU7l,Low,Mitigate,Bad,FL_17|FL_23,20,Male,"White, not of Hispanic origin",91,50,1,1,Worst,66,50,1,0,Worst,1,0,0,1,1
+R_28AFj0TdsxGbORD,Low,Mitigate,Bad,FL_17|FL_23,44,Male,"White, not of Hispanic origin",56,51,1,1,Worst,60,51,1,1,Worst,1,1,1,1,1
+R_1hJZo9nWnQmZXgi,Low,Mitigate,Bad,FL_17|FL_23,29,Female,"White, not of Hispanic origin",69,41,0,1,Worst,49,49,0,0,Worst,0,0,0,1,1
+R_UyTIOjcDjrr4CXv,Low,Mitigate,Bad,FL_17|FL_23,54,Female,"White, not of Hispanic origin",92,62,1,0,Worst,92,81,1,1,Worst,0,1,0,1,1
+R_1luHjynnc9usZ2x,Low,Mitigate,Good,FL_23|FL_17,48,Male,"White, not of Hispanic origin",71,79,0,0,Mitigated,77,83,1,0,Mitigated,0,0,0,1,1
+R_8hPgkhUwP70AB8J,Low,Mitigate,Bad,FL_23|FL_17,22,Male,Asian/ Pacific Islander,51,0,1,0,Worst,19,0,1,1,Mitigated,0,1,0,1,0
+R_1fjFcNYJHlT3kGX,Low,Mitigate,Bad,FL_17|FL_23,24,Female,0,74,30,0,1,Worst,83,37,0,1,Worst,0,0,0,1,1
+R_1hMPrfAJilhIxRY,Low,Mitigate,Good,FL_23|FL_17,19,Female,"White, not of Hispanic origin",50,50,1,1,Mitigated,17,57,0,1,Mitigated,1,0,0,1,1
+R_3EFPY6WS1gtTa6m,Low,Mitigate,Good,FL_23|FL_17,35,Male,"White, not of Hispanic origin",54,53,1,1,Mitigated,69,61,0,1,Mitigated,1,0,0,1,1
+R_bHpSKrvxAUSLnMd,Low,Mitigate,Good,FL_23|FL_17,30,Male,Black/ African American,44,64,1,0,Mitigated,0,48,0,1,Mitigated,0,0,0,1,1
+R_3nBCapDw4yHOFDR,Low,Mitigate,Bad,FL_23|FL_17,21,Male,Asian/ Pacific Islander,61,68,1,1,Worst,79,73,0,0,Worst,1,0,0,1,1
+R_1FFCOmiF6YkKGJQ,Low,Mitigate,Bad,FL_23|FL_17,23,Female,"White, not of Hispanic origin",28,20,1,1,Worst,30,71,1,1,Worst,1,1,1,1,1
+R_1mr6LsSbTV3R7Du,Low,Mitigate,Good,FL_23|FL_17,0,0,0,70,50,1,1,Mitigated,84,63,1,1,Mitigated,1,1,1,1,1
+R_3oyWkKIZvuuYHbj,Low,Mitigate,Bad,FL_17|FL_23,47,Female,"White, not of Hispanic origin",51,17,1,1,Worst,50,51,0,1,Worst,1,0,0,1,1
+R_3fvYGzizAo1S1B6,Low,Mitigate,Bad,FL_17|FL_23,33,Male,"White, not of Hispanic origin",76,51,1,1,Worst,60,50,1,1,Worst,1,1,1,1,1
+R_3qIMaIniBqT9xgY,Low,Mitigate,Bad,FL_17|FL_23,45,Male,"White, not of Hispanic origin",62,79,1,1,Mitigated,55,63,1,1,Worst,1,1,1,0,1
+R_2654KLjf7vzliNt,High,Mitigate,Bad,FL_17|FL_23,28,Male,"White, not of Hispanic origin",60,11,1,1,Worst,50,31,1,0,Worst,1,0,0,1,1
+R_U9Ypp7rrl8u1ieJ,High,Mitigate,Bad,FL_23|FL_17,42,Male,"White, not of Hispanic origin",56,54,0,1,Mitigated,54,62,1,0,Mitigated,0,0,0,0,0
+R_TvLCcMURIiY9GcF,Low,Mitigate,Bad,FL_23|FL_17,44,Male,Hispanic,71,3,1,1,Worst,53,51,1,1,Mitigated,1,1,1,1,0
+R_2ZKZNjE3lhBVUTH,Low,Mitigate,Good,FL_17|FL_23,46,Male,"White, not of Hispanic origin",68,37,0,1,Mitigated,68,73,0,1,Mitigated,0,0,0,1,1
+R_2c5ZKumfpb7UiqI,Low,Mitigate,Good,FL_23|FL_17,55,Female,"White, not of Hispanic origin",76,76,1,1,Prevented,71,69,1,1,Mitigated,1,1,1,0,1
+R_1Q5FfojhA0p5ftO,Low,Mitigate,Good,FL_17|FL_23,21,Male,"White, not of Hispanic origin",79,66,1,1,Mitigated,81,79,1,1,Mitigated,1,1,1,1,1
+R_3FQiIDsHPvjE5MT,Low,Mitigate,Bad,FL_23|FL_17,46,Female,"White, not of Hispanic origin",89,91,1,0,Mitigated,90,91,0,1,Prevented,0,0,0,0,0
+R_qEFdGUo3iPjlRa9,Low,Mitigate,Good,FL_23|FL_17,21,Male,"White, not of Hispanic origin",54,50,1,1,Mitigated,61,50,1,1,Mitigated,1,1,1,1,1
+R_22Rd827rcaeB0BA,Low,Mitigate,Good,FL_17|FL_23,32,Female,Hispanic,51,52,1,1,Mitigated,86,61,1,1,Prevented,1,1,1,1,0
+R_31RVfVLd1GIA4lT,Low,Prevent,Bad,FL_17|FL_23,31,Male,"White, not of Hispanic origin",100,20,1,1,Worst,100,22,1,1,Worst,1,1,1,1,1
+R_25sXbdW5SnkgY7k,High,Mitigate,Bad,FL_23|FL_17,32,Female,"White, not of Hispanic origin",59,0,1,0,Worst,53,31,1,1,Worst,0,1,0,1,1
+R_2pMN77CYxcDy24j,Low,Mitigate,Good,FL_17|FL_23,43,Female,"White, not of Hispanic origin",51,50,1,1,Mitigated,66,66,1,0,Mitigated,1,0,0,1,1
+R_3dXq2BOo5ZG5Zmt,High,Mitigate,Bad,FL_17|FL_23,30,Female,Asian/ Pacific Islander,52,51,1,1,Worst,58,65,1,1,Worst,1,1,1,1,1
+R_Zza6NsjgyfJaioV,Low,Mitigate,Bad,FL_23|FL_17,23,Female,Black/ African American,51,9,0,1,Worst,50,20,0,1,Worst,0,0,0,1,1
+R_qPocZ63sNNSXMNH,Low,Mitigate,Good,FL_17|FL_23,32,Male,"White, not of Hispanic origin",79,50,1,1,Worst,100,49,1,1,Mitigated,1,1,1,0,1
+R_w6lrQ1bCXVFAUXT,Low,Mitigate,Bad,FL_17|FL_23,37,Male,"White, not of Hispanic origin",50,8,1,1,Worst,80,75,1,0,Mitigated,1,0,0,1,0
+R_1JPzlXc0l8XKTcg,Low,Prevent,Bad,FL_23|FL_17,30,Female,"White, not of Hispanic origin",67,31,1,1,Worst,82,9,1,1,Worst,1,1,1,1,1
+R_8H6Paiick6jcd8Z,High,Mitigate,Bad,FL_23|FL_17,45,Male,Hispanic,20,19,1,1,Worst,81,50,1,1,Worst,1,1,1,1,1
+R_31gulGGIY1koJwt,Low,Mitigate,Bad,FL_23|FL_17,42,Male,"White, not of Hispanic origin",76,84,0,1,Mitigated,79,53,0,1,Mitigated,0,0,0,0,0
+R_3NxMau68ZpMUDU2,Low,Mitigate,Good,FL_17|FL_23,30,Female,Hispanic,50,51,1,1,Mitigated,33,45,1,1,Mitigated,1,1,1,1,1
+R_22LeTjOPefEdAX8,Low,Mitigate,Bad,FL_17|FL_23,54,Male,"White, not of Hispanic origin",92,19,1,1,Worst,60,28,1,1,Worst,1,1,1,1,1
+R_UtqxLIr1X8secb7,Low,Mitigate,Bad,FL_23|FL_17,41,Female,"White, not of Hispanic origin",91,36,1,1,Worst,82,10,0,0,Worst,1,0,0,1,1
+R_21cXzKSdVdfSKfu,Low,Prevent,Bad,FL_23|FL_17,28,Female,"White, not of Hispanic origin",72,31,1,1,Worst,76,79,1,1,Worst,1,1,1,1,1
+R_2fKjhUxi8fzj0El,High,Mitigate,Bad,FL_23|FL_17,24,0,0,9,1,1,1,Worst,1,0,1,1,Mitigated,1,1,1,1,0
+R_2vbLaFOQFhmvUKH,High,Mitigate,Good,FL_23|FL_17,27,Male,"White, not of Hispanic origin",50,50,1,1,Mitigated,8,9,1,1,Mitigated,1,1,1,1,1
+R_6rgxEShgXtNYPuh,High,Mitigate,Good,FL_17|FL_23,37,Female,"White, not of Hispanic origin",51,51,1,1,Mitigated,92,50,1,1,Mitigated,1,1,1,1,1
+R_26fEYlX6vpf2F5Q,Low,Prevent,Bad,FL_23|FL_17,41,Female,"White, not of Hispanic origin",51,4,1,1,Worst,45,13,1,1,Worst,1,1,1,1,1
+R_2tg6W2RJb7FVJ6k,High,Mitigate,Bad,FL_17|FL_23,30,Male,American Indian/ Alaska Native,48,6,1,1,Worst,80,88,1,1,Worst,1,1,1,1,1
+R_2rwP8yiEHpotwrX,High,Mitigate,Bad,FL_23|FL_17,30,Male,"White, not of Hispanic origin",50,11,1,0,Worst,91,4,1,0,Worst,0,0,0,1,1
+R_11jx3V7nuGsi3px,Low,Mitigate,Good,FL_17|FL_23,39,Female,Black/ African American,30,49,0,1,Mitigated,82,81,0,1,Mitigated,0,0,0,1,1
+R_2SAIZtmRH2OMB2o,Low,Prevent,Good,FL_17|FL_23,26,Female,"White, not of Hispanic origin",82,64,1,1,Prevented,81,79,1,1,Prevented,1,1,1,1,1
+R_3HM2aWBlRk0LYJx,Low,Prevent,Bad,FL_17|FL_23,32,Female,Hispanic,82,39,1,1,Worst,67,50,1,1,Worst,1,1,1,1,1
+R_3h3JUdNGZxWvsUF,High,Mitigate,Bad,FL_23|FL_17,47,Male,"White, not of Hispanic origin",68,88,1,0,Mitigated,67,80,1,0,Worst,0,0,0,0,1
+R_2XbbJKSacnsr5Mc,Low,Mitigate,Good,FL_23|FL_17,29,Male,Black/ African American,100,51,1,1,Mitigated,100,50,1,1,Mitigated,1,1,1,1,1
+R_ywJtj6HpK88CQud,Low,Mitigate,Good,FL_17|FL_23,57,Female,"White, not of Hispanic origin",82,49,1,1,Mitigated,39,73,1,0,Mitigated,1,0,0,1,1
+R_3COUX70heo0Sz7W,High,Mitigate,Bad,FL_23|FL_17,27,Female,"White, not of Hispanic origin",14,51,1,0,Worst,19,53,1,1,Worst,0,1,0,1,1
+R_2D0tZreElysxjzN,High,Mitigate,Good,FL_23|FL_17,21,Male,"White, not of Hispanic origin",66,52,1,0,Worst,40,72,1,1,Mitigated,0,1,0,0,1
+R_1o53NuzXZWJAfNi,High,Mitigate,Good,FL_17|FL_23,29,Female,"White, not of Hispanic origin",51,0,1,1,Mitigated,51,50,1,1,Mitigated,1,1,1,1,1
+R_1pz1QcbncWiVJ5J,Low,Mitigate,Good,FL_23|FL_17,0,0,0,50,50,1,1,Mitigated,68,66,1,1,Mitigated,1,1,1,1,1
+R_2pRAaU54MVnW1tc,Low,Prevent,Good,FL_23|FL_17,35,Male,"White, not of Hispanic origin",65,55,1,1,Prevented,60,50,1,1,Prevented,1,1,1,1,1
+R_tLCwYBJAjnom4zT,Low,Prevent,Bad,FL_17|FL_23,45,Male,"White, not of Hispanic origin",77,91,0,0,Mitigated,78,79,0,0,Mitigated,0,0,0,0,0
+R_31BME5POdCXkGXJ,Low,Mitigate,Bad,FL_17|FL_23,51,Female,Asian/ Pacific Islander,69,68,1,1,Prevented,73,70,1,0,Mitigated,1,0,0,0,0
+R_0IWZ6B09FKROG8p,Low,Mitigate,Good,FL_23|FL_17,28,Female,"White, not of Hispanic origin",82,53,1,1,Mitigated,86,62,1,1,Mitigated,1,1,1,1,1
+R_1dEa3fPW0vZcQGz,Low,Prevent,Good,FL_23|FL_17,18,Female,Asian/ Pacific Islander,100,50,1,1,Prevented,86,96,0,1,Mitigated,1,0,0,1,0
+R_x0mHpxSRG11rFbb,High,Mitigate,Good,FL_17|FL_23,31,Female,"White, not of Hispanic origin",48,52,1,0,Mitigated,55,47,1,1,Mitigated,0,1,0,1,1
+R_1jTxMJySL1wS1FU,Low,Mitigate,Bad,FL_23|FL_17,46,Female,Black/ African American,71,0,1,0,Worst,100,2,0,1,Mitigated,0,0,0,1,0
+R_20VtEDXEMBRAHnY,High,Mitigate,Bad,FL_23|FL_17,46,Male,"White, not of Hispanic origin",75,75,1,1,Worst,76,76,1,1,Worst,1,1,1,1,1
+R_25QrLdZHdrAsyxu,High,Mitigate,Good,FL_17|FL_23,20,Male,"White, not of Hispanic origin",50,51,1,0,Mitigated,81,71,1,0,Mitigated,0,0,0,1,1
+R_3q9luAImWkpoiHc,Low,Prevent,Bad,FL_23|FL_17,27,Female,Black/ African American,82,19,1,1,Worst,72,40,1,1,Worst,1,1,1,1,1
+R_1LOkW6BhqkP5ILS,High,Mitigate,Bad,FL_17|FL_23,19,Female,"White, not of Hispanic origin",97,74,1,1,Worst,62,82,1,0,Worst,1,0,0,1,1
+R_2bW3zXudwIYvRuh,Low,Mitigate,Bad,FL_17|FL_23,25,Female,Black/ African American,59,25,1,0,Worst,64,30,0,0,Worst,0,0,0,1,1
+R_2VK37m6nuQc8gsH,Low,Prevent,Bad,FL_17|FL_23,52,Male,"White, not of Hispanic origin",82,92,1,1,Mitigated,92,71,0,0,Mitigated,1,0,0,0,0
+R_TqjAntjuVcLrshb,High,Prevent,Good,FL_23|FL_17,59,Female,"White, not of Hispanic origin",51,52,1,1,Prevented,52,52,1,1,Prevented,1,1,1,1,1
+R_2VEyYwv0HfTa6z4,Low,Mitigate,Good,FL_17|FL_23,43,Female,"White, not of Hispanic origin",51,52,1,0,Mitigated,55,55,1,1,Mitigated,0,1,0,1,1
+R_3Ed3Ht8hDklmFdy,Low,Mitigate,Good,FL_17|FL_23,41,Male,"White, not of Hispanic origin",82,51,1,1,Mitigated,69,60,0,1,Mitigated,1,0,0,1,1
+R_1Qi1gzMgEIz9odA,Low,Prevent,Good,FL_17|FL_23,36,Female,"White, not of Hispanic origin",94,84,1,1,Prevented,75,74,1,1,Prevented,1,1,1,1,1
+R_2ea5coHebTYBFZn,High,Mitigate,Bad,FL_23|FL_17,27,Female,"White, not of Hispanic origin",51,51,1,1,Worst,82,82,1,0,Worst,1,0,0,1,1
+R_1gUE3udRlnG7A3S,Low,Mitigate,Bad,FL_23|FL_17,47,Male,"White, not of Hispanic origin",75,79,1,1,Mitigated,64,76,0,1,Mitigated,1,0,0,0,0
+R_3F4COs36oL0GjYr,Low,Mitigate,Good,FL_17|FL_23,35,Female,"White, not of Hispanic origin",51,51,1,1,Mitigated,82,60,1,1,Mitigated,1,1,1,1,1
+R_AAqiFbeIn8B1eOl,High,Mitigate,Good,FL_23|FL_17,42,Male,"White, not of Hispanic origin",51,49,1,1,Mitigated,71,50,1,1,Mitigated,1,1,1,1,1
+R_3NOtholH3OvFJag,Low,Prevent,Good,FL_23|FL_17,47,Male,"White, not of Hispanic origin",72,79,0,1,Mitigated,60,50,1,1,Mitigated,0,1,0,0,0
+R_3HOhpbIk78BSzQ1,High,Prevent,Good,FL_23|FL_17,19,Female,Asian/ Pacific Islander,50,51,1,1,Prevented,40,52,1,0,Prevented,1,0,0,1,1
+R_2ZBtR6qSKmnmykG,Low,Mitigate,Bad,FL_23|FL_17,33,Male,"White, not of Hispanic origin",92,91,1,1,Worst,70,49,1,1,Worst,1,1,1,1,1
+R_1IFbSs5gYFWf0jS,Low,Prevent,Bad,FL_17|FL_23,33,Female,"White, not of Hispanic origin",91,59,0,1,Worst,59,26,0,0,Worst,0,0,0,1,1
+R_1qhblEqas2M4qWv,High,Mitigate,Good,FL_23|FL_17,53,Male,"White, not of Hispanic origin",52,62,0,1,Worst,56,58,0,1,Worst,0,0,0,0,0
+R_PToEqMtMr3pCgPn,High,Mitigate,Bad,FL_17|FL_23,69,Male,Asian/ Pacific Islander,19,19,1,1,Worst,20,19,1,1,Worst,1,1,1,1,1
+R_3j2MlXu4EFh3lvG,High,Mitigate,Bad,FL_17|FL_23,24,Female,Black/ African American,52,8,1,1,Worst,20,8,1,1,Worst,1,1,1,1,1
+R_2bT5gMVFbvWhGb6,Low,Prevent,Good,FL_23|FL_17,34,Female,"White, not of Hispanic origin",78,51,1,0,Worst,72,85,1,1,Prevented,0,1,0,0,1
+R_1jJ6Ia7wZawqnb5,High,Prevent,Good,FL_17|FL_23,46,Female,"White, not of Hispanic origin",50,52,0,0,Mitigated,57,75,0,0,Prevented,0,0,0,0,1
+R_3lXNzaW2WYuv9Q2,Low,Mitigate,Bad,FL_17|FL_23,45,Male,"White, not of Hispanic origin",76,50,0,1,Prevented,60,66,1,1,Worst,0,1,0,0,1
+R_1hVZMz8FE3oaDWP,High,Mitigate,Good,FL_23|FL_17,54,Female,"White, not of Hispanic origin",57,59,0,1,Worst,59,64,0,1,Worst,0,0,0,0,0
+R_2ATGCwLh1hEIAMq,Low,Mitigate,Bad,FL_17|FL_23,35,Female,"White, not of Hispanic origin",92,50,1,1,Worst,100,50,1,0,Worst,1,0,0,1,1
+R_12LrPVji5NAYS2t,High,Prevent,Good,FL_17|FL_23,37,Male,"White, not of Hispanic origin",51,51,1,1,Prevented,50,51,1,1,Mitigated,1,1,1,1,0
+R_2CKbBsgcWL1EWnw,Low,Prevent,Good,FL_17|FL_23,18,Male,Hispanic,70,61,1,0,Prevented,55,50,0,1,Prevented,0,0,0,1,1
+R_1PdEkUpteTU2F8E,Low,Mitigate,Bad,FL_23|FL_17,23,Female,Asian/ Pacific Islander,80,74,1,0,Prevented,30,8,0,0,Worst,0,0,0,0,1
+R_3lS8ZEJ399U6YHq,Low,Mitigate,Bad,FL_17|FL_23,30,Male,"White, not of Hispanic origin",49,58,0,0,Worst,50,29,0,1,Worst,0,0,0,1,1
+R_2ysaYkd8RCcUJSs,Low,Mitigate,Bad,FL_17|FL_23,27,Male,"White, not of Hispanic origin",50,50,0,0,Worst,69,50,0,0,Worst,0,0,0,1,1
+R_1OCYVlFYScWP6yO,Low,Mitigate,Bad,FL_17|FL_23,18,Male,"White, not of Hispanic origin",66,3,0,1,Worst,48,29,1,0,Mitigated,0,0,0,1,0
+R_1LZlejqtZxYRLBQ,Low,Mitigate,Bad,FL_23|FL_17,0,Male,Asian/ Pacific Islander,50,19,1,1,Worst,81,51,1,0,Worst,1,0,0,1,1
+R_22Fv1wof0RC2PjF,Low,Mitigate,Bad,FL_23|FL_17,31,Male,Hispanic,61,75,1,0,Worst,73,54,1,1,Mitigated,0,1,0,1,0
+R_1mQum8QlYfXwFL6,Low,Mitigate,Bad,FL_23|FL_17,34,Female,"White, not of Hispanic origin",51,9,1,0,Worst,74,68,1,0,Worst,0,0,0,1,1
+R_3CCawWyWHBLrG2F,Low,Mitigate,Bad,FL_23|FL_17,24,Female,"White, not of Hispanic origin",100,82,1,1,Worst,100,81,1,1,Mitigated,1,1,1,1,0
+R_20Uvj1UTxdQ2icT,Low,Mitigate,Bad,FL_23|FL_17,29,Male,"White, not of Hispanic origin",40,23,1,1,Worst,65,65,1,0,Worst,1,0,0,1,1
+R_1LvY4yG68kCq5X7,Low,Mitigate,Bad,FL_17|FL_23,29,Male,Black/ African American,62,51,0,0,Worst,27,36,1,1,Mitigated,0,1,0,1,0
+R_1GCZO0JXsCyipqi,Low,Mitigate,Good,FL_23|FL_17,46,Female,"White, not of Hispanic origin",61,47,1,1,Mitigated,99,98,1,1,Mitigated,1,1,1,1,1
+R_qDfXPDEo2zuK07L,Low,Mitigate,Bad,FL_23|FL_17,19,Female,Hispanic,39,50,1,1,Worst,60,71,1,1,Worst,1,1,1,1,1
+R_4HshGun6nulk3bb,Low,Mitigate,Bad,FL_17|FL_23,32,Male,"White, not of Hispanic origin",90,50,1,0,Worst,77,35,1,1,Worst,0,1,0,1,1
+R_1EjqZzahPQ7CAIk,Low,Mitigate,Good,FL_23|FL_17,21,Female,Asian/ Pacific Islander,100,60,1,1,Mitigated,91,50,1,1,Mitigated,1,1,1,1,1
+R_sIn5lUL7dK9QflL,Low,Mitigate,Bad,FL_23|FL_17,27,Female,Black/ African American,56,7,0,0,Worst,16,44,0,1,Mitigated,0,0,0,1,0
+R_bqE2szXONlQoCvT,Low,Mitigate,Good,FL_23|FL_17,45,Male,"White, not of Hispanic origin",69,70,0,0,Prevented,60,54,0,0,Mitigated,0,0,0,0,1
+R_1Pedf2rME0Pv6wY,Low,Mitigate,Good,FL_17|FL_23,33,Female,"White, not of Hispanic origin",68,50,1,1,Mitigated,81,73,1,1,Mitigated,1,1,1,1,1
+R_BtZ0rqDeAtFDlL3,High,Mitigate,Bad,FL_17|FL_23,34,Male,"White, not of Hispanic origin",58,14,1,1,Worst,48,48,1,1,Worst,1,1,1,1,1
+R_2dYKvg6lA1drJys,Low,Mitigate,Bad,FL_23|FL_17,25,Male,0,19,8,1,1,Worst,7,8,1,1,Worst,1,1,1,1,1
+R_11b9aizWsNRie2p,High,Mitigate,Bad,FL_23|FL_17,27,Female,"White, not of Hispanic origin",51,0,1,1,Worst,91,43,1,1,Worst,1,1,1,1,1
+R_1OCDLGZhz5zQZmm,Low,Mitigate,Bad,FL_23|FL_17,29,Male,Asian/ Pacific Islander,72,69,1,1,Worst,74,62,1,1,Worst,1,1,1,1,1
+R_sb9pMx2zCKSb14J,Low,Mitigate,Bad,FL_23|FL_17,20,Female,Hispanic,42,15,0,1,Worst,29,0,1,1,Mitigated,0,1,0,1,0
+R_2uDHLZnbRhQSbr3,High,Mitigate,Bad,FL_17|FL_23,35,Male,"White, not of Hispanic origin",71,76,1,1,Worst,60,54,1,1,Worst,1,1,1,1,1
+R_ClDsQgMhw8RFxe1,Low,Mitigate,Bad,FL_23|FL_17,19,Female,"White, not of Hispanic origin",65,29,1,0,Worst,87,66,1,1,Worst,0,1,0,1,1
+R_sFqiwiWYrcaYDQZ,Low,Mitigate,Bad,FL_23|FL_17,40,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",50,36,1,1,Worst,51,39,1,0,Worst,1,0,0,1,1
+R_3KHkbBBx72TJtHI,High,Mitigate,Good,FL_23|FL_17,23,Nonbinary,"White, not of Hispanic origin",50,50,1,1,Mitigated,19,19,1,1,Mitigated,1,1,1,1,1
+R_2e9fSwYL9lUQ8ai,High,Mitigate,Bad,FL_23|FL_17,42,Female,"White, not of Hispanic origin",0,63,1,1,Mitigated,54,50,1,0,Prevented,1,0,0,0,0
+R_WlAj0JjU0kc0Bvr,High,Mitigate,Good,FL_17|FL_23,42,Male,"White, not of Hispanic origin",57,72,0,1,Prevented,76,52,0,0,Prevented,0,0,0,0,0
+R_3nl8eV1R1p6JZzk,Low,Prevent,Bad,FL_23|FL_17,35,Female,Asian/ Pacific Islander,43,33,1,1,Worst,37,20,0,1,Mitigated,1,0,0,1,0
+R_1H2cN2avsGS5Wsj,Low,Prevent,Good,FL_17|FL_23,32,Female,"White, not of Hispanic origin",60,50,1,1,Prevented,50,50,1,1,Prevented,1,1,1,1,1
+R_79yu1ZJC8OMc6VH,Low,Mitigate,Good,FL_17|FL_23,52,Female,"White, not of Hispanic origin",100,100,1,0,Prevented,82,81,1,0,Mitigated,0,0,0,0,1
+R_10SeCpUABJFpTQS,Low,Mitigate,Bad,FL_23|FL_17,18,Male,"White, not of Hispanic origin",50,49,1,0,Worst,81,50,0,0,Mitigated,0,0,0,1,0
+R_2aJK468XJiVBpoM,High,Mitigate,Good,FL_17|FL_23,53,Female,"White, not of Hispanic origin",51,50,1,1,Mitigated,75,79,1,1,Prevented,1,1,1,1,0
+R_tEBsA1IYmrpRPvr,High,Mitigate,Bad,FL_23|FL_17,20,Male,"White, not of Hispanic origin",51,7,1,0,Worst,51,34,1,0,Mitigated,0,0,0,1,0
+R_1ON4tBHFAhwYXBI,Low,Prevent,Bad,FL_23|FL_17,21,Female,"White, not of Hispanic origin",81,78,1,0,Worst,82,77,1,1,Worst,0,1,0,1,1
+R_31ZMRXvGXZR3r37,High,Mitigate,Bad,FL_23|FL_17,25,Male,Asian/ Pacific Islander,40,56,1,0,Worst,51,53,1,1,Worst,0,1,0,1,1
+R_1iljxaAW80Lc5bT,Low,Mitigate,Bad,FL_23|FL_17,28,Female,Black/ African American,50,86,1,1,Worst,81,65,1,1,Worst,1,1,1,1,1
+R_yxPJ0AoC5orEK09,Low,Mitigate,Bad,FL_17|FL_23,30,Male,"White, not of Hispanic origin",91,71,1,1,Worst,100,100,1,1,Worst,1,1,1,1,1
+R_3nTac2oLeMRlFWc,High,Mitigate,Good,FL_23|FL_17,24,Female,"White, not of Hispanic origin",51,45,1,0,Mitigated,91,70,1,1,Mitigated,0,1,0,1,1
+R_23ZyPnmawO2p8mi,Low,Prevent,Bad,FL_17|FL_23,30,Female,"White, not of Hispanic origin",79,80,1,1,Worst,63,66,1,1,Worst,1,1,1,1,1
+R_2dXs9Rx9Z0nPBli,Low,Prevent,Good,FL_23|FL_17,24,Female,"White, not of Hispanic origin",77,59,1,1,Prevented,82,82,1,1,Prevented,1,1,1,1,1
+R_ey2GDoAtUdZ6PBL,Low,Mitigate,Bad,FL_17|FL_23,37,Male,"White, not of Hispanic origin",70,58,0,0,Mitigated,63,71,1,0,Mitigated,0,0,0,0,0
+R_21dfe4WxCzw7NNV,Low,Mitigate,Good,FL_23|FL_17,48,Male,"White, not of Hispanic origin",100,100,0,0,Worst,55,100,1,1,Worst,0,1,0,0,0
+R_1hMDHCYnossZA4S,Low,Prevent,Bad,FL_23|FL_17,41,Male,"White, not of Hispanic origin",100,100,1,1,Mitigated,62,59,1,0,Worst,1,0,0,0,1
+R_1Nny4AsbYEB5f9N,Low,Mitigate,Good,FL_23|FL_17,20,Male,Black/ African American,51,43,1,0,Mitigated,50,75,0,0,Worst,0,0,0,1,0
+R_22mGYKUAOOeU7QL,Low,Prevent,Good,FL_17|FL_23,28,Male,"White, not of Hispanic origin",76,54,1,1,Prevented,100,75,1,1,Prevented,1,1,1,1,1
+R_1q4CO8NeoJmuwc3,High,Prevent,Good,FL_17|FL_23,56,Female,"White, not of Hispanic origin",51,51,1,1,Prevented,66,50,1,1,Prevented,1,1,1,1,1
+R_3iRpB9V2bK5fDzs,High,Mitigate,Good,FL_17|FL_23,45,Male,"White, not of Hispanic origin",92,84,0,0,Mitigated,86,88,1,0,Prevented,0,0,0,1,0
+R_ctG2tsgPGFxnVhT,Low,Mitigate,Good,FL_17|FL_23,30,Female,"American Indian/ Alaska Native,Black/ African American,White, not of Hispanic origin",94,50,1,1,Mitigated,81,69,1,1,Mitigated,1,1,1,1,1
+R_WeeKCBgx9RbAI4p,High,Mitigate,Good,FL_23|FL_17,37,Female,"White, not of Hispanic origin",59,48,1,1,Mitigated,71,67,1,1,Mitigated,1,1,1,1,1
+R_6fAJFcKita14vFn,Low,Prevent,Good,FL_17|FL_23,24,Male,Hispanic,100,50,1,1,Prevented,91,50,1,1,Prevented,1,1,1,1,1
+R_3Ge8LTWgQi1ClG2,Low,Mitigate,Bad,FL_23|FL_17,37,Female,Hispanic,92,1,1,1,Worst,51,18,1,0,Worst,1,0,0,1,1
+R_2AN25TJmH0Z1GwG,Low,Mitigate,Good,FL_23|FL_17,29,Female,"White, not of Hispanic origin",100,50,0,0,Mitigated,75,61,0,1,Mitigated,0,0,0,1,1
+R_2cpBb4fdal2mP5e,Low,Mitigate,Good,FL_17|FL_23,25,Male,"White, not of Hispanic origin",40,51,1,1,Mitigated,82,71,1,1,Mitigated,1,1,1,1,1
+R_3kzHb8NdISjYIhQ,Low,Mitigate,Bad,FL_17|FL_23,41,Female,"White, not of Hispanic origin",76,30,1,1,Worst,58,52,1,0,Worst,1,0,0,1,1
+R_1Dp24ClM3XrJ7DC,Low,Mitigate,Bad,FL_17|FL_23,31,Female,"Asian/ Pacific Islander,White, not of Hispanic origin",53,6,1,1,Worst,56,35,1,0,Worst,1,0,0,1,1
+R_32KkX1zjBMO37jw,Low,Mitigate,Bad,FL_17|FL_23,25,Female,"White, not of Hispanic origin",79,9,1,1,Worst,65,8,0,1,Worst,1,0,0,1,1
+R_3NCkz6csCsOY6Mq,Low,Mitigate,Bad,FL_23|FL_17,21,Female,"White, not of Hispanic origin",22,60,1,1,Worst,52,43,1,0,Prevented,1,0,0,1,0
+R_3Ia75PefCIakHZM,Low,Mitigate,Bad,FL_17|FL_23,21,Female,Asian/ Pacific Islander,56,4,0,1,Worst,25,25,1,0,Worst,0,0,0,1,1
+R_24LWyu8nU20Ha9e,Low,Mitigate,Good,FL_17|FL_23,49,Male,"White, not of Hispanic origin",91,50,1,0,Mitigated,93,92,1,0,Prevented,0,0,0,1,0
+R_12utNyRycMJ7XZX,Low,Mitigate,Bad,FL_23|FL_17,26,Male,"South Asian/ Indian,White, not of Hispanic origin",73,74,0,0,Worst,67,67,0,1,Mitigated,0,0,0,1,0
+R_URcE9Tg1uA1fSXT,Low,Mitigate,Bad,FL_23|FL_17,46,Female,"White, not of Hispanic origin",96,100,1,0,Worst,91,5,1,1,Worst,0,1,0,1,1
+R_OdlnfGVQCjmgaSR,Low,Mitigate,Bad,FL_23|FL_17,29,Female,"White, not of Hispanic origin",52,35,1,1,Worst,88,84,1,0,Worst,1,0,0,1,1
+R_2B8LbQhvEDCGBPG,High,Mitigate,Bad,FL_23|FL_17,23,Female,"White, not of Hispanic origin",81,50,1,1,Worst,39,40,1,1,Worst,1,1,1,1,1
+R_3EZsIaExBU3FWy4,Low,Mitigate,Bad,FL_23|FL_17,32,Male,"White, not of Hispanic origin",78,31,1,1,Worst,88,57,1,1,Worst,1,1,1,1,1
+R_eRjXVWeicpZZQwp,Low,Mitigate,Bad,FL_17|FL_23,55,Female,"White, not of Hispanic origin",100,100,1,1,Worst,100,47,1,0,Worst,1,0,0,1,1
+R_2To4NVakUlB0xQc,Low,Mitigate,Good,FL_23|FL_17,42,Female,"White, not of Hispanic origin",82,72,0,1,Mitigated,89,71,0,0,Mitigated,0,0,0,1,1
+R_1H11McdML04TLqJ,Low,Mitigate,Bad,FL_23|FL_17,22,Female,Asian/ Pacific Islander,35,42,1,1,Worst,30,1,1,1,Worst,1,1,1,1,1
+R_1rpozYh0VJow2iX,Low,Prevent,Bad,FL_23|FL_17,36,Female,Asian/ Pacific Islander,54,10,0,1,Worst,89,49,0,1,Worst,0,0,0,1,1
+R_2QLfhWR6iDBdAY6,High,Mitigate,Good,FL_17|FL_23,19,Male,"White, not of Hispanic origin",67,50,1,1,Mitigated,51,49,1,1,Mitigated,1,1,1,1,1
+R_3O3u3iD14DcoWqB,Low,Mitigate,Bad,FL_17|FL_23,18,Female,Asian/ Pacific Islander,50,19,1,1,Worst,91,91,1,0,Worst,1,0,0,1,1
+R_1l9mjuicTJlq9w1,Low,Mitigate,Bad,FL_17|FL_23,25,Female,"Black/ African American,White, not of Hispanic origin",59,0,1,1,Worst,85,41,1,1,Worst,1,1,1,1,1
+R_1OGLE6RHGrTZnOv,High,Mitigate,Bad,FL_23|FL_17,44,Male,"White, not of Hispanic origin",83,70,0,0,Mitigated,79,75,1,0,Prevented,0,0,0,0,0
+R_1IuDpngIrDr9F9x,Low,Mitigate,Bad,FL_23|FL_17,63,Male,"White, not of Hispanic origin",100,100,1,1,Prevented,73,80,0,1,Worst,1,0,0,0,1
+R_2B4YfBwwjqkikIY,High,Mitigate,Bad,FL_17|FL_23,27,Female,"White, not of Hispanic origin",71,50,1,0,Worst,82,71,1,1,Worst,0,1,0,1,1
+R_3es5WeYFKEbDsv3,Low,Prevent,Bad,FL_23|FL_17,33,Female,"White, not of Hispanic origin",100,100,1,1,Worst,100,100,1,1,Worst,1,1,1,1,1
+R_2zOuMZTKKoaZNdO,Low,Mitigate,Good,FL_17|FL_23,23,Male,Hispanic,100,49,1,1,Mitigated,100,100,1,1,Mitigated,1,1,1,1,1
+R_YX27qt16xVUFi7v,Low,Mitigate,Good,FL_23|FL_17,54,Female,"White, not of Hispanic origin",100,60,1,1,Mitigated,100,100,1,1,Mitigated,1,1,1,1,1
+R_1jDqqiR7oYbBoSu,Low,Prevent,Bad,FL_17|FL_23,20,Male,"White, not of Hispanic origin",77,50,1,1,Worst,56,52,1,1,Worst,1,1,1,1,1
+R_1eCyhgJkIBPhcnm,High,Mitigate,Good,FL_17|FL_23,19,Female,Asian/ Pacific Islander,48,29,1,1,Mitigated,68,49,1,1,Mitigated,1,1,1,1,1
+R_1MM3uP2UlHln7hu,High,Mitigate,Bad,FL_17|FL_23,22,Male,Hispanic,42,0,1,0,Worst,79,0,1,0,Worst,0,0,0,1,1
+R_3fvN9XPm776A5pi,Low,Mitigate,Good,FL_17|FL_23,45,Male,"White, not of Hispanic origin",62,57,0,0,Mitigated,57,64,1,1,Mitigated,0,1,0,1,1
+R_r3faHAjTC6spFrb,Low,Prevent,Bad,FL_23|FL_17,30,Female,"White, not of Hispanic origin",99,100,1,1,Worst,86,66,1,1,Worst,1,1,1,1,1
+R_Z9xF6RBdUlp3LXj,High,Mitigate,Bad,FL_23|FL_17,23,Female,"White, not of Hispanic origin",71,25,1,0,Worst,31,61,1,0,Worst,0,0,0,1,1
+R_5chqPuQs96CJrDr,High,Mitigate,Good,FL_17|FL_23,26,Male,"White, not of Hispanic origin",100,100,1,0,Worst,100,51,1,1,Mitigated,0,1,0,0,1
+R_3htBYZ3My6StaQ9,Low,Mitigate,Bad,FL_23|FL_17,26,Female,"White, not of Hispanic origin",93,25,1,0,Worst,90,92,1,0,Worst,0,0,0,1,1
+R_2WNNjkUTTmAFJw5,Low,Mitigate,Bad,FL_17|FL_23,22,Male,South Asian/ Indian,51,11,1,0,Worst,11,7,1,1,Worst,0,1,0,1,1
+R_22Ap7LygOJUpIpv,Low,Mitigate,Bad,FL_23|FL_17,29,Female,"White, not of Hispanic origin",92,51,1,0,Worst,92,91,1,1,Worst,0,1,0,1,1
+R_3G9xEw9MmngKt3D,Low,Mitigate,Bad,FL_17|FL_23,26,Female,"White, not of Hispanic origin",23,0,1,1,Worst,45,20,1,1,Worst,1,1,1,1,1
+R_22tP1sZzbGNGm8q,Low,Mitigate,Bad,FL_23|FL_17,25,Male,"White, not of Hispanic origin",61,25,1,1,Worst,25,25,0,1,Worst,1,0,0,1,1
+R_3kz8YcuqetuQSCn,Low,Mitigate,Bad,FL_17|FL_23,57,Male,"White, not of Hispanic origin",81,92,0,0,Worst,80,82,0,1,Worst,0,0,0,1,1
+R_1OOfJUFlfi3ftCB,Low,Mitigate,Bad,FL_23|FL_17,56,Male,"White, not of Hispanic origin",81,70,0,1,Mitigated,71,81,0,1,Mitigated,0,0,0,0,0
+R_2azwzCHhwiKauU8,Low,Mitigate,Bad,FL_23|FL_17,39,Female,"White, not of Hispanic origin",55,9,1,1,Worst,70,9,1,1,Worst,1,1,1,1,1
+R_2fAPk33UjeYC9Jl,Low,Mitigate,Bad,FL_23|FL_17,27,Female,"White, not of Hispanic origin",65,31,1,1,Worst,76,29,1,1,Worst,1,1,1,1,1
+R_1CDRhCf7Ig63Vei,Low,Mitigate,Bad,FL_17|FL_23,45,Male,"White, not of Hispanic origin",64,63,0,0,Prevented,75,70,1,0,Prevented,0,0,0,0,0
+R_AAp7qTq3SBPqzBL,Low,Mitigate,Good,FL_17|FL_23,42,Male,"White, not of Hispanic origin",64,57,1,0,Mitigated,50,71,1,1,Mitigated,0,1,0,1,1
+R_vqQphgbncRCS1AB,Low,Mitigate,Bad,FL_17|FL_23,40,Female,"White, not of Hispanic origin",50,50,1,1,Worst,74,8,1,0,Worst,1,0,0,1,1
+R_3htL6nSSG7BmVE4,Low,Mitigate,Bad,FL_23|FL_17,50,Female,"White, not of Hispanic origin",86,67,1,1,Worst,92,72,1,1,Worst,1,1,1,1,1
+R_A7FxIJ5CWy4wWVX,Low,Mitigate,Bad,FL_17|FL_23,46,Male,"White, not of Hispanic origin",72,59,0,0,Mitigated,61,67,0,0,Mitigated,0,0,0,0,0
+R_23Tvp8rYPaxFITz,High,Mitigate,Bad,FL_17|FL_23,27,Male,"White, not of Hispanic origin",71,11,1,0,Worst,87,100,1,1,Mitigated,0,1,0,1,0
+R_1rjBhD8ukn8pKOA,High,Mitigate,Bad,FL_23|FL_17,19,Male,"White, not of Hispanic origin",29,4,1,0,Worst,13,4,1,0,Worst,0,0,0,1,1
+R_xo4lIioYxSOSVeV,Low,Mitigate,Good,FL_23|FL_17,33,Male,"White, not of Hispanic origin",81,53,1,1,Mitigated,62,47,1,0,Mitigated,1,0,0,1,1
+R_1zXdOIy3GjsCDUl,High,Mitigate,Bad,FL_17|FL_23,30,Male,"White, not of Hispanic origin",71,100,1,1,Worst,100,100,1,1,Worst,1,1,1,1,1
+R_1eWeoamC3fIHeMb,Low,Mitigate,Good,FL_17|FL_23,37,Female,"White, not of Hispanic origin",70,51,0,0,Prevented,79,50,0,0,Mitigated,0,0,0,0,1
+R_2afaP1Xtp9ZFM94,Low,Mitigate,Bad,FL_17|FL_23,36,Female,"White, not of Hispanic origin",92,62,1,0,Worst,100,94,1,0,Worst,0,0,0,1,1
+R_7U8NjrG9kV5bsf7,Low,Mitigate,Bad,FL_23|FL_17,45,Male,"White, not of Hispanic origin",90,89,1,1,Mitigated,86,90,0,0,Worst,1,0,0,0,1
+R_2wmjcK5ZX0VWOOl,Low,Mitigate,Bad,FL_23|FL_17,29,Male,"White, not of Hispanic origin",49,49,1,1,Worst,79,77,1,0,Mitigated,1,0,0,1,0
+R_2w60wn8Q4vRNdTw,Low,Mitigate,Bad,FL_23|FL_17,56,Male,"White, not of Hispanic origin",50,45,1,1,Worst,65,65,1,1,Worst,1,1,1,1,1
+R_3Rq58bQINveUCKE,Low,Mitigate,Bad,FL_23|FL_17,28,Female,South Asian/ Indian,100,91,1,1,Worst,100,81,1,0,Worst,1,0,0,1,1
+R_1OoXKBiNRDCkUAZ,Low,Mitigate,Bad,FL_17|FL_23,38,Male,"White, not of Hispanic origin",81,81,1,1,Worst,70,70,1,1,Mitigated,1,1,1,1,0
+R_1f6DV9G6ZKjS3RE,Low,Mitigate,Bad,FL_23|FL_17,19,Male,"White, not of Hispanic origin",81,97,0,1,Mitigated,45,41,0,0,Mitigated,0,0,0,0,0
+R_4MEgmmyX5YlJZCx,Low,Mitigate,Bad,FL_23|FL_17,21,Male,Asian/ Pacific Islander,41,60,1,1,Worst,52,61,0,1,Mitigated,1,0,0,1,0
+R_2qjAjP69BHDM2Ei,Low,Mitigate,Good,FL_17|FL_23,45,Male,"White, not of Hispanic origin",87,77,0,0,Worst,78,80,0,0,Mitigated,0,0,0,0,1
+R_CeFqDZ16tR6Z8hr,Low,Mitigate,Good,FL_23|FL_17,28,Female,"Black/ African American,Hispanic",100,40,1,0,Mitigated,45,39,0,1,Mitigated,0,0,0,1,1
+R_2bTRRxCY62igvOK,Low,Mitigate,Bad,FL_23|FL_17,44,Female,"White, not of Hispanic origin",79,77,0,0,Worst,84,80,0,0,Mitigated,0,0,0,1,0
+R_2WBY9x29B6PesIx,Low,Mitigate,Bad,FL_23|FL_17,43,Male,"White, not of Hispanic origin",82,82,0,0,Worst,80,77,0,0,Mitigated,0,0,0,1,0
+R_3PZ9oT8XnzNRhwo,Low,Mitigate,Good,FL_23|FL_17,20,Female,"White, not of Hispanic origin",62,51,1,1,Mitigated,61,10,0,0,Mitigated,1,0,0,1,1
+R_3oGR2MxqUyvgCen,Low,Mitigate,Bad,FL_17|FL_23,38,Female,Black/ African American,46,46,0,0,Worst,73,22,1,1,Worst,0,1,0,1,1
+R_1pKljPz3JEVNmLs,High,Mitigate,Bad,FL_17|FL_23,20,Female,"White, not of Hispanic origin",60,20,1,1,Worst,9,0,1,1,Worst,1,1,1,1,1
+R_3lrcafXXmpdrMZM,High,Mitigate,Bad,FL_23|FL_17,45,Male,"White, not of Hispanic origin",59,64,1,1,Mitigated,65,66,1,1,Worst,1,1,1,0,1
+R_2SJt2sXRLzkxNZC,Low,Mitigate,Bad,FL_17|FL_23,20,Female,"White, not of Hispanic origin",50,51,1,1,Worst,100,51,1,1,Worst,1,1,1,1,1
+R_33a7HOCfrGXLalV,Low,Mitigate,Bad,FL_17|FL_23,29,Male,"White, not of Hispanic origin",61,1,1,1,Worst,100,100,1,1,Worst,1,1,1,1,1
+R_3nNltzbzmCXxjLW,Low,Mitigate,Bad,FL_17|FL_23,26,Male,"White, not of Hispanic origin",75,24,1,1,Worst,84,60,1,1,Worst,1,1,1,1,1
+R_1GJRAy0Tx4oPS49,Low,Mitigate,Bad,FL_17|FL_23,24,Female,Asian/ Pacific Islander,40,40,1,1,Worst,81,82,1,1,Worst,1,1,1,1,1
+R_2ckAwf68tFjGdFx,Low,Mitigate,Bad,FL_17|FL_23,34,Female,"White, not of Hispanic origin",72,83,1,1,Worst,76,20,1,1,Worst,1,1,1,1,1
+R_29npy2Y6H9Fg4ra,Low,Mitigate,Good,FL_23|FL_17,44,Male,"White, not of Hispanic origin",74,52,1,1,Mitigated,48,51,1,1,Mitigated,1,1,1,1,1
+R_d5t9P8zA3PoSIiR,Low,Mitigate,Bad,FL_23|FL_17,27,Male,Black/ African American,58,34,1,1,Worst,65,50,1,0,Worst,1,0,0,1,1
+R_1lccabtVO4V7WHO,Low,Mitigate,Good,FL_17|FL_23,28,Female,"White, not of Hispanic origin",59,50,1,1,Mitigated,69,46,1,1,Mitigated,1,1,1,1,1
+R_2VHAdcmx0VmTHcr,Low,Mitigate,Good,FL_17|FL_23,18,Male,"White, not of Hispanic origin",61,51,1,1,Mitigated,71,56,0,0,Mitigated,1,0,0,1,1
+R_sBZuc7QthXE81QR,Low,Mitigate,Bad,FL_17|FL_23,30,Self-identified/other,"White, not of Hispanic origin",70,69,1,1,Worst,59,30,1,1,Worst,1,1,1,1,1
+R_YPLSFXLDwjghq5X,High,Prevent,Good,FL_23|FL_17,39,Male,"White, not of Hispanic origin",70,50,1,1,Prevented,50,60,1,1,Prevented,1,1,1,1,1
+R_3suYPot3M7G56Q8,Low,Mitigate,Bad,FL_17|FL_23,32,Female,"White, not of Hispanic origin",50,18,1,1,Worst,39,19,1,0,Worst,1,0,0,1,1
+R_3QPPaA6tflv84gc,Low,Mitigate,Bad,FL_17|FL_23,31,Male,"White, not of Hispanic origin",96,97,0,1,Prevented,99,83,0,0,Prevented,0,0,0,0,0
+R_3O8EwRhSd8ReAgD,Low,Mitigate,Bad,FL_17|FL_23,54,Male,"White, not of Hispanic origin",61,61,1,1,Worst,81,81,1,1,Worst,1,1,1,1,1
+R_3Ivdpu1rKQ5fMyt,Low,Mitigate,Bad,FL_17|FL_23,43,Male,Black/ African American,64,11,1,1,Worst,90,33,1,1,Worst,1,1,1,1,1
+R_231wX9YkpXnMDeF,High,Prevent,Bad,FL_23|FL_17,45,Female,"White, not of Hispanic origin",65,40,1,1,Worst,71,51,1,0,Worst,1,0,0,1,1
