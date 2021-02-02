@@ -181,7 +181,9 @@ pre.plot.split <- ggplot(dat.pre.scenario, aes(x = Valence, y=Rating, fill=Reali
   scale_y_continuous(limits=c(0,100)) +
   scale_fill_manual(values=RealismPalette) +
   geom_hline(yintercept=50, linetype="dashed") + 
-  theme(panel.background = element_rect(fill='white',color='white'))
+  ylab("Prospective Rating") +
+  theme(panel.background = element_rect(fill='white',color='white')) +
+  theme(legend.position = "none")
 pre.plot.split
 
 
@@ -191,7 +193,9 @@ post.plot.split <- ggplot(dat.post.scenario, aes(x = Valence, y=Rating, fill=Rea
   scale_y_continuous(limits=c(0,100)) +
   scale_fill_manual(values=RealismPalette) +
   geom_hline(yintercept=50, linetype="dashed") + 
-  theme(panel.background = element_rect(fill='white',color='white'))
+  ylab("Retrospective Rating") +
+  theme(panel.background = element_rect(fill='white',color='white')) +
+  theme(legend.position = "none")
 post.plot.split
 
 diff.plot.split <- ggplot(dat.diff.long, aes(x = Valence, y=Rating, fill=Realism)) +
