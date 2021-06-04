@@ -7,7 +7,7 @@ library(lsr)
 library(afex)
 library(effsize)
 setwd("../../data/Experiment2")
-#setwd("~/Desktop/Active Studies/Overreaction/data/Experiment 2")
+setwd("~/Desktop/Active Studies/Overreaction/data/Experiment 2")
 
 dat <- read.csv("OverreactionExp2.csv")
 
@@ -52,7 +52,12 @@ pre.plot
 
 pre.plot.split <- ggplot(dat.pre.scenario, aes(x = Valence, y=Rating, fill=Realism)) +
   facet_wrap(~Intervention)+
-  geom_bar(stat='summary', position='dodge') +
+  geom_violin()+
+  scale_fill_manual(values=RealismPalette) +
+  geom_point(stat="summary",position=position_dodge(width=.9))+
+  geom_errorbar(stat='summary', position='dodge') +
+  theme(panel.background = element_rect(fill='white',color='white'))+
+  geom_hline(yintercept=50, linetype="dashed")+
   geom_errorbar(stat='summary', position='dodge')
 pre.plot.split # Pre-ratings are different despite being identical across all conditions. Random variance?
   
@@ -65,8 +70,11 @@ post.plot.split <- ggplot(dat.post.scenario, aes(x = Valence, y=Rating, fill=Rea
   facet_wrap(~Intervention)+
   #geom_bar(stat='summary', position='dodge') +
   geom_violin()+
-  geom_point(position=position_dodge(width=.9))+
-  geom_errorbar(stat='summary', position='dodge')
+  scale_fill_manual(values=RealismPalette) +
+  geom_point(stat="summary",position=position_dodge(width=.9))+
+  geom_errorbar(stat='summary', position='dodge') +
+  theme(panel.background = element_rect(fill='white',color='white'))+
+  geom_hline(yintercept=50, linetype="dashed")
 post.plot.split
 
 # Analysis of post-ratings collapsing across scenario
@@ -80,7 +88,7 @@ TukeyHSD(post_ratings.factorial)
 # Valence: Good > Bad
 #Intervention: Without > With
 #Realism: Unrealistic > the other two.
-#Valence*intervention: Effect of intervention for good but not bad valence ish, ns.
+#Valence*intervention: Effect of intervention for good but not bad valence ish, marginal.
 
 
 # Post-hoc analyses of pre-ratings (with scenario):
@@ -169,13 +177,25 @@ dat.diff.WI.bad <- dat.diff.WithoutIntervention %>% filter(Valence == 'Bad')
 t.test(dat.diff.WI.good$DifScore, mu=0)
 t.test(dat.diff.WI.bad$DifScore, mu=0)
 
+## CogSci revision: Mixed analysis with pre- and post-ratings.
+dat.combined.long <- dat.combined %>%
+  pivot_longer(c(PreRating,PostRating), names_to="Time", values_to="Rating")
+
+prepost.mixed <- mixed(Rating ~ Valence*Intervention*Realism*Time + (1|ResponseId), data=dat.combined.long)
+prepost.mixed 
+# ME of Realism; 2-way interactions Intervention*Realism, Valence*Time, Intervention*Time, and a Valence*Intervention*Time interaction.
+# Going back to the separate analyses of pre- and post-ratings, that would be the marginal valence * intervention interaction
+# in the post-ratings that is not in the pre-ratings. Interestingly there is no intervention*realism*time interaction
+# The other interactions with time track the MEs we see in Post but not Pre ratings.
+# In terms of conclusions, this adds Realism in as a factor, changes the valence*intervention interaction,
+# However the only meaningful differences should be in the post-ratings. So that's just main effects across the board.
 
 # Better-looking graphs
 RealismPalette <- c("#E69F00", "#56B4E9", "#F0E442")
 # Reorder realism to slightly-realistic-unrealistic order.
 dat.pre.scenario$Realism <- relevel(dat.pre.scenario$Realism,"Slightly")
 dat.post.scenario$Realism <- relevel(dat.post.scenario$Realism,"Slightly")
-pre.plot.split <- ggplot(dat.pre.scenario, aes(x = Valence, y=Rating, fill=Realism)) +
+pre.plot.split2 <- ggplot(dat.pre.scenario, aes(x = Valence, y=Rating, fill=Realism)) +
   facet_wrap(~Intervention)+
   geom_boxplot()+
   scale_y_continuous(limits=c(0,100)) +
@@ -184,10 +204,10 @@ pre.plot.split <- ggplot(dat.pre.scenario, aes(x = Valence, y=Rating, fill=Reali
   ylab("Prospective Rating") +
   theme(panel.background = element_rect(fill='white',color='white')) +
   theme(legend.position = "none")
-pre.plot.split
+pre.plot.split2
 
 
-post.plot.split <- ggplot(dat.post.scenario, aes(x = Valence, y=Rating, fill=Realism)) +
+post.plot.split2 <- ggplot(dat.post.scenario, aes(x = Valence, y=Rating, fill=Realism)) +
   facet_wrap(~Intervention)+
   geom_boxplot()+
   scale_y_continuous(limits=c(0,100)) +
@@ -196,9 +216,9 @@ post.plot.split <- ggplot(dat.post.scenario, aes(x = Valence, y=Rating, fill=Rea
   ylab("Retrospective Rating") +
   theme(panel.background = element_rect(fill='white',color='white')) +
   theme(legend.position = "none")
-post.plot.split
+post.plot.split2
 
-diff.plot.split <- ggplot(dat.diff.long, aes(x = Valence, y=Rating, fill=Realism)) +
+diff.plot.split2 <- ggplot(dat.diff.long, aes(x = Valence, y=Rating, fill=Realism)) +
   facet_wrap(~Intervention)+
   geom_bar(stat='summary', position='dodge') +
   geom_errorbar(stat="summary", width=.5, position=position_dodge(width=.9))+
@@ -206,4 +226,4 @@ diff.plot.split <- ggplot(dat.diff.long, aes(x = Valence, y=Rating, fill=Realism
   scale_fill_manual(values=RealismPalette) +
   ylab("Difference (Retrospective - Prospective)") +
   theme(panel.background = element_rect(fill='white',color='white'))
-diff.plot.split
+diff.plot.split2
