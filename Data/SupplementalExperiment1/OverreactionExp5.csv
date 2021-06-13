@@ -1,0 +1,45 @@
+﻿ResponseId,Risk,RandOrder,age,gender,race/eth,DamPercentage,DamInterventionYN,DamAlternative,DamRiskCheck,FirePercentage,FireInterventionYN,FireAlternative,FireRiskCheck,FocusCheck,GNG
+R_3g1Vr69VgCENifh,Low,FL_17|FL_23,44,Female,"White, not of Hispanic origin",13,0,,0,39,0,,0,1,0
+R_20MzgvVN84Izjip,Low,FL_17|FL_23,36,Male,"White, not of Hispanic origin",4,0,,1,9,0,,1,1,1
+R_Ryw5MaXxr8RnBFn,Low,FL_17|FL_23,27,Male,"White, not of Hispanic origin",4,1,They could do more minor renovations on the dam that would not require displacement since it was found to be in good working order.,1,29,1,"They could do better maintenance of tree branches, etc that would catch on fire due to overhanging the power lines.",1,1,1
+R_27q9Wc79SAnHNdw,High,FL_17|FL_23,27,Male,"White, not of Hispanic origin",51,0,,1,53,0,,1,1,1
+R_3MGcSsr0xxCPkuL,High,FL_23|FL_17,45,Female,"White, not of Hispanic origin",50,0,,1,85,1,maybe allow people to keep their power but to run it at lower temps or to have the areas wet down that are highest risk,1,1,1
+R_1o7N8lEC1IfT8yB,High,FL_23|FL_17,40,Male,Hispanic,20,0,,1,81,1,burn the dead trees,1,1,1
+R_2WutDw2aF3BBdcI,High,FL_23|FL_17,36,Male,"White, not of Hispanic origin",71,1,I would install temporary housing for the workers.,1,85,0,,1,1,1
+R_1Cmz6CWf4EGbL5P,High,FL_23|FL_17,31,Male,Asian/ Pacific Islander,51,0,,1,18,0,,1,1,1
+R_3R9yo6QPOov1mG5,High,FL_23|FL_17,37,Male,"White, not of Hispanic origin",91,0,,1,91,0,,1,1,1
+R_1Cwkkg6CRgeLL4S,Low,FL_17|FL_23,30,Male,Hispanic,0,0,,1,0,0,,0,1,0
+R_2YPUaNDJkfFKIPH,Low,FL_23|FL_17,46,Male,"White, not of Hispanic origin",2,1,House the equipment and workers elsewhere but nearby (if possible),1,2,1,Cut power after the summer was over.,1,1,1
+R_3PzAif9KbnEupRW,Low,FL_17|FL_23,36,Male,"White, not of Hispanic origin",3,0,,1,1,1,Build the powerlines underground in any high risk areas,1,1,1
+R_2ttj5EtjynvWyu2,High,FL_23|FL_17,38,Female,"White, not of Hispanic origin",56,0,,1,82,0,,1,1,1
+R_zZFa53codgqeDmh,Low,FL_23|FL_17,34,Male,"White, not of Hispanic origin",4,0,,1,9,0,,1,1,1
+R_2rYj7oz5HJ5CidX,High,FL_23|FL_17,25,Male,Asian/ Pacific Islander,60,0,,1,91,0,,1,1,1
+R_72PkMo9chpW1FcJ,Low,FL_17|FL_23,45,Male,"White, not of Hispanic origin",6,1,Minor renovations over a period of years,1,5,1,Deforestation,1,1,1
+R_1NfgGmmAZXEA4Fy,High,FL_23|FL_17,41,Female,"White, not of Hispanic origin",32,0,,1,89,1,Attempt to clean up the area near the lines so it doesn't spark fire,1,1,1
+R_1IKqrbBS7n52Qet,Low,FL_17|FL_23,54,Female,"White, not of Hispanic origin",0,1,Tiny houses and RV's for the workers. ,1,0,1,Suggest generators and provide ice machines and coolers.,1,1,1
+R_20V8yrXDJH5N0dr,High,FL_23|FL_17,30,Female,Black/ African American,60,1,"since it is a dam, the should draw the water out into another safe dam",1,70,0,,1,1,1
+R_3ffsxSoom1ztEwe,Low,FL_17|FL_23,35,Male,"White, not of Hispanic origin",2,0,,1,1,0,,1,1,1
+R_2P5U8iD7IAUKF5j,High,FL_17|FL_23,59,Female,"White, not of Hispanic origin",71,0,,1,91,1,Forest management = remove brushwood and create firebreaks.,1,1,1
+R_33l5agrxmMNLpgF,High,FL_23|FL_17,30,Male,Hispanic,49,0,,1,70,0,,1,1,1
+R_3ekpCcKP28OQbMJ,Low,FL_17|FL_23,49,Female,"White, not of Hispanic origin",19,0,,1,10,1,"Given that the risk is actually low, it may be a more prudent solution to cut power briefly to different portions of the population at different times. For example, perhaps shut power off to district 1 for 4 hours (not long enough for food to spoil), then restore 1 and cut power to district 2 for 4 hours, etc. That way, no one has an extended power cut, and risk of fire is still lessened somewhat.",1,1,1
+R_3HZfJBDaEoPaLB8,High,FL_23|FL_17,44,Male,"White, not of Hispanic origin",3,1,Divert the reservoir and take the dam out of service.,1,39,1,Work on improving the quality of the lines.  work towards insuring that the lines stop causing the fires.,1,1,1
+R_2tb80KjhxlHEQps,Low,FL_17|FL_23,62,Male,"White, not of Hispanic origin",14,1,"A temporary dam can be built upstream. Not having to deal with all that water will make the renovation cheaper, and the people shouldn't have to move, saving even more money.",1,15,1,Ongoing forest and brush management.,1,1,1
+R_2uIE7R7RWSZUKol,Low,FL_17|FL_23,38,Male,"White, not of Hispanic origin",5,1,"The dam's in good shape, so just keep an eye on it.",1,9,1,Abstain from taking any actions.,1,1,1
+R_248G2ovvg1SR6bQ,High,FL_17|FL_23,42,Male,Asian/ Pacific Islander,30,0,,0,61,0,,1,1,0
+R_1KpgayYVbjU5n8e,Low,FL_17|FL_23,48,Male,"White, not of Hispanic origin",6,0,,1,9,0,,1,1,1
+R_264rBX98uENwi6k,Low,FL_17|FL_23,24,Male,Asian/ Pacific Islander,1,0,,1,1,0,,1,1,1
+R_wY63jKcya68gm9H,High,FL_23|FL_17,49,Female,"White, not of Hispanic origin",66,0,,1,96,0,,1,1,1
+R_Tu3MdbLu2aslBzb,High,FL_17|FL_23,23,Female,"White, not of Hispanic origin",94,0,,1,91,0,,1,1,1
+R_3lM58qgoPFV9mGK,Low,FL_17|FL_23,26,Male,"Asian/ Pacific Islander,Black/ African American",2,0,,1,5,0,,1,1,1
+R_3mfuxiFMyj3z0rP,High,FL_17|FL_23,32,Male,"White, not of Hispanic origin",22,0,,1,71,0,,1,1,1
+R_cImaPehRlsqmqwp,Low,FL_17|FL_23,44,Male,"American Indian/ Alaska Native,White, not of Hispanic origin",2,0,,1,4,1,PRovide each person affected with generators and fuel while power is disrupted.,0,1,0
+R_1Ii0drcqU1BcgcK,Low,FL_23|FL_17,31,Male,"White, not of Hispanic origin",1,1,Delay renovating the dam and continue monitoring its condition.,1,2,1,aggressively monitoring for small fires and/or faulty power lines.,1,1,1
+R_8CFt5yxUIz6ANZ7,High,FL_23|FL_17,30,Male,"White, not of Hispanic origin",75,0,,1,79,0,,1,1,1
+R_1Nqwm27p9vyIBmi,High,FL_17|FL_23,34,Female,Asian/ Pacific Islander,60,0,,1,74,1,Provide people with generators or something else that consumes less power in the meantime,1,1,1
+R_1MX83RD65UpRTYm,Low,FL_23|FL_17,40,Male,"White, not of Hispanic origin",0,0,,1,5,1,clearing old brush so it stops fires,1,1,1
+R_3Dtponb6VuBaP2R,High,FL_17|FL_23,52,Female,"White, not of Hispanic origin",29,1,"Hire the locals to work on the dam, bus any needed workers from other towns, ",1,13,1,"Alternate areas and times to take power outages, keeping power out for only a few hours so that food didn't spoil",1,1,1
+R_1DB7jMw8F9HGcz5,Low,FL_23|FL_17,32,Male,Hispanic,1,1,Work on the renovations in smaller parts. ,1,4,1,"Ask residents to conserve, provide access to pools and other facilities that are cooled. ",1,1,1
+R_5vZBMaAJpd7bUT7,Low,FL_23|FL_17,61,Female,"White, not of Hispanic origin",1,1,Do the renovations over a longer period of time spreading out the cost and not having to take up so much room with all the equipment,1,3,1,Update the wiring so it doesn't spark,1,1,1
+R_1QsjpRUfqk10r3m,Low,FL_17|FL_23,28,Male,"American Indian/ Alaska Native,Hispanic",0,0,,1,0,0,,1,1,1
+R_1GUpUOSOh38uXxf,Low,FL_17|FL_23,36,Male,"White, not of Hispanic origin",1,1,Have the renovation take place over five years to lower the footprint and allow townspeople to not be displaced.,1,28,0,,1,1,1
+R_xaav2Xf4OAYvLAR,High,FL_23|FL_17,34,Male,"White, not of Hispanic origin",76,0,,1,92,1,"maintaining power lines better, so there is a lower risk of them starting a fire.",1,1,1

@@ -6,8 +6,8 @@ library(pwr)
 library(lsr)
 library(afex)
 library(effsize)
-setwd("../../data/Experiment2")
-setwd("~/Desktop/Active Studies/Overreaction/data/Experiment 2")
+setwd("../../Data/SupplementalExperiment2")
+#setwd("~/Desktop/Active Studies/Overreaction/data/Experiment 2")
 
 dat <- read.csv("OverreactionExp2.csv")
 
@@ -88,8 +88,26 @@ TukeyHSD(post_ratings.factorial)
 # Valence: Good > Bad
 #Intervention: Without > With
 #Realism: Unrealistic > the other two.
-#Valence*intervention: Effect of intervention for good but not bad valence ish, marginal.
+#Valence*intervention: Effect of intervention for good but not bad valence, but marginal.
+# t-tests of difference from 50
+dat.post.badoutcomes <- dat.combined %>%
+  filter(Valence=="Bad")
+t.test(dat.post.badoutcomes$PostRating, mu=50)
+# Sig greater than 50
+dat.post.gooddoutcomes <- dat.combined %>%
+  filter(Valence=="Good")
+t.test(dat.post.gooddoutcomes$PostRating, mu=50) 
+# Likewise
+# Split to each individual cell
 
+dat.combined.grouped <- dat.combined %>%
+  group_by(Valence, Realism, Intervention)%>%
+  group_map(~ t.test(.x$PostRating, mu=50))
+print(dat.combined.grouped)
+dat.combined.summary <- dat.combined %>%
+  group_by(Valence, Realism, Intervention)%>%
+  summarize(meanPost=mean(PostRating), .groups="keep")
+# Significantly above 50 for B/S/W, B/U/I, B/U/W, and every good-outcome condition.
 
 # Post-hoc analyses of pre-ratings (with scenario):
 pre_ratings.sceanrio = mixed(Rating~Valence*Intervention*Realism*Scenario + (1|ResponseId),data=dat.pre.scenario)
@@ -222,8 +240,26 @@ diff.plot.split2 <- ggplot(dat.diff.long, aes(x = Valence, y=Rating, fill=Realis
   facet_wrap(~Intervention)+
   geom_bar(stat='summary', position='dodge') +
   geom_errorbar(stat="summary", width=.5, position=position_dodge(width=.9))+
+  #geom_point(position=position_jitterdodge(jitter.width=.4, dodge.width=.9), size=.3, alpha=.4)+
+  ggtitle("B")+
   geom_hline(yintercept=0)+
   scale_fill_manual(values=RealismPalette) +
   ylab("Difference (Retrospective - Prospective)") +
-  theme(panel.background = element_rect(fill='white',color='white'))
+  theme(panel.background = element_rect(fill='white',color='white'))+
+  theme(text=element_text(size=20)) 
 diff.plot.split2
+
+post.plot.split3 <- ggplot(dat.post.scenario, aes(x = Valence, y=Rating-50, fill=Realism)) +
+  facet_wrap(~Intervention)+
+  geom_bar(stat="summary", position=position_dodge(width=.9)) +
+  geom_errorbar(stat="summary", aes(ymin=Rating-sd(Rating)/sqrt(480), ymax=Rating+sd(Rating)/sqrt(480)), position=position_dodge(width=.9), width=.3) +
+  geom_point(position=position_jitterdodge(jitter.width=.4, dodge.width=.9), size=.3, alpha=.4)+
+  scale_y_continuous(limits=c(-50,50), labels=c(0, 25, 50, 75, 100)) +
+  scale_fill_manual(values=RealismPalette) +
+  geom_hline(yintercept=0) + 
+  ggtitle("A")+
+  ylab("Retrospective Overreaction Rating") +
+  theme(panel.background = element_rect(fill='white',color='white'))+
+  theme(text=element_text(size=20)) 
+post.plot.split3
+

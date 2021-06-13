@@ -6,7 +6,7 @@ library(pwr)
 library(lsr)
 library(afex)
 library(effsize)
-setwd("../../data/Experiment3")
+setwd("../../data/Experiment2")
 #setwd("~/Desktop/Active Studies/Overreaction/data/Experiment 3")
 
 dat <- read.csv("OverreactionExp3.csv")

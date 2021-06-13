@@ -12,7 +12,7 @@ library(rjags)
 library(Hmisc)
 
 #setwd("~/Desktop/Active Studies/Overreaction/data/Experiment 4")
-setwd("../../Data/Experiment4")
+setwd("../../Data/Experiment3")
 dat <- read.csv('OverreactionExp4.csv')
 dat.good <- dat %>% filter(GNG == 1) %>%
   mutate(SeverityScore = HadCOVID*(6-as.numeric(HadSeverity)))
